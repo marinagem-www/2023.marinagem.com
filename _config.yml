@@ -79,11 +79,11 @@ prose:
         field:
           element: "hidden"
           value: "true"
-      - name: "title"
+      - name: "ptitle"
         field:
           element: "text"
-          label: "Page Title"
-          placeholder: "Name of Project"
+          label: "Project Title"
+          placeholder: "Great Project"
       - name: "description"
         field:
           element: "text"
@@ -106,9 +106,9 @@ prose:
           value: 2000
       - name: "cover"
         field:
-          element: "text"
-          label: "Cover Image URL"
-          placeholder: "imgs/project-name/cover.jpg"
+          element: "image"
+          placeholder: "default-image.jpg"
+          label: "Project Cover Image"
       - name: "category"
         field:
           element: "select"

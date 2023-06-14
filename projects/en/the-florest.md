@@ -1,7 +1,7 @@
 ---
 published: true
 year: 2022
-title: The Florest
+ptitle: The Florest
 description: Site-specific installation
 medium: Green chroma key painted wall with a hole to the outside and light reflectors
 dimensions: Variable dimensions
