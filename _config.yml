@@ -84,6 +84,26 @@ prose:
           element: "text"
           label: "Page Title"
           placeholder: "Name of Project"
+      - name: "description"
+        field:
+          element: "text"
+          label: "Project Description"
+          placeholder: "Site-specific installation"
+      - name: "medium"
+        field:
+          element: "text"
+          label: "Project Medium"
+          placeholder: "Oil on canvas"
+      - name: "dimensions"
+        field:
+          element: "text"
+          label: "Project Dimensions"
+          placeholder: "Variable Dimensions"
+      - name: "year"
+        field:
+          element: "number"
+          label: "Project Year"
+          value: 2000
       - name: "cover"
         field:
           element: "text"
