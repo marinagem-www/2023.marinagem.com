@@ -3,14 +3,6 @@
 
 @import 'constants';
 
-$SECTION-ALIGN: (
-  "sun": flex-start,
-  "water": flex-end,
-  "florest": flex-start,
-  "minerals": center,
-  "machines": flex-start,
-);
-
 .home-container {
   display: flex;
   flex-direction: row;
@@ -35,10 +27,10 @@ $SECTION-ALIGN: (
     color: $TEXT-COLOR;
   }
 
-  @each $class, $color in $SECTION-BACKGROUND-COLOR {
-    &.#{$class} {
-      background-color: #{$color};
-      align-items: map-get($SECTION-ALIGN, $class);
-    }
+  {% for s in site.data.sections %}
+  &.{{ s[0]}} {
+    background-color: {{ s[1]['color'] }};
+    align-items:  {{ s[1]['home-align'] }};
   }
+  {% endfor %}
 }
