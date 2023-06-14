@@ -17,14 +17,16 @@ $SECTION-ALIGN: (
   width: 100%;
   height: 100vh;
   background-color: #cdf400;
+  box-sizing: border-box;
 }
 
-.home-strip {
-  flex-grow: 1;
+.home-section {
   display: flex;
+  flex-basis: 100%;
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
+  box-sizing: border-box;
   user-select: none;
 
   .text {
