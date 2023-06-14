@@ -1,0 +1,11 @@
+{% assign to_bcp47 = site.data.lang.to_bcp47 %}
+
+{% assign langs_s = "" %}
+{% for l in to_bcp47 %}
+{% assign langs_s = langs_s | append: l[0] | append: "," %}
+{% endfor %}
+
+{% assign langs = langs_s | split: "," | compact %}
+
+{% assign other_langs = langs | where_exp:"lang","lang != page.lang" %}
+{% assign lang_bcp47 = to_bcp47[page.lang] %}

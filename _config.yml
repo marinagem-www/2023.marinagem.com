@@ -1,4 +1,5 @@
 title: Mari Nagem
+description: "site description"
 
 url: https://2023.marinagem.com
 baseurl: ''
@@ -21,23 +22,29 @@ defaults:
     values:
       layout: "page"
       permalink: /en/:basename/
+      lang: en
   -
     scope:
       path: "pages/pt"
     values:
       layout: "page"
       permalink: /pt/:basename/
+      lang: pt
   -
     scope:
       path: "projects/en"
     values:
       layout: "project"
       permalink: /en/:basename/
+      lang: en
   -
     scope:
       path: "projects/pt"
     values:
       layout: "project"
       permalink: /pt/:basename/
+      lang: pt
 
-
+social:
+  facebook_user: "fbu"
+  twitter_user: "twu"
