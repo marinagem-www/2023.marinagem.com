@@ -1,12 +1,16 @@
-<link rel="alternate" hreflang="{{ to_bcp47[page.lang] | downcase }}" href="{{ include.full_url }}" />
+<link rel="alternate"
+      hreflang="{{ to_bcp47[page.lang] | downcase }}"
+      href="{{ page.url | absolute_url }}" />
 
 {% if page.url contains page.lang %}
-  {% assign langd_url = include.full_url %}
+  {% assign langd_url = page.url | absolute_url %}
 {% else %}
-  {% assign langd_url = include.base_url | append: "/" | append: page.lang | append: page.url %}
+  {% assign langd_url = page.lang | append: page.url | absolute_url %}
 {% endif %}
 
 {% for l in other_langs %}
-  {% assign l_url = langd_url | replace: page.lang, l %}
-  <link rel="alternate" hreflang="{{ to_bcp47[l] | downcase }}" href="{{ l_url }}" />
+  {% assign l_url = langd_url | replace: page.lang, l | replace: "/en", "" %}
+  <link rel="alternate"
+        hreflang="{{ to_bcp47[l] | downcase }}"
+        href="{{ l_url }}" />
 {% endfor %}

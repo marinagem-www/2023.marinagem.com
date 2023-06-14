@@ -3,11 +3,8 @@
     <meta http-equiv="Refresh" content="0; url='../'" />
   {% endif %}
 
-  {% assign base_url = site.url | append: site.baseurl %}
-  {% assign full_url = base_url | append: page.url %}
-
-  {% include head/head-meta.html base_url=base_url %}
-  {% include head/head-lang.html base_url=base_url full_url=full_url %}
+  {% include head/head-meta.html %}
+  {% include head/head-lang.html %}
 
   <title>{{ page.title }}</title>
 </head>

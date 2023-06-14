@@ -5,7 +5,7 @@
 
 <meta property="og:title" content="{{page.title}}">
 <meta property="og:type" content="article">
-<meta property="og:url" content="{{include.base_url}}{{page.url}}">
+<meta property="og:url" content="{{page.url | absolute_url }}">
 <meta property="og:site_name" content="{{site.title}}">
 <meta property="article:publisher" content="{{site.social.facebook_user}}">
 
@@ -17,11 +17,11 @@
 <meta name="twitter:description" content="{{ description }}">
 <meta property="og:description" content="{{ description }}">
 
-{% assign coverImagePath = include.base_url | append: "/assets/covers/cover.jpg" %}
+{% assign page_cover = "assets/covers/cover.jpg" | absolute_url %}
 
 {% if page.cover %}
-  {% assign coverImagePath = include.base_url | append: page.cover %}
+  {% assign page_cover = page.cover | absolute_url %}
 {% endif %}
 
-<meta name="twitter:image" content="{{ coverImagePath }}">
-<meta property="og:image" content="{{ coverImagePath }}">
+<meta name="twitter:image" content="{{ page_cover }}">
+<meta property="og:image" content="{{ page_cover }}">

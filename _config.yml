@@ -1,8 +1,10 @@
 title: Mari Nagem
 description: "site description"
+keywords: "key, words"
 
 url: https://2023.marinagem.com
-baseurl: ''
+# baseurl: "/2023"
+baseurl: ""
 exclude: [.git, .gitignore, .sass-cache, README.md]
 
 markdown: kramdown
@@ -21,7 +23,7 @@ defaults:
       path: "pages/en"
     values:
       layout: "page"
-      permalink: /en/:basename/
+      permalink: /:basename/
       lang: en
   -
     scope:
@@ -35,7 +37,7 @@ defaults:
       path: "projects/en"
     values:
       layout: "project"
-      permalink: /en/:basename/
+      permalink: /:basename/
       lang: en
   -
     scope:
