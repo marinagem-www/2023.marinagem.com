@@ -1,11 +1,20 @@
 $TEXT-COLOR: #444;
 $BACKGROUND-COLOR: #fff;
+$SECTION-BACKGROUND-COLOR: (
+  "sun": yellow,
+  "water": blue,
+  "florest": green,
+  "minerals": tan,
+  "machines": grey,
+);
 
 $TRANSITION-PERIOD: 0.12s;
 $DESKTOP_WITH: 800px;
 
 @mixin media-query($canvas) {
   @if $canvas == DESKTOP {
-   @media only screen and (min-width: $DESKTOP_WITH) { @content; }
+    @media only screen and (min-width: $DESKTOP_WITH) {
+      @content;
+    }
   }
 }

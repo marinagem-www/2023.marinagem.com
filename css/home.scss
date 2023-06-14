@@ -3,3 +3,40 @@
 
 @import 'constants';
 
+$SECTION-ALIGN: (
+  "sun": flex-start,
+  "water": flex-end,
+  "florest": flex-start,
+  "minerals": center,
+  "machines": flex-start,
+);
+
+.home-container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 100vh;
+  background-color: #cdf400;
+}
+
+.home-strip {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  user-select: none;
+
+  .text {
+    cursor: pointer;
+    text-decoration: none;
+    color: $TEXT-COLOR;
+  }
+
+  @each $class, $color in $SECTION-BACKGROUND-COLOR {
+    &.#{$class} {
+      background-color: #{$color};
+      align-items: map-get($SECTION-ALIGN, $class);
+    }
+  }
+}
