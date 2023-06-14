@@ -1,10 +1,16 @@
 <head>
   {% if page.permalink == '/en/' %}
-    <meta http-equiv="Refresh" content="0; url='../'" />
+  <meta http-equiv="Refresh" content="0; url='../'" />
   {% endif %}
 
   {% include head/head-meta.html %}
   {% include head/head-lang.html %}
+
+  <link rel="stylesheet" href="{{ 'css/main.css' | relative_url }}">
+
+  {% if include.layout %}
+  <link rel="stylesheet" href="{{ 'css/L.css' | replace: 'L', include.layout | relative_url }}">
+  {% endif %}
 
   <title>{{ page.title }}</title>
 </head>

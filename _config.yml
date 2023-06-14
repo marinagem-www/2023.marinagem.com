@@ -5,19 +5,26 @@ keywords: "key, words"
 url: https://2023.marinagem.com
 # baseurl: "/2023"
 baseurl: ""
-exclude: [.git, .gitignore, .sass-cache, README.md]
+exclude: [
+  .git,
+  .gitignore,
+  Gemfile,
+  Gemfile.lock,
+  README.md,
+  .sass-cache/,
+  .jekyll-cache/,
+  gemfiles/,
+  node_modules/
+]
+
+sass:
+  sass_dir: css/_sass
 
 markdown: kramdown
 encoding: utf-8
 port: 4234
 
 defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "page"
-      permalink: /:path/:basename/
   -
     scope:
       path: "pages/en"
