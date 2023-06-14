@@ -2,8 +2,8 @@
 published: true
 ptitle: Dive In
 category: water
-year: 2020
-medium: 'Concreto, madeira, pintura acrílica e refletor'
+year: 2020 - 2021
+medium: 'Concrete, wood, acrylic paint and light'
 description: Ongoing series
 dimensions: Variable dimensions
 ---
