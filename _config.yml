@@ -1,0 +1,43 @@
+title: Mari Nagem
+
+url: https://2023.marinagem.com
+baseurl: ''
+exclude: [.git, .gitignore, .sass-cache, README.md]
+
+markdown: kramdown
+encoding: utf-8
+port: 4234
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "page"
+      permalink: /:path/:basename/
+  -
+    scope:
+      path: "pages/en"
+    values:
+      layout: "page"
+      permalink: /en/:basename/
+  -
+    scope:
+      path: "pages/pt"
+    values:
+      layout: "page"
+      permalink: /pt/:basename/
+  -
+    scope:
+      path: "projects/en"
+    values:
+      layout: "project"
+      permalink: /en/:basename/
+  -
+    scope:
+      path: "projects/pt"
+    values:
+      layout: "project"
+      permalink: /pt/:basename/
+
+
