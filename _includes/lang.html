@@ -10,4 +10,4 @@
 {% assign other_langs = langs | where_exp:"lang","lang != page.lang" %}
 {% assign lang_bcp47 = to_bcp47[page.lang] %}
 
-{% lang_pages = site.html_pages | where: "lang",page.lang %}
+{% assign lang_pages = site.html_pages | where: "lang",page.lang %}
