@@ -57,3 +57,51 @@ defaults:
 social:
   facebook_user: "fbu"
   twitter_user: "twu"
+
+# prose.io
+prose:
+  media: "imgs"
+  ignore:
+    - .gitignore
+    - CNAME
+    - _config.yml
+    - _data
+    - _includes
+    - _layouts
+    - _pages
+    - css
+    - js
+    - imgs/favicons
+    - imgs/swipebox
+  metadata:
+    projects:
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Page Title"
+          placeholder: "Name of Project"
+      - name: "cover"
+        field:
+          element: "text"
+          label: "Cover Image URL"
+          placeholder: "imgs/project-name/cover.jpg"
+      - name: "category"
+        field:
+          element: "multiselect"
+          label: "Project Category"
+          placeholder: "Choose Category"
+          options:
+            - name: 'The Sun'
+              value: 'sun'
+            - name: 'The Water'
+              value: 'water'
+            - name: 'The Florest!'
+              value: 'florest'
+            - name: 'The Minerals'
+              value: 'minerals'
+            - name: 'The Machines'
+              value: 'machines'
