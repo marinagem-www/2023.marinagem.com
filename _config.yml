@@ -91,17 +91,17 @@ prose:
           placeholder: "imgs/project-name/cover.jpg"
       - name: "category"
         field:
-          element: "multiselect"
+          element: "select"
           label: "Project Category"
           placeholder: "Choose Category"
           options:
-            - name: 'The Sun'
+            - name: 'sun'
               value: 'sun'
-            - name: 'The Water'
+            - name: 'water'
               value: 'water'
-            - name: 'The Florest!'
+            - name: 'florest'
               value: 'florest'
-            - name: 'The Minerals'
+            - name: 'minerals'
               value: 'minerals'
-            - name: 'The Machines'
+            - name: 'machines'
               value: 'machines'
