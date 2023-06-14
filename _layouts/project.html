@@ -1,10 +1,19 @@
 {% include lang.html %}
 
 <html lang="{{ lang_bcp47 }}">
-  {% include head.html %}
+  {% include head.html layout="project" %}
   <body>
-    <h3>Layout: {{ page.layout }}</h3>
-    <h4>Title: {{ page.title }}</h4>
-    <div>{{ content }}</div>
+    <div class="project-container">
+      <div class="menu-container {{ page.category }}">
+        <!-- TODO: generate menu -->
+      </div>
+      <div class="content-container">
+        {{ page.title }}<br/>
+        {{ page.year }}<br/>
+        {{ page.medium }}<br/>
+        {{ site.data.sections[page.category][page.lang] }} <br/>
+        {{ page.cover }}
+      </div>
+    </div>
   </body>
 </html>
