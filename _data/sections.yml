@@ -1,4 +1,4 @@
-sun: 
+sun:
   en: "The Sun"
   pt: "O Sol"
   color: yellow
@@ -8,17 +8,17 @@ water:
   pt: "A Água"
   color: blue
   home-align: flex-end
-florest: 
-  en: "The Florest"
+forest:
+  en: "The Forest"
   pt: "A Floresta"
   color: green
   home-align: flex-start
-minerals: 
+minerals:
   en: "The Minerals"
   pt: "Os Minerais"
   color: tan
   home-align: center
-machines: 
+machines:
   en: "The Machines"
   pt: "As Máquinas"
   color: grey
