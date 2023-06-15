@@ -2,7 +2,11 @@
 {% assign ordered_pages = cat_pages | sort: "year" | reverse %}
 
 {% for p in ordered_pages %}
-  <div class="menu-item">
+  {% assign mclass = "menu-item" %}
+  {% if p.url == page.url %}
+    {% assign mclass = "menu-item selected" %}
+  {% endif %}
+  <a class="{{ mclass }}" href="{{ p.url | relative_filter }}">
     {{ p.ptitle }}
-  </div>
+  </a>
 {% endfor %}

@@ -18,8 +18,13 @@
   box-sizing: border-box;
 
   .menu-item {
-    width: 100%;
+    display: inline-block;
     box-sizing: border-box;
+    text-decoration: none;
+    color: #fff;
+    &.selected {
+      color: #999;
+    }
   }
 
   {% for s in site.data.sections %}
