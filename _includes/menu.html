@@ -1,0 +1,8 @@
+{% assign cat_pages = lang_pages | where:"category",page.category %}
+{% assign ordered_pages = cat_pages | sort: "year" | reverse %}
+
+{% for p in ordered_pages %}
+  <div class="menu-item">
+    {{ p.ptitle }}
+  </div>
+{% endfor %}

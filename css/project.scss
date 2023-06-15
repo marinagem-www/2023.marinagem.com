@@ -10,9 +10,17 @@
 }
 
 .menu-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
   width: 20%;
   height: 100vh;
   box-sizing: border-box;
+
+  .menu-item {
+    width: 100%;
+    box-sizing: border-box;
+  }
 
   {% for s in site.data.sections %}
   &.{{ s[0]}} {

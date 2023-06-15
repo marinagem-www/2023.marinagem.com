@@ -5,9 +5,10 @@
   <body>
     <div class="home-container">
       {% for s in site.data.sections %}
-        {% assign sproj = lang_pages | where:"category",s[0] | sort_natural: "url" | first %}
+        {% assign cat_pages = lang_pages | where:"category",s[0] %}
+        {% assign lproj = cat_pages | sort: "year" | reverse | first %}
         <div class="home-section {{ s[0] }}">
-          <a class="text" href="{{ sproj.url | relative_url }}">{{ s[1][page.lang] }}</a>
+          <a class="text" href="{{ lproj.url | relative_url }}">{{ s[1][page.lang] }}</a>
         </div>
       {% endfor %}
     </div>
