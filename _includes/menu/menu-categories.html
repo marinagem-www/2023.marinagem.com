@@ -1,5 +1,5 @@
 <div class="menu-categories">
-  {% for s in site.data.sections %}
+  {% for s in site.data.categories %}
     {% assign cat_pages = lang_pages | where:"category",s[0] %}
     {% assign lproj = cat_pages | sort: "year" | reverse | first %}
 

@@ -35,7 +35,7 @@
     }
   }
 
-  {% for s in site.data.sections %}
+  {% for s in site.data.categories %}
   &.{{ s[0]}} {
     background-color: {{ s[1]['color'] }};
   }

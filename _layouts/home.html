@@ -4,10 +4,10 @@
   {% include head.html layout="home" %}
   <body>
     <div class="home-container">
-      {% for s in site.data.sections %}
+      {% for s in site.data.categories %}
         {% assign cat_pages = lang_pages | where:"category",s[0] %}
         {% assign lproj = cat_pages | sort: "year" | reverse | first %}
-        <div class="home-section {{ s[0] }}">
+        <div class="home-category {{ s[0] }}">
           <a class="text" href="{{ lproj.url | relative_url }}">{{ s[1][page.lang] }}</a>
         </div>
       {% endfor %}
