@@ -1,4 +1,8 @@
 <div class="menu-container {{ page.category }}">
+  <div class="menu-title-container">
+    {% assign cat_title = site.data.categories[page.category][page.lang] %}
+    <div class="menu-title">{{ cat_title }}</div>
+  </div>
   {% include menu/menu-projects.html %}
   {% include menu/menu-categories.html %}
 </div>

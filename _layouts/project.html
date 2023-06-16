@@ -6,11 +6,21 @@
     <div class="project-container">
       {% include menu.html %}
       <div class="content-container">
-        {{ page.ptitle }}<br/>
-        {{ page.year }}<br/>
-        {{ page.medium }}<br/>
-        {{ site.data.categories[page.category][page.lang] }} <br/>
-        {{ page.cover }}
+        <div class="project-cover">
+          <!-- TODO: page.cover -->
+        </div>
+        <div class="project-info-container">
+          <div class="project-title {{ page.category }}">
+            {{ page.ptitle }}, {{ page.year }}
+          </div>
+          <div class="project-info">
+            {{ page.description }}<br/>
+            {{ page.medium }}
+          </div>
+        </div>
+        <div class="project-text">
+          {{ content }}
+        </div>
       </div>
     </div>
   </body>

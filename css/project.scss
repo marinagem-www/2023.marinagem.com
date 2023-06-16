@@ -14,24 +14,38 @@
   position: sticky;
   top: 0;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: flex-start;
   width: 20%;
   height: 100vh;
+
+  .menu-title-container {
+    width: 100%;
+    padding: 10% 0;
+
+    .menu-title {
+      text-transform: uppercase;
+      font-weight: 700;
+      font-size: 2rem;
+      color: #fff;
+    }
+  }
 
   .menu-projects, .menu-categories {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
+    flex-grow: 1;
   }
 
   .menu-item {
     display: inline-block;
     text-decoration: none;
+    font-weight: 500;
     color: #fff;
 
     &.selected {
-      color: #999;
+      color: #444;
       pointer-events: none;
     }
   }
@@ -45,4 +59,42 @@
 
 .content-container {
   flex-grow: 1;
+  max-width: 900px;
+  margin: 0 auto;
+
+  .project-cover {
+    width: 100%;
+    min-height: 500px;
+    margin: 0 auto;
+    background-color: #777;
+  }
+
+  .project-info-container {
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+
+    .project-title {
+      width: 50%;
+      font-size: 1.1rem;
+      font-weight: 500;
+
+      {% for s in site.data.categories %}
+      &.{{ s[0]}} {
+        color: {{ s[1]['color'] }};
+      }
+      {% endfor %}
+
+    }
+
+    .project-info {
+      width: 50%;
+    }
+  }
+
+  .project-text {
+    width: 60%;
+    margin: 0 auto;
+  }
 }
