@@ -11,17 +11,25 @@
 
 .menu-container {
   display: flex;
+  position: sticky;
+  top: 0;
   flex-direction: column;
-  justify-content: flex-start;
+  justify-content: space-between;
   width: 20%;
   height: 100vh;
-  box-sizing: border-box;
+
+  .menu-projects, .menu-categories {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
 
   .menu-item {
     display: inline-block;
-    box-sizing: border-box;
     text-decoration: none;
     color: #fff;
+
     &.selected {
       color: #999;
     }

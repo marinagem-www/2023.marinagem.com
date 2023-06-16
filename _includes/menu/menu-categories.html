@@ -1,0 +1,12 @@
+<div class="menu-categories">
+  {% for s in site.data.sections %}
+    {% assign cat_pages = lang_pages | where:"category",s[0] %}
+    {% assign lproj = cat_pages | sort: "year" | reverse | first %}
+
+    {% unless s[0] == page.category %}
+      <a class="menu-item" href="{{ lproj.url | relative_filter }}">
+        {{ s[1][page.lang] }}
+      </a>
+    {% endunless %}
+  {% endfor %}
+</div>
