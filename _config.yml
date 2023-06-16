@@ -24,6 +24,10 @@ markdown: kramdown
 encoding: utf-8
 port: 4234
 
+social:
+  facebook_user: "fbu"
+  twitter_user: "twu"
+
 defaults:
   -
     scope:
@@ -53,10 +57,6 @@ defaults:
       layout: "project"
       permalink: /pt/:basename/
       lang: pt
-
-social:
-  facebook_user: "fbu"
-  twitter_user: "twu"
 
 # prose.io
 prose:
