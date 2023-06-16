@@ -1,0 +1,56 @@
+---
+---
+
+@import 'constants';
+
+.menu-container {
+  display: flex;
+  position: sticky;
+  top: 0;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 20%;
+  height: 100vh;
+  
+  .menu-title-container {
+    width: 100%;
+    padding: 10% 0;
+
+    .menu-title {
+      text-transform: uppercase;
+      font-weight: 700;
+      font-size: 2rem;
+      color: #fff;
+    }
+  }
+  
+  .menu-projects, .menu-categories {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-grow: 1;
+  }
+
+  .menu-categories {
+    justify-content: flex-end;
+  }
+  
+  .menu-item {
+    display: inline-block;
+    text-decoration: none;
+    font-weight: 500;
+    color: #fff;
+
+    &.selected {
+      color: #444;
+      pointer-events: none;
+    }
+  }
+  
+  {% for s in site.data.categories %}
+  &.{{ s[0]}} {
+    background-color: {{ s[1]['color'] }};
+  }
+  {% endfor %}
+}
