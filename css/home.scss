@@ -22,7 +22,10 @@
   .text {
     cursor: pointer;
     text-decoration: none;
-    color: $TEXT-COLOR;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 600;
+    font-size: 2.3rem;
   }
 
   {% for s in site.data.categories %}
