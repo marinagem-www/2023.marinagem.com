@@ -1,0 +1,19 @@
+{% assign home_url = "/L/" | replace: "L", page.lang | replace: "/en", "" %}
+{% assign about_url = home_url | append: "about" %}
+{% assign contact_url = home_url | append: "contact" %}
+{% assign archive_url = home_url | append: "archive" %}
+
+<div class="overlay-container">
+  <a class="overlay-link home-link" href="{{ home_url | relative_url }}">
+    MariNagem
+  </a>
+  <a class="overlay-link about-link" href="{{ about_url | relative_url }}">
+    about
+  </a>
+  <a class="overlay-link contact-link" href="{{ contact_url | relative_url }}">
+    Contact
+  </a>
+  <a class="overlay-link archive-link" href="{{ archive_url | relative_url }}">
+    archive
+  </a>
+</div>
