@@ -7,8 +7,10 @@
     <div class="project-container">
       {% include menu.html %}
       <div class="content-container">
-        <div class="project-cover">
-          <!-- TODO: page.cover -->
+        <div class="project-cover-container">
+          {% if page.cover %}
+            <img src="{{ page.cover | relative_url }}">
+          {% endif %}
         </div>
         <div class="project-info-container">
           <div class="project-title {{ page.category }}">
