@@ -69,6 +69,7 @@ prose:
     - _includes
     - _layouts
     - _pages
+    - assets
     - css
     - js
     - imgs/favicons
