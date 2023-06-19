@@ -107,9 +107,9 @@ prose:
           placeholder: "2000"
       - name: "cover"
         field:
-          element: "image"
-          placeholder: "default-image.jpg"
+          element: "text"
           label: "Project Cover Image"
+          placeholder: "imgs/default-image.jpg"
       - name: "category"
         field:
           element: "select"
