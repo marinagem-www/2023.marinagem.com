@@ -1,6 +1,6 @@
 ---
 published: true
-year: 2022
+year: '2022'
 ptitle: Tentativas de Controlar o Foco
 description: Instalação
 medium: Papel, clorofila, fogo e acrílico

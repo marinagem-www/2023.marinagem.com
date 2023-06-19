@@ -2,7 +2,7 @@
 published: true
 ptitle: O Mergulho
 category: water
-year: 2020 - 2021
+year: '2020 - 2021'
 description: Série contínua
 medium: 'Concreto, madeira, pintura acrílica e refletor'
 dimensions: Dimensões variáveis

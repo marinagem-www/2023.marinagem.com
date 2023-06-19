@@ -1,6 +1,6 @@
 ---
 published: true
-year: 2022
+year: '2022'
 ptitle: Focus Deviation
 description: Installation
 medium: Paper, chlorophyll, fire and acrylic sheet

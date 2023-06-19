@@ -1,6 +1,6 @@
 ---
 published: true
-year: 2022
+year: '2022'
 ptitle: A Floresta
 description: Instalação site-specific
 medium: Parede pintada com recorte e refletores

@@ -2,7 +2,7 @@
 published: true
 ptitle: Sob o Sol
 category: sun
-year: 2020 - 2021
+year: '2020 - 2021'
 medium: 'Mídias variadas'
 description: Série contínua
 dimensions: Dimensões variáveis

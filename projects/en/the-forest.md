@@ -1,6 +1,6 @@
 ---
 published: true
-year: 2022
+year: '2022'
 ptitle: The Forest
 description: Site-specific installation
 medium: Green chroma key painted wall with a hole to the outside and light reflectors

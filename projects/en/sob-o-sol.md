@@ -2,7 +2,7 @@
 published: true
 ptitle: Under The Sun
 category: sun
-year: 2020 - 2021
+year: '2020 - 2021'
 medium: 'Mixed media'
 description: Ongoing series
 dimensions: Variable dimensions

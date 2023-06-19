@@ -1,6 +1,6 @@
 ---
 published: true
-year: 2022
+year: '2022'
 ptitle: A Evolução das Espécies
 description: Instalação site-specific
 medium: Dracaena trifasciata, tubo luminoso, escultura em metal, pintura automotiva e terra
