@@ -15,16 +15,17 @@
   max-width: 900px;
   margin: 0 auto;
 
+  img {
+    display: block;
+    width: 100%;
+    cursor: pointer;
+  }
+
   .project-cover-container {
     width: 100%;
     min-height: 500px;
     margin: 0 auto;
     background-color: #777;
-
-    img {
-      display: block;
-      width: 100%;
-    }
   }
 
   .project-info-container {
@@ -68,11 +69,6 @@
 
     p.vertical:has(img) {
       width: 50%;
-    }
-
-    img {
-      display: block;
-      width: 100%;
     }
 
     img + em {
