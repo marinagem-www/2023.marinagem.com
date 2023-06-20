@@ -73,7 +73,6 @@ prose:
     - css
     - js
     - imgs/favicons
-    - imgs/swipebox
   metadata:
     projects:
       - name: "published"
