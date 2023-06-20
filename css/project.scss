@@ -4,13 +4,13 @@
 @import 'constants';
 @import 'menu.css';
 
-.project-container {
+.project-page-container {
   display: flex;
   flex-direction: row;
   width: 100%;
 }
 
-.content-container {
+.project-container {
   flex-grow: 1;
   max-width: 900px;
   margin: 0 auto;
@@ -51,7 +51,7 @@
     }
   }
 
-  .project-text {
+  .project-content {
     width: 100%;
     margin: 0 auto;
 

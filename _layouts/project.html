@@ -4,9 +4,9 @@
   {% include head.html layout="project" %}
   <body>
     {% include overlay.html %}
-    <div class="project-container">
+    <div class="project-page-container">
       {% include menu.html %}
-      <div class="content-container">
+      <div class="project-container">
         <div class="project-cover-container">
           {% if page.cover %}
             <img src="{{ page.cover | relative_url }}">
@@ -21,7 +21,7 @@
             {{ page.medium }}
           </div>
         </div>
-        <div class="project-text">
+        <div class="project-content">
           {{ content }}
         </div>
       </div>
