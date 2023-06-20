@@ -8,6 +8,9 @@
 
   <link rel="stylesheet" href="{{ 'css/main.css' | relative_url }}">
 
+  <link rel="icon" href="{{ 'imgs/favicon/favicon.ico' | relative_url }}" sizes="any">
+  <link rel="icon" href="{{ 'imgs/favicon/favicon.svg' | relative_url }}" type="image/svg+xml">
+
   {% if include.layout %}
   <link rel="stylesheet" href="{{ 'css/L.css' | replace: 'L', include.layout | relative_url }}">
   {% endif %}
