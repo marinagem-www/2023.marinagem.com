@@ -52,9 +52,23 @@
   }
 
   .project-text {
-    width: 60%;
+    width: 100%;
     margin: 0 auto;
-    font-size: 1rem;
+
+    p {
+      width: 60%;
+      margin-left: auto;
+      margin-right: auto;
+      font-size: 1rem;
+    }
+
+    p:has(img) {
+      width: 100%;
+    }
+
+    p.vertical:has(img) {
+      width: 50%;
+    }
 
     img {
       display: block;

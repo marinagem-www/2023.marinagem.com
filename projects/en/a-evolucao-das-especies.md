@@ -10,6 +10,7 @@ cover: imgs/a-evolucao-das-especies/EvolucaoDasEspecies_2.jpg
 ---
 This is a playful fictional theory of evolution. Plants are necessary for human life on earth, and, nowadays, so are our luminous devices. In this fictional theory, a luminous dead branch tragi-comically represents a near future vegetative life.
 
+{:.vertical}
 ![]({{site.baseurl}}/imgs/a-evolucao-das-especies/EvolucaoDasEspecies_1.jpg)
 
 ![]({{site.baseurl}}/imgs/a-evolucao-das-especies/EvolucaoDasEspecies_3.jpg)
