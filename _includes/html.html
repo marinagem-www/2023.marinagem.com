@@ -1,0 +1,9 @@
+{% include lang.html %}
+
+<html lang="{{ lang_bcp47 }}">
+  {% include head.html %}
+  <body>
+    {% include overlay.html %}
+    {% include {{ page.layout | append: ".html" }} %}
+  </body>
+</html>

@@ -1,20 +1,17 @@
 <head>
-  {% if page.permalink == '/en/' %}
-  <meta http-equiv="Refresh" content="0; url='../'" />
+  {% if page.redirect %}
+  <meta http-equiv="Refresh" content="0; url='{{ page.redirect }}'" />
   {% endif %}
 
   {% include head/head-meta.html %}
   {% include head/head-lang.html %}
 
   <link rel="stylesheet" href="{{ 'css/main.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ 'css/L.css' | replace: 'L', page.layout | relative_url }}">
   <link rel="stylesheet" href="{{ 'assets/simplelightbox/simple-lightbox.min.css' | relative_url }}">
 
   <link rel="icon" href="{{ 'imgs/favicons/favicon.ico' | relative_url }}" sizes="any">
   <link rel="icon" href="{{ 'imgs/favicons/favicon.svg' | relative_url }}" type="image/svg+xml">
-
-  {% if include.layout %}
-  <link rel="stylesheet" href="{{ 'css/L.css' | replace: 'L', include.layout | relative_url }}">
-  {% endif %}
 
   <title>{{ page.title }}</title>
 </head>

@@ -1,0 +1,24 @@
+<div class="project-page-container">
+  {% include menu.html %}
+  <div class="project-container">
+    <div class="project-cover-container">
+      {% if page.cover %}
+        <img src="{{ page.cover | relative_url }}">
+      {% endif %}
+    </div>
+    <div class="project-info-container">
+      <div class="project-title {{ page.category }}">
+        {{ page.ptitle }}, {{ page.year }}
+      </div>
+      <div class="project-info">
+        {{ page.description }}<br/>
+        {{ page.medium }}
+      </div>
+    </div>
+    <div class="project-content">
+      {{ content }}
+    </div>
+  </div>
+</div>
+<script src="{{ 'assets/simplelightbox/simple-lightbox.min.js' | relative_url }}"></script>
+<script src="{{ 'js/lightbox.js' | relative_url }}"></script>
