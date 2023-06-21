@@ -13,14 +13,23 @@
     pointer-events: all;
     position: absolute;
     text-decoration: none;
-    color: #000;
+    color: #222;
     font-weight: 500;
-    font-size: 1rem;
+    font-size: 1.2rem;
+    transition: color linear 0.1s;
+
+    &:hover {
+      color: #aaa;
+    }
   }
 
   .home-link {
     color: #444;
     font-size: 1.2rem;
+  }
+
+  .home-link.home {
+    display: none;
   }
 
   .about-link {
@@ -32,6 +41,7 @@
     bottom: 0;
     transform-origin: bottom left;
     transform: rotate(-90.0deg) translate(0, 100%);
+    display: none;
   }
 
   .archive-link {

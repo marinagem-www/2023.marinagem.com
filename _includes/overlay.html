@@ -4,7 +4,7 @@
 {% assign archive_url = home_url | append: "archive" %}
 
 <div class="overlay-container">
-  <a class="overlay-link home-link" href="{{ home_url | relative_url }}">
+  <a class="overlay-link home-link {{ page.layout }}" href="{{ home_url | relative_url }}">
     MariNagem
   </a>
   <a class="overlay-link about-link" href="{{ about_url | relative_url }}">
