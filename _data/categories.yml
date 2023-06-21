@@ -22,4 +22,4 @@ machines:
   en: "The Machines"
   pt: "As Máquinas"
   color: "#d5f202"
-  home-align: flex-start
+  home-align: flex-end
