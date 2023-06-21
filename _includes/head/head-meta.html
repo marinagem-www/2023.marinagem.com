@@ -1,9 +1,9 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@{{site.social.twitter_user}}">
-<meta name="twitter:title" content="{{page.title}}">
+<meta name="twitter:title" content="{{page.ptitle}}">
 <meta name="twitter:creator" content="@{{site.social.twitter_user}}">
 
-<meta property="og:title" content="{{page.title}}">
+<meta property="og:title" content="{{page.ptitle}}">
 <meta property="og:type" content="article">
 <meta property="og:url" content="{{page.url | absolute_url }}">
 <meta property="og:site_name" content="{{site.title}}">
@@ -17,7 +17,7 @@
 <meta name="twitter:description" content="{{ description }}">
 <meta property="og:description" content="{{ description }}">
 
-{% assign page_cover = "assets/covers/cover.jpg" | absolute_url %}
+{% assign page_cover = "imgs/covers/cover.jpg" | absolute_url %}
 
 {% if page.cover %}
   {% assign page_cover = page.cover | absolute_url %}
