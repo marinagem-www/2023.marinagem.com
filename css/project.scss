@@ -54,6 +54,15 @@
     width: 100%;
     margin: 0 auto;
 
+    a {
+      color: inherit;
+      transition: opacity linear 0.1s;
+    }
+
+    a:hover {
+      opacity: 50%;
+    }
+
     p {
       width: 60%;
       margin-left: auto;
