@@ -40,14 +40,19 @@
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
+    align-items: center;
+
+    .text {
+      padding: 0 8px;
+      text-align: center;
+      font-size: 2rem;
+      background-color: #666;
+    }
 
     {% for s in site.data.categories %}
     {% assign cat_pages = site.html_pages | where:"lang", "en" | where:"category", s[0] %}
     {% assign lproj = cat_pages | sort_natural: "year" | reverse | first %}
 
-    .text.{{ s[0]}} {
-      color: {{ s[1]['color'] }};
-    }
     &.{{ s[0]}} {
       background-image: url({{ lproj.cover | relative_url }});
     }
