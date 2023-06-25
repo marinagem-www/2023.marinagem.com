@@ -1,5 +1,5 @@
 ---
-title: Mari Nagem
+ptitle: Mari Nagem
 layout: home
 permalink: /img-test
 test: img-test
