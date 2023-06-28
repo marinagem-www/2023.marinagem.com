@@ -6,7 +6,7 @@ dimensions: 3 x 3 x 3 m
 medium: 'Sistema de refrigeração, termômetro customizado e artigo emoldurado'
 description: Instalação
 cover: imgs/the-happiness-house/the-happiness-house_0351.webp
-category: machines
+category: sun
 ---
 A casa da Felicidade é um cubo amarelo flúor refrigerado entre 13 e 14 graus Celsius. No seu interior, as paredes brancas apresentam um termômetro customizado e o resumo do artigo "Weather and Individual Happiness"; uma pesquisa acadêmica realizada no Japão que conclui que a felicidade é maximizada a 13.9 C.
 
