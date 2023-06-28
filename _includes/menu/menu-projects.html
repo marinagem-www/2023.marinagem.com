@@ -9,7 +9,7 @@
     {% endif %}
 
     <a class="{{ mclass }}" href="{{ p.url | relative_filter }}">
-      {{ p.ptitle }}
+      {{ p.ptitle | split: " | " | first }}
     </a>
   {% endfor %}
 </div>
