@@ -17,6 +17,7 @@ _Custom thermometer._
 
 ![]({{site.baseurl}}/imgs/the-happiness-house/the-happiness-house_0141.webp)
 
+{:.vertical}
 ![]({{site.baseurl}}/imgs/the-happiness-house/the-happiness-resumo_579.webp)
 _Article abstract._
 
