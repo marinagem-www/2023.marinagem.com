@@ -1,0 +1,14 @@
+---
+---
+
+@import 'constants';
+
+.list-container {
+  width: 80%;
+  max-width: 800px;
+  margin: 0 auto;
+
+  .category-title {
+    margin-top: 12px;
+  }
+}
