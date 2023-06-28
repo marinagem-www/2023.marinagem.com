@@ -1,5 +1,6 @@
 ---
 ptitle: Mari Nagem
 layout: home
-permalink: /pt
+permalink: /pt/img-test
+test: img-test
 ---
