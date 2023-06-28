@@ -2,7 +2,7 @@
 published: true
 ptitle: Essência de uma alma virtual
 category: machines
-year: 2018
+year: '2018'
 medium: Lâmpada, vinil, pintura
 description: Instalação
 dimensions: 122 x 39 cm
