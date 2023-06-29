@@ -1,5 +1,4 @@
 ---
-published: true
 description: Paisagens gráficas emocionais
 ptitle: Notas do Curador
 medium: Desenho digital e software customizado

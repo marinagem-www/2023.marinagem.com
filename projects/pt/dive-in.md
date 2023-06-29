@@ -1,5 +1,4 @@
 ---
-published: true
 ptitle: O Mergulho
 category: water
 year: '2020 - 2021'

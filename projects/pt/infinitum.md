@@ -1,5 +1,4 @@
 ---
-published: true
 ptitle: Infinitum
 description: Website
 medium: Software customizado e website interativo

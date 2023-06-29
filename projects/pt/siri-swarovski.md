@@ -1,5 +1,4 @@
 ---
-published: true
 ptitle: Siri Swarovski
 medium: Acrílico espelhado, fone e strass
 dimensions: 3:15 minutos e 3 x 25 cm

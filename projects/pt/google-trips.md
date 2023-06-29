@@ -1,5 +1,4 @@
 ---
-published: true
 ptitle: Google Trips
 medium: Impressões, aúdio, objetos e placa de metal
 dimensions: Dimensões variadas

@@ -1,5 +1,4 @@
 ---
-published: true
 ptitle: Shiawase no Ie | A casa da Felicidade
 year: '2018'
 dimensions: 3 x 3 x 3 m

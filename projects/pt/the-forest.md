@@ -1,5 +1,4 @@
 ---
-published: true
 year: '2022'
 ptitle: A Floresta
 description: Instalação site-specific

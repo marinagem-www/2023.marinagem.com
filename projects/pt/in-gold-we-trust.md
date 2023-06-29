@@ -1,5 +1,4 @@
 ---
-published: true
 ptitle: '"In Gold We Trust"'
 category: sun
 year: '2018'

@@ -1,5 +1,4 @@
 ---
-published: true
 ptitle: Actions to Relate to Oneself
 dimensions: 59 x 42 cm each
 description: Installation

@@ -1,5 +1,4 @@
 ---
-published: true
 ptitle: Cordiais
 medium: 'Tecnologia de reconhecimento de emoções faciais, software personalizado e mídia mista'
 dimensions: Dimensões Variáveis

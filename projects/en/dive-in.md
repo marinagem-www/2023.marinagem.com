@@ -1,5 +1,4 @@
 ---
-published: true
 ptitle: Dive In
 category: water
 year: 2020 - 2021

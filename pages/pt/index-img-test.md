@@ -1,6 +1,6 @@
 ---
 ptitle: Mari Nagem
-layout: home
+template: home
 permalink: /pt/img-test
 test: img-test
 ---

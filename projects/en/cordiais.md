@@ -1,5 +1,4 @@
 ---
-published: true
 ptitle: Cordiais
 medium: 'Facial emotion recognition technology, custom software and mixed media'
 dimensions: Variable dimensions

@@ -1,5 +1,4 @@
 ---
-published: true
 ptitle: Infinitum
 medium: Custom software and interactive website
 dimensions: 1920 x infinite pixels

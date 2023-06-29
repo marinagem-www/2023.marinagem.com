@@ -1,5 +1,4 @@
 ---
-published: true
 ptitle: Under The Sun
 category: sun
 year: 2020 - 2021

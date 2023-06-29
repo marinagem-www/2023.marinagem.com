@@ -1,5 +1,4 @@
 ---
-published: true
 year: '2022'
 ptitle: A Evolução das Espécies
 description: Instalação site-specific

@@ -1,5 +1,4 @@
 ---
-published: true
 ptitle: Joy
 category: sun
 year: '2017'

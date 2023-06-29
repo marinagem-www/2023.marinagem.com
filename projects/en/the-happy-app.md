@@ -1,5 +1,4 @@
 ---
-published: true
 ptitle: The Happy App
 dimensions: Duration 1:27
 description: Web App and video performace

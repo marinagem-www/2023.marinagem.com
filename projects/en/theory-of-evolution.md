@@ -1,5 +1,4 @@
 ---
-published: true
 year: '2022'
 ptitle: Theory of Evolution
 description: Site-specific installation

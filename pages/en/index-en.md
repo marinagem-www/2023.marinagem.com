@@ -1,6 +1,6 @@
 ---
 ptitle: Mari Nagem
-layout: home
+template: home
 permalink: /en
 redirect: "../"
 ---

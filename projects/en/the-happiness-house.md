@@ -1,5 +1,4 @@
 ---
-published: true
 ptitle: Shiawase no Ie | The Happiness House
 description: Installation
 medium: 'Cooling system, custom thermometer and framed article'

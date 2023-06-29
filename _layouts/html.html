@@ -5,6 +5,6 @@
   {% include head.html %}
   <body>
     {% include overlay.html %}
-    {% include {{ page.layout | append: ".html" }} %}
+    {% include {{ page.template | append: ".html" }} %}
   </body>
 </html>

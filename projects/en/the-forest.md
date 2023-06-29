@@ -1,5 +1,4 @@
 ---
-published: true
 year: '2022'
 ptitle: The Forest
 description: Site-specific installation

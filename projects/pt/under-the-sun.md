@@ -1,5 +1,4 @@
 ---
-published: true
 ptitle: Sob o Sol
 category: sun
 year: '2020 - 2021'

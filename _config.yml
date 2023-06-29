@@ -33,28 +33,30 @@ defaults:
     scope:
       path: "pages/en"
     values:
-      layout: "page"
+      layout: "html"
       permalink: /:basename/
       lang: en
   -
     scope:
       path: "pages/pt"
     values:
-      layout: "page"
+      layout: "html"
       permalink: /pt/:basename/
       lang: pt
   -
     scope:
       path: "projects/en"
     values:
-      layout: "project"
+      layout: "html"
+      template: project
       permalink: /:basename/
       lang: en
   -
     scope:
       path: "projects/pt"
     values:
-      layout: "project"
+      layout: "html"
+      template: project
       permalink: /pt/:basename/
       lang: pt
 

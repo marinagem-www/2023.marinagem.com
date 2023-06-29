@@ -14,7 +14,7 @@
       {% endfor %}
     {% endfor %}
 
-    {% assign proj_pages = lang_pages | where:"layout","project" %}
+    {% assign proj_pages = lang_pages | where:"template","project" %}
     {% assign ordered_proj_pages = proj_pages | sort: "year" | reverse %}
     {% assign last_year = "" %}
 

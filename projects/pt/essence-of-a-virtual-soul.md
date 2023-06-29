@@ -1,5 +1,4 @@
 ---
-published: true
 ptitle: Essência de uma alma virtual
 category: machines
 year: '2018'

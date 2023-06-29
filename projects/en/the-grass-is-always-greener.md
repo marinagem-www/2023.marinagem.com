@@ -1,5 +1,4 @@
 ---
-published: true
 year: '2018'
 ptitle: The Grass is Always Greener
 description: Site-specific installation

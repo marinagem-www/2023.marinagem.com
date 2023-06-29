@@ -1,5 +1,4 @@
 ---
-published: true
 ptitle: Siri Swarovski
 medium: Acrylic, prepared headphone and crystals
 dimensions: 3:15 minutes and 3 x 25 cm

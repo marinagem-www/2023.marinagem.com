@@ -1,5 +1,4 @@
 ---
-published: true
 ptitle: Curator's Notes
 dimensions: 3568 x 2008 px
 description: Emotional graphical landscapes

@@ -1,5 +1,4 @@
 ---
-published: true
 ptitle: Google Trips
 medium: Prints, audio, objects and engraved metal plate
 dimensions: Variable dimensions

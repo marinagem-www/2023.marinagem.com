@@ -1,5 +1,4 @@
 ---
-published: true
 ptitle: Essence of a Virtual Soul
 category: machines
 year: '2018'
