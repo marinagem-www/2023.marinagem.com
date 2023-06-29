@@ -1,5 +1,5 @@
 ---
 ptitle: Arquivo e Projetos Antigos
-template: list
+template: archive
 permalink: /pt/archive
 ---
