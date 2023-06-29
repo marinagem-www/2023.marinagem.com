@@ -37,6 +37,10 @@
     right: 0;
   }
 
+  .about-link.about {
+    display: none;
+  }
+
   .contact-link {
     bottom: 0;
     transform-origin: bottom left;
@@ -47,5 +51,9 @@
   .archive-link {
     bottom: 0;
     right: 0;
+  }
+
+  .archive-link.list {
+    display: none;
   }
 }
