@@ -3,10 +3,13 @@
     {% assign cat_pages = lang_pages | where:"category",s[0] %}
     {% assign lproj = cat_pages | sort: "year" | reverse | first %}
 
-    {% unless s[0] == page.category %}
-      <a class="menu-item" href="{{ lproj.url | relative_filter }}">
-        {{ s[1][page.lang] }}
-      </a>
-    {% endunless %}
+    {% assign mclass = "menu-item" %}
+    {% if s[0] == page.category %}
+      {% assign mclass = "menu-item selected" %}
+    {% endif %}
+
+    <a class="{{ mclass }}" href="{{ lproj.url | relative_filter }}">
+      {{ s[1][page.lang] }}
+    </a>
   {% endfor %}
 </div>
