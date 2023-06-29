@@ -1,132 +1,136 @@
-- year: 2021
-  exhibiton: The State of Things
-  venue: Bienal Sur
-  location: Rosário, AR
-- year: 2021
-  exhibiton: Digital Jokes
-  venue: Digitale Dusseldorf - Weltkunstzimmer
-  location: Düsseldorf, DE
-- year: 2021
-  exhibition: Fogo-Fátuo
-  venue: Prisma
-  location: BR
-- year: 2021
-  exhibition: Em Redes
-  venue: Artsoul
-  location: BR
-- year: 2021
-  exhibition: Optic Shuffle, Renaissance Protocol
-  venue: Theater Lab
-  location: New York, US
-- year: 2021
-  exhibition: Confirm Humanity
-  venue: Homeostasislab.org
-  location: BR
-- year: 2020
-  exhibition: Últimos Dias
-  venue: Espaço Fonte
-  location: São Paulo, BR
-- year: 2019
-  exhibition: Estratégias do Feminino
-  venue: Farol Santander
-  location: Porto Alegre, BR
-- year: 2019
-  exhibition: Parallel Screens
-  venue: Gallery 1805 (San Diego, US) / Hermes Artes (São Paulo, BR) / Nova
-  location: Weimar, DE
-- year: 2018
-  exhibition: Estufa
-  venue: São Paulo Fashion Week
-  location: São Paulo, BR
-- year: 2018
-  exhibition: Routine + Happiness
-  venue: Somos Arts House
-  location: Berlin, DE
-- year: 2017
-  exhibition: Homeostase @ The Wrong Digital Art Biennale
-  venue: CCSP
-  location: São Paulo, BR
-- year: 2017
-  exhibition: 'Blasfêmeas: Falhas para o Futuro'
-  venue: SAO
-  location: São Paulo, BR
-- year: 2017
-  exhibition: Na ponta da vista
-  venue: PONDER70
-  location: São Paulo, BR
-- year: 2015
-  exhibition: Contraprova II
-  venue: Paço das Artes
-  location: São Paulo, BR
-- year: 2014
-  exhibition: '360'
-  venue: Qual Casa
-  location: São Paulo, BR
-- year: 2013
-  exhibition: Impressões da Terra
-  venue: MIS - Museum da Imagem e do Som
-  location: São Paulo, BR
-- year: 2012
-  exhibition: Vida Útil
-  venue: Casa das Caldeiras
-  location: São Paulo, BR
-- year: 2012
-  exhibition: The Locomotion
-  venue: Casa das Caldeiras
-  location: São Paulo, BR
-- year: 2011
-  exhibition: Promenade Baroque Berlin
-  venue: Musée Carnavalet (Geneva, CH) / Espace Fusterie
-  location: Paris, FR
-- year: 2010
-  exhibition: (Part of) First Impressions on the Earth
-  venue: Rodeo 12
-  location: Geneva, CH
-- year: 2010
-  exhibition: Never There
-  venue: Alice Gryphius
-  location: Berlin, DE
-- year: 2010
-  exhibition: Alternated Copies
-  venue: PLAINE OFF, Plainpalais square
-  location: Geneva, CH
-- year: 2010
-  exhibition: Double Archive
-  venue: "PLAINE OFF, Bâtiment d'art contemporain"
-  location: Geneva, CH
-- year: 2010
-  exhibition: Aménager
-  venue: PLAINE OFF, Plainpalais square
-  location: Geneva, CH
-- year: 2009
-  exhibition: Ce qui arrive
-  venue: Athens Video Art Festival
-  location: Athens, GR
-- year: 2009
-  exhibition: "L'espace divisée par(t) 2 - Sala R1"
-  venue: HEAD
-  location: Geneva, CH
-- year: 2009
-  exhibition: "La Conquête de L'espace, hors temps"
-  venue: Galeria Ruine
-  location: Geneva, CH
-- year: 2008
-  exhibition: Esculpir a Vida, Viver a Obra
-  venue: Galeria UFMG
-  location: Belo Horizonte, BR
-- year: 2007
-  exhibition: Cem Linha
-  venue: Galeria UFMG
-  location: Belo Horizonte, BR
-- year: 2007
-  exhibition: "Atelier Aberto: Ex-posição no Centro"
-  venue: Centro Cultural UFMG
-  location: Belo Horizonte, BR
-- year: 2005
-  exhibition: Habeas Corpus
-  venue: Galeria UFMG
-  location: Belo Horizonte, BR
-- year: 2004
-  exhibition: Habeas Corpus
-  venue: Faculdade de Medicina da UFMG
-  location: Belo Horizonte, BR
+title:
+  en: exhibitions
+  pt: exposições
+exhibitions:
+  - year: 2021
+    name: The State of Things
+    venue: Bienal Sur
+    location: Rosário, AR
+  - year: 2021
+    name: Digital Jokes
+    venue: Digitale Dusseldorf - Weltkunstzimmer
+    location: Düsseldorf, DE
+  - year: 2021
+    name: Fogo-Fátuo
+    venue: Prisma
+    location: BR
+  - year: 2021
+    name: Em Redes
+    venue: Artsoul
+    location: BR
+  - year: 2021
+    name: Optic Shuffle, Renaissance Protocol
+    venue: Theater Lab
+    location: New York, US
+  - year: 2021
+    name: Confirm Humanity
+    venue: Homeostasislab.org
+    location: BR
+  - year: 2020
+    name: Últimos Dias
+    venue: Espaço Fonte
+    location: São Paulo, BR
+  - year: 2019
+    name: Estratégias do Feminino
+    venue: Farol Santander
+    location: Porto Alegre, BR
+  - year: 2019
+    name: Parallel Screens
+    venue: Gallery 1805 (San Diego, US) / Hermes Artes (São Paulo, BR) / Nova
+    location: Weimar, DE
+  - year: 2018
+    name: Estufa
+    venue: São Paulo Fashion Week
+    location: São Paulo, BR
+  - year: 2018
+    name: Routine + Happiness
+    venue: Somos Arts House
+    location: Berlin, DE
+  - year: 2017
+    name: Homeostase @ The Wrong Digital Art Biennale
+    venue: CCSP
+    location: São Paulo, BR
+  - year: 2017
+    name: 'Blasfêmeas: Falhas para o Futuro'
+    venue: SAO
+    location: São Paulo, BR
+  - year: 2017
+    name: Na ponta da vista
+    venue: PONDER70
+    location: São Paulo, BR
+  - year: 2015
+    name: Contraprova II
+    venue: Paço das Artes
+    location: São Paulo, BR
+  - year: 2014
+    name: '360'
+    venue: Qual Casa
+    location: São Paulo, BR
+  - year: 2013
+    name: Impressões da Terra
+    venue: MIS - Museum da Imagem e do Som
+    location: São Paulo, BR
+  - year: 2012
+    name: Vida Útil
+    venue: Casa das Caldeiras
+    location: São Paulo, BR
+  - year: 2012
+    name: The Locomotion
+    venue: Casa das Caldeiras
+    location: São Paulo, BR
+  - year: 2011
+    name: Promenade Baroque Berlin
+    venue: Musée Carnavalet (Geneva, CH) / Espace Fusterie
+    location: Paris, FR
+  - year: 2010
+    name: (Part of) First Impressions on the Earth
+    venue: Rodeo 12
+    location: Geneva, CH
+  - year: 2010
+    name: Never There
+    venue: Alice Gryphius
+    location: Berlin, DE
+  - year: 2010
+    name: Alternated Copies
+    venue: PLAINE OFF, Plainpalais square
+    location: Geneva, CH
+  - year: 2010
+    name: Double Archive
+    venue: "PLAINE OFF, Bâtiment d'art contemporain"
+    location: Geneva, CH
+  - year: 2010
+    name: Aménager
+    venue: PLAINE OFF, Plainpalais square
+    location: Geneva, CH
+  - year: 2009
+    name: Ce qui arrive
+    venue: Athens Video Art Festival
+    location: Athens, GR
+  - year: 2009
+    name: "L'espace divisée par(t) 2 - Sala R1"
+    venue: HEAD
+    location: Geneva, CH
+  - year: 2009
+    name: "La Conquête de L'espace, hors temps"
+    venue: Galeria Ruine
+    location: Geneva, CH
+  - year: 2008
+    name: Esculpir a Vida, Viver a Obra
+    venue: Galeria UFMG
+    location: Belo Horizonte, BR
+  - year: 2007
+    name: Cem Linha
+    venue: Galeria UFMG
+    location: Belo Horizonte, BR
+  - year: 2007
+    name: "Atelier Aberto: Ex-posição no Centro"
+    venue: Centro Cultural UFMG
+    location: Belo Horizonte, BR
+  - year: 2005
+    name: Habeas Corpus
+    venue: Galeria UFMG
+    location: Belo Horizonte, BR
+  - year: 2004
+    name: Habeas Corpus
+    venue: Faculdade de Medicina da UFMG
+    location: Belo Horizonte, BR

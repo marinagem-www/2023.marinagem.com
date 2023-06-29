@@ -8,8 +8,26 @@
   max-width: 800px;
   margin: 0 auto;
 
-  img {
+  .about-title {
+    text-transform: none;
+  }
+
+  img.about-cover {
     display: block;
     width: 100%;
+  }
+
+  .about-content {
+    margin-bottom: 16px;
+
+    .exhibitions-title {
+      text-transform: uppercase;
+    }
+
+    .exhibitions-info {
+      .exhibitions-info-item {
+        text-transform: none;
+      }
+    }
   }
 }
