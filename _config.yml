@@ -67,7 +67,8 @@ prose:
     - .gitignore
     - CNAME
     - _config.yml
-    - _data
+    - _data/lang.yml
+    - _data/categories.yml
     - _includes
     - _layouts
     - _pages
