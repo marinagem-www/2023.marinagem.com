@@ -8,6 +8,7 @@
   flex-direction: row;
   width: 100%;
   height: 100vh;
+  background-color: #fff;
 }
 
 .home-category {
@@ -18,6 +19,11 @@
   align-items: flex-start;
   user-select: none;
   text-decoration: none;
+  transition: opacity 0.1s linear;
+
+  &:hover {
+    opacity: 0.9;
+  }
 
   .text {
     cursor: pointer;
