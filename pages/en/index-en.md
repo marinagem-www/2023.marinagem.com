@@ -1,7 +1,7 @@
 ---
 ptitle: Mari Nagem
 template: home
-permalink: /en
+permalink: /en/
 redirect: "../"
 ---
 {{ site.pages | where:"permalink","/" | first | map: "content" | first }}
