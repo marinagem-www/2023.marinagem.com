@@ -1,0 +1,12 @@
+<div class="about-container">
+  <div class="about-title">{{ page.ptitle }}</div>
+  <img src="{{ 'imgs/about/marinagem_studio_00.jpg' | relative_url }}">
+  <div class="about-content">
+    {{ content }}
+    {% for e in site.data.exhibitions %}
+      <div class="exhibition-info">
+        {{ e.year }} {{ e.exhibition }} - {{ e.venue }} ({{ e.location }})
+      </div>
+    {% endfor %}
+  </div>
+</div>
