@@ -11,6 +11,7 @@
 }
 
 .project-container {
+  width: 80%;
   flex-grow: 1;
   max-width: 900px;
   margin: 0 auto;
@@ -27,10 +28,10 @@
   }
 
   .project-info-container {
-    width: 60%;
+    width: 66%;
     display: flex;
     flex-direction: row;
-    margin: 0 auto;
+    margin: 44px auto 34px;
 
     .project-title {
       width: 50%;
@@ -47,6 +48,7 @@
 
     .project-info {
       width: 50%;
+      line-height: 1.4;
     }
   }
 
@@ -64,10 +66,15 @@
     }
 
     p {
-      width: 60%;
+      width: 66%;
+      margin-top: 0;
       margin-left: auto;
       margin-right: auto;
       font-size: 1rem;
+
+      & + p {
+        margin-top: 1em;
+      }
     }
 
     p:has(img) {
