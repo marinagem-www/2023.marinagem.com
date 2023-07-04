@@ -1,6 +1,6 @@
 ---
 ptitle: In Gold We Trust
-category: sun
+category: minerals
 year: '2018'
 medium: Black and gold pen on paper
 description: Drawing series

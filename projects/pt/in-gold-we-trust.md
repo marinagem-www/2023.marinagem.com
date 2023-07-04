@@ -1,6 +1,6 @@
 ---
 ptitle: '"In Gold We Trust"'
-category: sun
+category: minerals
 year: '2018'
 medium: Caneta preta e dourada sobre papel
 description: Série de desenhos

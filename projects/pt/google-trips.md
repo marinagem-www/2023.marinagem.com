@@ -4,7 +4,7 @@ medium: Impressões, aúdio, objetos e placa de metal
 dimensions: Dimensões variadas
 description: Instalação multimídia
 year: '2017'
-category: minerals
+category: machines
 cover: imgs/google-trips/google-trips_beauty_00.jpg
 ---
 {:.vertical}
