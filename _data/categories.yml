@@ -3,23 +3,28 @@ forest:
   pt: "A Floresta"
   color: "#78a9a1"
   home-align: flex-start
+  feat-project: theory-of-evolution
 water:
   en: "The Water"
   pt: "A Água"
   color: "#1863a1"
   home-align: flex-end
+  feat-project: dive-in
 sun:
   en: "The Sun"
   pt: "O Sol"
   color: "#eeb200"
   home-align: flex-start
+  feat-project: under-the-sun
 minerals:
   en: "The Minerals"
   pt: "Os Minerais"
   color: "#5e5e5e"
   home-align: flex-start
+  feat-project: infinitum
 machines:
   en: "The Machines"
   pt: "As Máquinas"
   color: "#d5f202"
   home-align: flex-end
+  feat-project: cordiais

@@ -16,7 +16,8 @@
   flex-basis: 100%;
   flex-direction: column;
   justify-content: center;
-  align-items: flex-start;
+  align-items: var(--align-items);
+  background-color: var(--category-color);
   user-select: none;
   text-decoration: none;
   transition: opacity 0.1s linear;
@@ -32,17 +33,11 @@
     font-weight: 600;
     font-size: 2.3rem;
   }
-
-  {% for s in site.data.categories %}
-  &.{{ s[0]}} {
-    background-color: {{ s[1]['color'] }};
-    align-items:  {{ s[1]['home-align'] }};
-  }
-  {% endfor %}
 }
 
 .home-container.img-test {
   .home-category {
+    background-image: var(--img-url);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -55,14 +50,5 @@
       background-color: #000;
       width: 100%;
     }
-
-    {% for s in site.data.categories %}
-    {% assign cat_pages = site.html_pages | where:"lang", "en" | where:"category", s[0] %}
-    {% assign lproj = cat_pages | sort_natural: "year" | reverse | first %}
-
-    &.{{ s[0]}} {
-      background-image: url({{ lproj.cover | relative_url }});
-    }
-    {% endfor %}
   }
 }
