@@ -1,10 +1,20 @@
 {% assign video_width = include.width | default: "100%" %}
 
-{% assign video_file = site.static_files | where_exp: "f", "f.name == include.video" | first %}
-{% assign video_file_extension = video_file.extname | replace: ".", "" %}
+{% assign video_file_ext = include.video | split: "." | last %}
+
+{% assign video_filename_webm = include.video | replace: video_file_ext, "webm" %}
+{% assign video_filename_mp4 = include.video | replace: video_file_ext, "mp4" %}
+
+{% assign video_file_webm = site.static_files | where_exp: "f", "f.name == video_filename_webm" | first %}
+{% assign video_file_mp4 = site.static_files | where_exp: "f", "f.name == video_filename_mp4" | first %}
 
 <div class="html-video-container">
   <video playsinline autoplay muted loop width="{{ video_width }}">
-    <source src="{{ video_file.path | relative_url }}" type="video/{{ video_file_extension }}">
+    {% if video_file_webm %}
+      <source src="{{ video_file_webm.path | relative_url }}" type="video/webm">
+    {% endif %}
+    {% if video_file_mp4 %}
+      <source src="{{ video_file_mp4.path | relative_url }}" type="video/mp4">
+    {% endif %}
   </video>
 </div>
