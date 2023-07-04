@@ -1,5 +1,5 @@
 ---
-ptitle: '"Actions to Relate to Oneself"'
+ptitle: Actions to Relate to Oneself
 dimensions: 59 x 42 cm cada
 description: Instalação
 medium: Impressão digital

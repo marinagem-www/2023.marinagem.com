@@ -1,6 +1,6 @@
 ---
 year: '2018'
-ptitle: '"The Grass is Always Greener"'
+ptitle: The Grass is Always Greener
 description: Instalação site-specific
 medium: Vinil semi-transparente
 dimensions: Dimensões variadas

@@ -1,5 +1,5 @@
 ---
-ptitle: '"In Gold We Trust"'
+ptitle: In Gold We Trust
 category: minerals
 year: '2018'
 medium: Caneta preta e dourada sobre papel
