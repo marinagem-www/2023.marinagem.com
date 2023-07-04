@@ -1,6 +1,6 @@
 ---
 ptitle: Mari Nagem
 template: home
-permalink: /en/
+permalink: /pt/en/
 redirect: "../"
 ---
