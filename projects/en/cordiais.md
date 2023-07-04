@@ -24,3 +24,4 @@ _Linda Divani's joy. Acrylic paint, latex and mineral pigment._
 ![]({{site.baseurl}}/imgs/cordiais/cordiais_MWOW-43.jpg)
 _Exhibition view: Museum Without Walls, Queens University, Kingston, Canada._
 
+{% include video.html video="linda_720_v.webm" width="50%" %}

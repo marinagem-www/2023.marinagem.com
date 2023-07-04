@@ -1,0 +1,10 @@
+{% assign video_width = include.width | default: "100%" %}
+
+{% assign video_file = site.static_files | where_exp: "f", "f.name == include.video" | first %}
+{% assign video_file_extension = video_file.extname | replace: ".", "" %}
+
+<div class="html-video-container">
+  <video playsinline autoplay muted loop width="{{ video_width }}">
+    <source src="{{ video_file.path | relative_url }}" type="video/{{ video_file_extension }}">
+  </video>
+</div>

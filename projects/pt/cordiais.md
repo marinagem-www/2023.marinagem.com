@@ -23,3 +23,5 @@ _A felicidade de Linda Divani. Tinta acrílica, latex e pigmento mineral._
 
 ![]({{site.baseurl}}/imgs/cordiais/cordiais_MWOW-43.jpg)
 _Vista da Exposição Museum Without Walls, Queens University, Kingston, Canada._
+
+{% include video.html video="linda_720_v.webm" width="50%" %}

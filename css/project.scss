@@ -107,6 +107,13 @@
       }
     }
 
+    .html-video-container {
+      video {
+        display: block;
+        margin: 0 auto;
+      }
+    }
+
     .audio-wrapper {
       width: 100%;
       margin: 0 auto;
