@@ -5,7 +5,7 @@
 
     {% assign mclass = "menu-item" %}
     {% if s[0] == page.category %}
-      {% assign mclass = "menu-item selected" %}
+      {% assign mclass = "menu-item selected " | append: page.category %}
     {% endif %}
 
     <a class="{{ mclass }}" href="{{ lproj.url | relative_filter }}">
