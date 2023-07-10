@@ -1,6 +1,6 @@
 ---
 ptitle: Mari Nagem
 template: home
-permalink: /img-test/
-test: img-test
+permalink: /pt/plain/
+test: plain
 ---

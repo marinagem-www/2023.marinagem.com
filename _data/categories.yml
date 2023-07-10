@@ -21,10 +21,10 @@ minerals:
   pt: "Os Minerais"
   color: "#5e5e5e"
   home-align: flex-start
-  feat-project: infinitum
+  feat-project: tectonics
 machines:
   en: "The Machines"
   pt: "As Máquinas"
   color: "#d5f202"
   home-align: flex-end
-  feat-project: cordiais
+  feat-project: essence-of-a-virtual-soul
