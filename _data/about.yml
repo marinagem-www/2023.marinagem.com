@@ -1,0 +1,8 @@
+contact:
+  - text: "mari@marinagem.com"
+    link: "mailto:mari@marinagem.com"
+  - text: "@mari_nagem"
+    link: "https://www.instagram.com/mari_nagem/"
+cv:
+  pt: "docs/cv-pt.pdf"
+  en: "docs/cv-en.pdf"
