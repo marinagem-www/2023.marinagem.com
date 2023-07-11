@@ -13,7 +13,7 @@
 .project-container {
   width: 80%;
   flex-grow: 1;
-  margin: 0 auto;
+  margin: 0 $P99;
 
   img {
     display: block;
@@ -26,8 +26,7 @@
     margin: 0 auto;
 
     img {
-      padding: $P99;
-      padding-bottom: 0;
+      padding: $P99 0 0;
     }
   }
 
@@ -82,12 +81,10 @@
 
     p:has(img) {
       width: 100%;
-      padding: 0 $P99;
     }
 
     p.vertical:has(img) {
       width: 50%;
-      padding: 0;
     }
 
     img + em {
@@ -126,12 +123,10 @@
       audio {
         display: block;
         width: 100%;
-        padding: 0 $P99;
       }
 
       & + p {
         width: 100%;
-        padding: 0 $P99;
 
         & em {
           font-style: normal;
