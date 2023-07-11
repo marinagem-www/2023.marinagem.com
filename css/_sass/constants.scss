@@ -11,8 +11,17 @@ $MENU_COLOR_BACKGROUND: #bbb;
 $MENU_COLOR_ITEM: #666;
 $MENU_COLOR_ITEM_SELECTED: #fff;
 
-$TRANSITION-PERIOD: 0.12s;
+$TRANSITION-PERIOD: 0.1s;
 $DESKTOP_WITH: 800px;
+
+$P21: 1.09vw;
+$P24: 1.25vw;
+$P27: 1.41vw;
+$P33: 1.72vw;
+$P45: 2.34vw;
+$P48: 2.50vw;
+$P66: 3.44vw;
+$P99: 5.16vw;
 
 @mixin media-query($canvas) {
   @if $canvas == DESKTOP {

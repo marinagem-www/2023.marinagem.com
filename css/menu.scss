@@ -12,17 +12,17 @@
   width: 20%;
   min-width: 200px;
   height: 100vh;
-  padding: 2.34vw 12px 1.72vw 1.72vw;
+  padding: $P45 12px $P33 $P33;
   background-color: $MENU_COLOR_BACKGROUND;
 
   .menu-title-container {
     width: 100%;
-    padding: 5.15vw 0 1.72vw;
+    padding: $P99 0 $P33;
 
     .menu-title {
       text-transform: uppercase;
       font-weight: bold;
-      font-size: 2.5vw;
+      font-size: $P48;
 
       {% for s in site.data.categories %}
       &.{{ s[0]}} {
@@ -43,7 +43,7 @@
   .menu-item {
     display: inline-block;
     text-decoration: none;
-    font-size: 1.25vw;
+    font-size: $P24;
     font-weight: 500;
     padding: 2px 0;
     color: $MENU_COLOR_ITEM;

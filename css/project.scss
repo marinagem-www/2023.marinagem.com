@@ -26,7 +26,7 @@
     margin: 0 auto;
 
     img {
-      padding: 5.15vw;
+      padding: $P99;
       padding-bottom: 0;
     }
   }
@@ -35,11 +35,11 @@
     width: 50%;
     display: flex;
     flex-direction: row;
-    margin: 3.44vw auto 1.72vw;
+    margin: $P66 auto $P33;
 
     .project-title {
       width: 50%;
-      font-size: 1.41vw;
+      font-size: $P27;
       font-weight: 500;
 
       {% for s in site.data.categories %}
@@ -52,7 +52,7 @@
 
     .project-info {
       width: 50%;
-      font-size: 1.25vw;
+      font-size: $P24;
       line-height: 1.5;
     }
   }
@@ -63,7 +63,7 @@
 
     a {
       color: inherit;
-      transition: opacity linear 0.1s;
+      transition: opacity $TRANSITION-PERIOD linear;
 
       &:hover {
         opacity: 50%;
@@ -73,16 +73,16 @@
     p {
       width: 50%;
       margin: 0 auto;
-      font-size: 1.25vw;
+      font-size: $P24;
 
       & + p {
-        margin-top: 3.44vw;
+        margin-top: $P66;
       }
     }
 
     p:has(img) {
       width: 100%;
-      padding: 0 5.15vw;
+      padding: 0 $P99;
     }
 
     p.vertical:has(img) {
@@ -92,14 +92,14 @@
 
     img + em {
       font-style: normal;
-      font-size: 1.09vw;
+      font-size: $P21;
       font-weight: 300;
     }
 
     .video-wrapper {
       width: 100%;
       position: relative;
-      margin: 3.44vw auto 0;
+      margin: $P66 auto 0;
       height: 0;
       overflow: hidden;
 
@@ -115,27 +115,27 @@
     .html-video-container {
       video {
         display: block;
-        margin: 3.44vw auto 0;
+        margin: $P66 auto 0;
       }
     }
 
     .audio-wrapper {
       width: 100%;
-      margin: 3.44vw auto 0;
+      margin: $P66 auto 0;
 
       audio {
         display: block;
         width: 100%;
-        padding: 0 5.15vw;
+        padding: 0 $P99;
       }
 
       & + p {
         width: 100%;
-        padding: 0 5.15vw;
+        padding: 0 $P99;
 
         & em {
           font-style: normal;
-          font-size: 1.09vw;
+          font-size: $P21;
           font-weight: 300;
         }
       }

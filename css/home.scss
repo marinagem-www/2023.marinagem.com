@@ -20,7 +20,7 @@
     align-items: var(--align-items);
     user-select: none;
     text-decoration: none;
-    transition: opacity 0.1s linear;
+    transition: opacity $TRANSITION-PERIOD linear;
 
     background-image: var(--img-url);
     background-position: center center;
@@ -35,8 +35,8 @@
     .text {
       width: 100%;
       text-transform: uppercase;
-      font-size: 2.5vw;
-      line-height: 3.44vw;
+      font-size: $P48;
+      line-height: $P66;
       font-weight: bold;
       background-color: #000;
       color: #fff;
