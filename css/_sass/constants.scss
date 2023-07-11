@@ -12,21 +12,47 @@ $MENU_COLOR_ITEM: #666;
 $MENU_COLOR_ITEM_SELECTED: #fff;
 
 $TRANSITION-PERIOD: 0.1s;
-$DESKTOP_WITH: 800px;
 
-$P21: 1.09vw;
-$P24: 1.25vw;
-$P27: 1.41vw;
-$P33: 1.72vw;
-$P45: 2.34vw;
-$P48: 2.50vw;
-$P66: 3.44vw;
-$P99: 5.16vw;
+$WIDTH_DESKTOP_LARGE: 1400px;
+$WIDTH_DESKTOP_MEDIUM: 1100px;
+$WIDTH_DESKTOP_SMALL: 800px;
 
 @mixin media-query($canvas) {
-  @if $canvas == DESKTOP {
-    @media only screen and (min-width: $DESKTOP_WITH) {
-      @content;
-    }
+  @if $canvas == "DESKTOP_L" {
+    @media only screen and (min-width: $WIDTH_DESKTOP_LARGE) { @content; }
+  } @else if $canvas == "DESKTOP_M" {
+    @media only screen and (min-width: $WIDTH_DESKTOP_MEDIUM) { @content; }
+  } @else if ($canvas == "DESKTOP_S")  or ($canvas == "DESKTOP") {
+    @media only screen and (min-width: $WIDTH_DESKTOP_SMALL) { @content; }
   }
 }
+
+:root {
+  --mu: 0.5px;
+  --p21: calc(21 * var(--mu));
+  --p24: calc(24 * var(--mu));
+  --p27: calc(27 * var(--mu));
+  --p33: calc(33 * var(--mu));
+  --p45: calc(45 * var(--mu));
+  --p48: calc(48 * var(--mu));
+  --p66: calc(66 * var(--mu));
+  --p99: calc(99 * var(--mu));
+
+  @include media-query(DESKTOP_M) {
+    --mu: 0.66px;
+  }
+
+  @include media-query(DESKTOP_L) {
+    --mu: calc(10vw / 192);
+  }
+}
+
+// TODO: probably just use var() in css
+$P21: var(--p21);
+$P24: var(--p24);
+$P27: var(--p27);
+$P33: var(--p33);
+$P45: var(--p45);
+$P48: var(--p48);
+$P66: var(--p66);
+$P99: var(--p99);
