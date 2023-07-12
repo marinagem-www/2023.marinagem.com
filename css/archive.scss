@@ -3,12 +3,47 @@
 
 @import "constants";
 
-.list-container {
-  width: 80%;
-  max-width: 800px;
-  margin: 0 auto;
+.info-page-container {
+  .menu-content-container {
+    .org-option {
+      display: inline-block;
+      padding: 8px;
+      cursor: pointer;
+      user-select: none;
 
-  .category-title {
-    margin-top: 12px;
+      &.selected {
+        opacity: 0.5;
+        cursor: default;
+      }
+    }
+  }
+
+  .archive-container {
+    .project-list-container {
+      display: none;
+      width: 50%;
+      margin: 0 auto;
+
+      .project-list-subtitle {
+        margin-top: $P21;
+        font-size: $P27;
+        font-weight: 500;
+      }
+
+      .archive-project-link {
+        display: block;
+        font-size: $P24;
+        font-weight: 400;
+        line-height: 1.33;
+      }
+    }
+
+    .archive-select-input {
+      display: none;
+
+      &:checked + .project-list-container {
+        display: block;
+      }
+    }
   }
 }

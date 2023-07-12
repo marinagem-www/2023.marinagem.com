@@ -1,0 +1,15 @@
+<div class="menu-content-container">
+  {% assign orgs = "category,year" | split: "," %}
+
+  <div class="menu-archive-container">
+    {% for o in orgs %}
+      <div class="org-option-wrapper">
+        <label class="org-option" for="select-{{ o }}">
+          {{ o }}
+        </label>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<script src="{{ 'js/archive-menu.js' | relative_url }}"></script>

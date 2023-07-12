@@ -1,0 +1,44 @@
+<div class="archive-container">
+  {% assign lang_pages = site.html_pages | where: "lang",page.lang %}
+
+  <input type="radio" name="archive-list-select" class="archive-select-input" id="select-category" checked>
+  <div class="project-list-container">
+    <div class="project-list-title">
+      By Category
+    </div>
+
+    {% for c in site.data.categories %}
+      {% assign cat_pages = lang_pages | where:"category",c[0] %}
+      {% assign ordered_cat_pages = cat_pages | sort: "year" | reverse %}
+
+      <div class="project-list-subtitle">{{ c[1][page.lang] }}</div>
+      {% for p in ordered_cat_pages %}
+        <a class="archive-project-link" href="{{ p.url | relative_url }}">
+          {{ p.ptitle }} ({{ p.year }})
+        </a>
+      {% endfor %}
+    {% endfor %}
+  </div>
+
+  <input type="radio" name="archive-list-select" class="archive-select-input" id="select-year">
+  <div class="project-list-container">
+    {% assign proj_pages = lang_pages | where:"template","project" %}
+    {% assign ordered_proj_pages = proj_pages | sort: "year" | reverse %}
+    {% assign last_year = "" %}
+
+    <div class="project-list-title">
+      By Year
+    </div>
+
+    {% for p in ordered_proj_pages %}
+      {% assign p_year = p.year | split:" - " | first %}
+      {% if p_year != last_year%}
+        <div class="project-list-subtitle">{{ p_year }}</div>
+        {% assign last_year = p_year %}
+      {% endif %}
+      <a class="archive-project-link" href="{{ p.url | relative_url }}">
+        {{ p.ptitle }} ({{ site.data.categories[p.category][page.lang] }})
+      </a>
+    {% endfor %}
+  </div>
+</div>

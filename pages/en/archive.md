@@ -1,5 +1,6 @@
 ---
-ptitle: Archive and Older Projects
-template: archive
+ptitle: Archive
+template: info
 permalink: /archive/
 ---
+{% include archive/content.html %}
