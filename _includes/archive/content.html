@@ -12,11 +12,16 @@
       {% assign ordered_cat_pages = cat_pages | sort: "year" | reverse %}
 
       <div class="project-list-subtitle">{{ c[1][page.lang] }}</div>
-      {% for p in ordered_cat_pages %}
-        <a class="archive-project-link" href="{{ p.url | relative_url }}">
-          {{ p.ptitle }} ({{ p.year }})
-        </a>
-      {% endfor %}
+
+      <div class="project-list">
+        {% for p in ordered_cat_pages %}
+          <a class="archive-project-link" href="{{ p.url | relative_url }}" style="background-image: url({{ p.cover | relative_url }});">
+            <div class="archive-project-link-text">
+              {{ p.ptitle }} ({{ p.year }})
+            </div>
+          </a>
+        {% endfor %}
+    </div>
     {% endfor %}
   </div>
 
@@ -26,19 +31,22 @@
     {% assign ordered_proj_pages = proj_pages | sort: "year" | reverse %}
     {% assign last_year = "" %}
 
-    <div class="project-list-title">
-      By Year
-    </div>
+    <div class="project-list-title">By Year</div>
 
     {% for p in ordered_proj_pages %}
       {% assign p_year = p.year | split:" - " | first %}
-      {% if p_year != last_year%}
+      {% if p_year != last_year %}
+        {% unless forloop.first %}</div>{% endunless %}
         <div class="project-list-subtitle">{{ p_year }}</div>
+        <div class="project-list">
         {% assign last_year = p_year %}
       {% endif %}
-      <a class="archive-project-link" href="{{ p.url | relative_url }}">
-        {{ p.ptitle }} ({{ site.data.categories[p.category][page.lang] }})
-      </a>
+          <a class="archive-project-link" href="{{ p.url | relative_url }}" style="background-image: url({{ p.cover | relative_url }});">
+            <div class="archive-project-link-text">
+              {{ p.ptitle }} ({{ site.data.categories[p.category][page.lang] }})
+            </div>
+          </a>
     {% endfor %}
+        </div>
   </div>
 </div>
