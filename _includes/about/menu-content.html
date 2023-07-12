@@ -1,8 +1,4 @@
-<div class="menu-container">
-  <div class="menu-title-container">
-    <div class="menu-title {{ page.category }}">{{ page.ptitle }}</div>
-  </div>
-
+<div class="menu-content-container">
   <div class="menu-contact-container">
     {% for c in site.data.about.contact %}
       <a class="menu-contact-item" href="{{ c['link'] }}" target="_blank">{{ c['text'] }}</a>

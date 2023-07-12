@@ -10,7 +10,11 @@
 
   <link rel="stylesheet" href="{{ 'css/main.css' | relative_url }}">
   <link rel="stylesheet" href="{{ 'css/L.css' | replace: 'L', page.template | relative_url }}">
-  <link rel="stylesheet" href="{{ 'assets/simplelightbox/simple-lightbox.min.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ 'assets/simplelightbox/simple-lightbox.min.css' | relative_url }}"> 
+
+  {% if page.template == "info" %}
+  <link rel="stylesheet" href="{{ 'css/N' | replace: 'N', page.name | replace: '.md', '.css' | relative_url }}">
+  {% endif %}
 
   <link rel="icon" href="{{ 'imgs/favicons/favicon.ico' | relative_url }}" sizes="any">
   <link rel="icon" href="{{ 'imgs/favicons/favicon.svg' | relative_url }}" type="image/svg+xml">

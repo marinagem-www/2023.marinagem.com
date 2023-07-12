@@ -3,47 +3,18 @@
 
 @import "constants";
 
-.about-page-container {
-  display: flex;
-  flex-direction: row;
-  width: 100%;
+.info-page-container {
+  .menu-content-container {
+    .menu-contact-item {
+      display: block;
+      font-size: $P24;
+      font-weight: 500;
+      color: #222;
+      text-decoration: none;
+      transition: opacity $TRANSITION-PERIOD linear;
 
-  .menu-container {
-    display: flex;
-    position: sticky;
-    top: 0;
-    flex-direction: column;
-    justify-content: flex-start;
-    width: 20%;
-    min-width: 200px;
-    height: 100vh;
-    padding: $P45 12px $P33 $P33;
-    background-color: #fff;
-
-    .menu-title-container {
-      width: 100%;
-      padding: $P99 0 $P33;
-
-      .menu-title {
-        text-transform: uppercase;
-        font-weight: bold;
-        font-size: $P48;
-        color: #000;
-      }
-    }
-
-    .menu-contact-container {
-      .menu-contact-item {
-        display: block;
-        font-size: $P24;
-        font-weight: 500;
-        color: #222;
-        text-decoration: none;
-        transition: opacity $TRANSITION-PERIOD linear;
-
-        &:hover {
-          opacity: 0.7;
-        }
+      &:hover {
+        opacity: 0.7;
       }
     }
 
@@ -59,19 +30,13 @@
   }
 
   .about-container {
-    width: 80%;
-    flex-grow: 1;
-    margin: 0 auto;
-
     img {
       display: block;
       width: 100%;
       padding: $P66 $P99 0;
     }
 
-    .about-bio-container,
-    .about-statement-container,
-    .about-download-container {
+    .about-text-container {
       width: 75%;
 
       p {

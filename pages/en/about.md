@@ -1,6 +1,6 @@
 ---
 ptitle: Contact
-template: about
+template: info
 permalink: /about/
 ---
 {% capture bio %}
