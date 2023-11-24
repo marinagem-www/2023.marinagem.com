@@ -1,7 +1,7 @@
 forest:
   en: "The Forest"
   pt: "A Floresta"
-  color: "#78a9a1"
+  color: "#008600"
   home-align: flex-start
   feat-project: theory-of-evolution
 water:
@@ -13,13 +13,13 @@ water:
 sun:
   en: "The Sun"
   pt: "O Sol"
-  color: "#eeb200"
+  color: "#fc4402"
   home-align: flex-start
   feat-project: under-the-sun
 minerals:
   en: "The Minerals"
   pt: "Os Minerais"
-  color: "#5e5e5e"
+  color: "#556"
   home-align: flex-start
   feat-project: tectonics
 machines:

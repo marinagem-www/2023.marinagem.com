@@ -3,9 +3,6 @@
 
   <input type="radio" name="archive-list-select" class="archive-select-input" id="select-category" checked>
   <div class="project-list-container">
-    <div class="project-list-title">
-      By Category
-    </div>
 
     {% for c in site.data.categories %}
       {% assign cat_pages = lang_pages | where:"category",c[0] %}
@@ -31,8 +28,6 @@
     {% assign ordered_proj_pages = proj_pages | sort: "year" | reverse %}
     {% assign last_year = "" %}
 
-    <div class="project-list-title">By Year</div>
-
     {% for p in ordered_proj_pages %}
       {% assign p_year = p.year | split:" - " | first %}
       {% if p_year != last_year %}
@@ -43,7 +38,7 @@
       {% endif %}
           <a class="archive-project-link" href="{{ p.url | relative_url }}" style="background-image: url({{ p.cover | relative_url }});">
             <div class="archive-project-link-text">
-              {{ p.ptitle }} ({{ site.data.categories[p.category][page.lang] }})
+              {{ p.ptitle }}
             </div>
           </a>
     {% endfor %}

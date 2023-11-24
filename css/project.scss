@@ -38,7 +38,7 @@
 
     .project-title {
       width: 50%;
-      font-size: $P27;
+      font-size: $P24;
       font-weight: 500;
 
       {% for s in site.data.categories %}
@@ -51,7 +51,8 @@
 
     .project-info {
       width: 50%;
-      font-size: $P24;
+      font-size: $P18;
+      font-style: italic;
       line-height: 1.5;
     }
   }
@@ -72,7 +73,7 @@
     p {
       width: 50%;
       margin: 0 auto;
-      font-size: $P24;
+      font-size: $P21;
 
       & + p {
         margin-top: $P66;
@@ -90,7 +91,6 @@
     img + em {
       font-style: normal;
       font-size: $P21;
-      font-weight: 300;
     }
 
     .video-wrapper {
