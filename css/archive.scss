@@ -55,10 +55,14 @@
         background-size: cover;
         background-repeat: no-repeat;
 
-        transition: opacity $TRANSITION-PERIOD linear;
+        filter: grayscale(100%);
+        transition: filter $TRANSITION-PERIOD linear;
 
         &:hover {
-          opacity: 70%;
+          filter: grayscale(0%);
+          .archive-project-link-text {
+            opacity: 1;
+          }
         }
 
         .archive-project-link-text {
@@ -68,6 +72,9 @@
           color: #fff;
           text-decoration: none;
           text-align: center;
+
+          opacity: 0;
+          transition: opacity $TRANSITION-PERIOD linear;
         }
       }
     }
