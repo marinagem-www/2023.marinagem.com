@@ -24,7 +24,11 @@
     {% assign meta_description = site.description %}
   {% endif %}
   <meta name="description" content="{{ meta_description }}">
-  <meta name="title" content="{{ page.ptitle }}">
 
-  <title>{{ page.ptitle }}</title>
+  {% assign page_title = site.title | append: " | " | append: page.ptitle %}
+  {% if site.title == page.ptitle %}
+    {% assign page_title = site.title %}
+  {% endif %}
+  <meta name="title" content="{{ page_title }}">
+  <title>{{ page_title }}</title>
 </head>
