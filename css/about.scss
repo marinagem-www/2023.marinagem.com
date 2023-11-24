@@ -19,6 +19,7 @@
     }
 
     .menu-newsletter-container {
+      display: none;
       padding: $P33 0 $P66;
 
       .menu-newsletter-intro {
@@ -52,10 +53,11 @@
     .about-statement-container,
     .about-download-container {
       margin-top: $P66;
+      margin-bottom: $P66;
     }
 
     .about-download-container {
-      margin-bottom: $P66;
+      display: none;
 
       .about-download-item {
         font-size: $P24;
