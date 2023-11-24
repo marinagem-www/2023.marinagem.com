@@ -44,6 +44,7 @@
     display: inline-block;
     text-decoration: none;
     font-size: $P24;
+    font-weight: 500;
     padding: 2px 0;
     color: $MENU_COLOR_ITEM;
 
@@ -57,7 +58,7 @@
     justify-content: flex-end;
 
     .menu-item {
-      font-weight: bold;
+      font-weight: 700;
     }
 
     .menu-item.selected {
