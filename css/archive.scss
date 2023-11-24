@@ -5,6 +5,7 @@
 
 .info-page-container {
   .menu-content-container {
+    display: none;
     .org-option {
       display: inline-block;
       padding: 8px;
@@ -43,8 +44,7 @@
         justify-content: center;
         align-items: center;
 
-        font-size: $P24;
-        font-weight: 400;
+        font-size: $P21;
         line-height: 1.33;
         text-decoration: none;
 

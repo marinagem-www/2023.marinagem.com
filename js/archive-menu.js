@@ -7,5 +7,5 @@ window.addEventListener("DOMContentLoaded", (_) => {
       o.classList.add("selected");
     });
   });
-  orgOptions[0].click();
+  orgOptions[1].click();
 });
