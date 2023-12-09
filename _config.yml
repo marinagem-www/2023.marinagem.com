@@ -67,6 +67,7 @@ prose:
   media: "imgs"
   ignore:
     - .gitignore
+    - .github
     - CNAME
     - _config.yml
     - _data/lang.yml
