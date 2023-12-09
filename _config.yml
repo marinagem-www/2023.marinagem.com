@@ -76,10 +76,11 @@ prose:
     - _layouts
     - pages/en/archive.md
     - pages/en/index-en.md
-    - pages/en/index-img-test.md
+    - pages/en/index-plain.md
     - pages/en/index.md
     - pages/pt/archive.md
-    - pages/pt/index-img-test.md
+    - pages/pt/index-en.md
+    - pages/pt/index-plain.md
     - pages/pt/index.md
     - assets
     - css
