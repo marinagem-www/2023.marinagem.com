@@ -14,5 +14,3 @@ Genetic Determinism in a term where the genes determine shape and biological fun
 In this video, a zoom out proposes a transcendence: birds are the fundamental structures of a rock. The sequence of images shows a possibility of body, of substance, fully justifiable if we analyze the digital image not as a representation of something, but as an object itself.
 
 {% include vimeo.html id=126804159 width=4 height=3 %}
-
-&nbsp;

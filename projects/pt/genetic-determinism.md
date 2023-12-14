@@ -14,5 +14,3 @@ No Determinismo Genético, termo concebido por Darwin, os genes determinam toda 
 No vídeo, um zoom out propõe uma transcendência ao apresentar possíveis pássaros que compõem uma pedra. Apesar de não seguir nenhuma ordem evolutiva, a sequência de imagens apresenta uma possibilidade de vida, de matéria, totalmente justificável ao analisarmos a imagem digital não como representação de algo, mas como objeto existente por si só.
 
 {% include vimeo.html id=126804159 width=4 height=3 %}
-
-&nbsp;
