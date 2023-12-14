@@ -138,3 +138,5 @@ prose:
               value: 'minerals'
             - name: 'machines'
               value: 'machines'
+            - name: 'archive'
+              value: 'archive'
