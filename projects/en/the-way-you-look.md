@@ -1,10 +1,11 @@
 ---
+published: true
 ptitle: The Way You Look
-medium: Video, color, sound
+medium: 'Video, color, sound'
 dimensions: '3:05 minutes'
 description: 2-channel video projection
 year: '2009'
-category: minerals
+category: archive
 cover: imgs/the-way-you-look/the-way-you-look_00.jpg
 ---
 Two points of view of the same landscape projected one in front of the other.
