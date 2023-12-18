@@ -1,10 +1,11 @@
 ---
+published: true
 ptitle: Confine
-medium: Video, color, sound
+medium: 'Video, color, sound'
 dimensions: '1:01 minutes'
 description: Video for mobile phones
 year: '2006'
-category: minerals
+category: archive
 cover: imgs/confine/confine_00.jpg
 ---
 An imprisoned insect is submitted to a situation where limited space and time lead to suffocation. A video to be seen on a mobile screen. Selected for the first ARTEMOV - Mobile Media Art Festival, 2006.
