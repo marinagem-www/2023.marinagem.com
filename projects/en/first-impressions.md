@@ -1,10 +1,11 @@
 ---
+published: true
 ptitle: First Impressions on the Earth
-medium: Video, color, sound
+medium: 'Video, color, sound'
 dimensions: Variable dimensions
 description: 4-channel video installation
 year: '2013'
-category: minerals
+category: archive
 cover: imgs/first-impressions/first-impressions_00.jpg
 ---
 In 2009, in Geneva, I began experimenting with digital compact cameras. They were set in cars, bike, feet, wooden brackets, cranes, and a new town appeared. The experiments came to São Paulo, turning streets, cars, shades into distorted perspectives and plans.
