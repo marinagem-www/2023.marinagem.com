@@ -1,10 +1,11 @@
 ---
+published: true
 ptitle: A Locomoção
-medium: Vídeo, cor, som
+medium: 'Vídeo, cor, som'
 dimensions: '1:10 minutos'
 description: Vídeo instalação site-specific
 year: '2012'
-category: minerals
+category: archive
 cover: imgs/locomotion/locomotion_00.jpg
 ---
 Filmado com um jogo de espelhos, a arquitetura da Casa das Caldeiras ganha outra leitura. Ao longo do percurso, com interferências sonoras metálicas, vigas parecem trilhos que se prolongam na instalação localizada no próprio espaço filmado.
