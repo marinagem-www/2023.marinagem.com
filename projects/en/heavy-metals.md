@@ -12,5 +12,5 @@ _Heavy metals_ is an installation composed of 140 small plastic bags filled with
 ![]({{site.baseurl}}/imgs/heavy-metals/heavy-metals_01.jpg)
 _Exhibition view at Qual Casa, São Paulo, BR._
 
-![]({{site.baseurl}}/imgs/heavy-metals/heavy-metals_01.jpg)
+![]({{site.baseurl}}/imgs/heavy-metals/heavy-metals_02.jpg)
 _Photos by Filipe Berndt._

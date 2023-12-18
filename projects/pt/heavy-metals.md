@@ -12,5 +12,5 @@ Uma alusão a situação atual de São Paulo no ano de 2014. Falta água, e o qu
 ![]({{site.baseurl}}/imgs/heavy-metals/heavy-metals_01.jpg)
 _Vista da exposição no Qual Casa, São Paulo, BR._
 
-![]({{site.baseurl}}/imgs/heavy-metals/heavy-metals_01.jpg)
+![]({{site.baseurl}}/imgs/heavy-metals/heavy-metals_02.jpg)
 _Fotos de: Filipe Berndt._
