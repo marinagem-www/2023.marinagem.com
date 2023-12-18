@@ -5,7 +5,7 @@ description: Digital photography and collage
 medium: Paper and Cellophane
 dimensions: Variable Dimensions
 year: 2013 - 2015
-category: minerals
+category: archive
 cover: imgs/spectros/spectros_00.jpg
 ---
 ![]({{site.baseurl}}/imgs/spectros/spectros_01.jpg)
