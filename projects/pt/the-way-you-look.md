@@ -1,10 +1,11 @@
 ---
+published: true
 ptitle: Maneira de Olhar
-medium: Vídeo, cor, som
+medium: 'Vídeo, cor, som'
 dimensions: '3:05 minutos'
 description: Projeção em 2 canais
 year: '2009'
-category: minerals
+category: archive
 cover: imgs/the-way-you-look/the-way-you-look_00.jpg
 ---
 Uma projeção em frente a outra onde um mesmo caminho no campo é filmado de 2 maneiras diferentes. Acompanha as seguintes falas, em momentos específicos da imagem, extraídas da série de TV France/tour/detour/deux/enfants (1977) de Jean-Luc Godard e Miéville:
