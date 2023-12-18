@@ -1,10 +1,11 @@
 ---
+published: true
 ptitle: Atonal Music
 medium: Toilets and custom circuits
 dimensions: Variable dimensions
 description: Installation
 year: '2008'
-category: minerals
+category: archive
 cover: imgs/atonal-music/atonal-music_00.jpg
 ---
 Invited to participate to the exhibition "Carved life, living art: experiences and trials in daily life", at UFMG, 3 toilet flush mechanisms (a Brazilian classical model) were modified to produce a childish musical sound when activated.
