@@ -1,10 +1,11 @@
 ---
+published: true
 ptitle: Impressões da Terra
-medium: Vídeo, cor, som
+medium: 'Vídeo, cor, som'
 dimensions: Dimensões variadas
 description: Vídeo instalação em 4 canais
 year: '2013'
-category: minerals
+category: archive
 cover: imgs/first-impressions/first-impressions_00.jpg
 ---
 Em 2009, em Genebra, iniciou-se um projeto de experimentação do ato fílmico com câmeras digitais compactas. Na bolsa, haviam sempre três câmeras, estas eram fixadas em carros, bicicletas, pés, suportes de madeira, gruas, braços mecânicos, e assim, uma nova cidade aparecia. Hoje, os experimentos chegaram até São Paulo, como _Impressões da Terra_, transformando ruas, carros, grades, em planos e perspectivas distorcidas.
