@@ -1,10 +1,11 @@
 ---
+published: true
 ptitle: Promenade Baroque à Berlin
-medium: Vídeo, cor, sem som
+medium: 'Vídeo, cor, sem som'
 dimensions: Dimensões e duração variadas
 description: Vídeo instalação para orquestra
 year: '2011'
-category: minerals
+category: archive
 cover: imgs/promenade-baroque/promenade-baroque_00.jpg
 ---
 Vídeo instalação composta para o espetáculo _Promenade Baroque à Berlin_ com o diretor musical Claude-Xavier Hollesntein. Peça exibida no Museu Carnavalet em Paris e no Espaço Fusterie em Genebra. Planos fixos filmados em Berlim são como fotografias animadas que acompanham a execução das músicas de Bach e Brunhs pela orquestra.
