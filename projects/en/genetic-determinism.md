@@ -1,10 +1,11 @@
 ---
+published: true
 ptitle: Genetic Determinism
-medium: Video, color, sound
+medium: 'Video, color, sound'
 dimensions: '0:47 minutes'
 description: Video
 year: '2015'
-category: minerals
+category: archive
 cover: imgs/genetic-determinism/genetic-determinism_00.jpg
 ---
 Science seeks natural explanations for observable phenomena. In this work, I act as a scientist of the digital image, observing it and creating concepts based in evolutionary theories. What this image reveals beyond an organization of pixels? Behind a stone placed in a colored background, may this object have other meaning?
