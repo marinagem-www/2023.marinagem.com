@@ -1,10 +1,11 @@
 ---
+published: true
 ptitle: Lifespan
-medium: Tube TV, magnets and broken televisions
+medium: 'Tube TV, magnets and broken televisions'
 dimensions: '3:38 minutes'
 description: Video installation
 year: '2012'
-category: minerals
+category: archive
 cover: imgs/lifespan/lifespan_01.jpg
 ---
 _Lifespan_ is an installation composed with tube televisions and magnets. A video of a robotic arm removing metals and squirms in a junkyard is shown on a TV with magnets attached to it. These magnets distort the screen image and seem to attract it. A tribute to Nam June Paik.
