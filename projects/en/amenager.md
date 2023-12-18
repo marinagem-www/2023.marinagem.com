@@ -1,10 +1,11 @@
 ---
-ptitle: 'Aménager'
-medium: Video, color, no sound
+published: true
+ptitle: Aménager
+medium: 'Video, color, no sound'
 dimensions: '7:47 minutes'
 description: Public video installation
 year: '2011'
-category: minerals
+category: archive
 cover: imgs/amenager/amenager_00.jpg
 ---
 With the support of the town of Geneva and the Alpes, this project was developed in the construction site of Plainpalais square. It was a reflection on the act of filming and the barriers between the private and public spaces. Shot during an ordinary work day, it was projected on the gate that separates the construction from the citizens, sometimes presenting details from inside, sometimes mixing with the external landscape.
