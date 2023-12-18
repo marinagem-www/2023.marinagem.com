@@ -1,10 +1,11 @@
 ---
+published: true
 ptitle: When is tomorrow?
-medium: Video, color, sound
+medium: 'Video, color, sound'
 dimensions: Variable dimensions
 description: 4 channel video installation
 year: '2010'
-category: minerals
+category: archive
 cover: imgs/when-tomorrow/when-tomorrow_00.jpg
 ---
 An audiovisual experience concerning some bases of the digital moving image using urban elements and simulated landscapes as metaphors. Pixel, light, frame and focus compose an installation where time is questioned through the video that simulates the rising of credits.
