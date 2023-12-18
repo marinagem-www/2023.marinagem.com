@@ -1,10 +1,11 @@
 ---
+published: true
 ptitle: Determinismo Genético
-medium: Vídeo, cor, som
+medium: 'Vídeo, cor, som'
 dimensions: '0:47 minutos'
 description: Vídeo
 year: '2015'
-category: minerals
+category: archive
 cover: imgs/genetic-determinism/genetic-determinism_00.jpg
 ---
 A ciência procura explicações naturais para fenômenos observáveis. Sendo assim, me coloquei como uma cientista da imagem digital. O que esta imagem pode me revelar além de uma organização de pixels? Além de uma pedra em fundo colorido, que outro significado este objeto pode ter? Que outro sentido?
