@@ -6,7 +6,7 @@ medium: Papel e Celofane
 dimensions: Dimensões Variáveis
 year: 2013 - 2015
 cover: imgs/spectros/spectros_00.jpg
-category: minerals
+category: archive
 ---
 ![]({{site.baseurl}}/imgs/spectros/spectros_01.jpg)
 
