@@ -1,10 +1,11 @@
 ---
+published: true
 ptitle: Em Lugar Nenhum
-medium: Vídeo, cor, sem som
+medium: 'Vídeo, cor, sem som'
 dimensions: '4:21 minutos'
 description: Projeção em 2 canais
 year: '2009'
-category: minerals
+category: archive
 cover: imgs/never-there/never-there_01.jpg
 ---
 Dois travellings com inclinações de câmera criam vídeos “gráficos” cujo movimento não chega a lugar nenhum.
