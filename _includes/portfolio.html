@@ -2,9 +2,22 @@
   {% assign lang_pages = site.html_pages | where: "lang",page.lang %}
   {% assign proj_pages = lang_pages | where:"template","project" %}
   {% assign ordered_proj_pages = proj_pages | sort: "year" | reverse %}
-  {% capture le %}%}{% endcapture %}
+
+  {% assign tag_rm_list = "<em>,<span>" | split: "," %}
+  {% capture hcb %}<!--{% endcapture %}
+  {% capture hce %}-->{% endcapture %}
 
   {% for p in ordered_proj_pages %}
+    {% assign p_text = p.content | markdownify  %}
+    {% assign p_text = p_text | replace: '{%', hcb | replace: '%\}', hce %}
+
+    {% for tb in tag_rm_list %}
+      {% assign te = tb | replace "<", "</" %}
+      {% assign p_text = p_text | replace: tb, hcb | replace: te, hce %}
+    {% endfor %}
+
+    {% assign p_text = p_text | strip_html %}
+
     <div class="portfolio-page">
       <div class="portfolio-page-left">
         <div class="portfolio-image" style="background-image: url({{site.baseurl}}/{{ p.cover }})"></div>
@@ -14,7 +27,7 @@
         <div class="project-info project-title">{{ p.ptitle }}, <span class="project-year">{{ p.year }}</span></div>
         <div class="project-info project-medium">{{ p.description }}</div>
         <div class="project-info project-medium">{{ p.medium }}</div>
-        <div class="project-info project-text">{{ p.content | markdownify | replace: '{%', '<!--' | replace: le, '-->' | strip_html | truncatewords: 500 }}</div>
+        <div class="project-info project-text">{{ p_text }}</div>
       </div>
     </div>
   {% endfor %}
