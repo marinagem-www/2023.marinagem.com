@@ -1,0 +1,21 @@
+<div class="portfolio-container">
+  {% assign lang_pages = site.html_pages | where: "lang",page.lang %}
+  {% assign proj_pages = lang_pages | where:"template","project" %}
+  {% assign ordered_proj_pages = proj_pages | sort: "year" | reverse %}
+  {% capture le %}%}{% endcapture %}
+
+  {% for p in ordered_proj_pages %}
+    <div class="portfolio-page">
+      <div class="portfolio-page-left">
+        <div class="portfolio-image" style="background-image: url({{site.baseurl}}/{{ p.cover }})"></div>
+        <div class="project-footnote">Mari Nagem | {{ p.ptitle }} | {{ p.year }}</div>
+      </div>
+      <div class="portfolio-page-right">
+        <div class="project-info project-title">{{ p.ptitle }}, <span class="project-year">{{ p.year }}</span></div>
+        <div class="project-info project-medium">{{ p.description }}</div>
+        <div class="project-info project-medium">{{ p.medium }}</div>
+        <div class="project-info project-text">{{ p.content | markdownify | replace: '{%', '<!--' | replace: le, '-->' | strip_html | truncatewords: 500 }}</div>
+      </div>
+    </div>
+  {% endfor %}
+</div>

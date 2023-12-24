@@ -1,0 +1,76 @@
+---
+---
+
+.overlay-container {
+  display: none;
+}
+
+.portfolio-container {
+  .portfolio-page {
+    width: 100%;
+    height: calc(100vw / 1.77777777);
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+
+    .portfolio-page-left {
+      position: relative;
+      flex-grow: 1;
+      height: 100%;
+    }
+
+    .project-footnote {
+      position: absolute;
+      left: 3.5%;
+      bottom: 4%;
+
+      color: #fff;
+      font-size: 0.9vw;
+      font-weight: 300;
+    }
+
+    .portfolio-page-right {
+      width: 25%;
+      padding: 2%;
+    }
+
+    .portfolio-image {
+      width: 100%;
+      height: 100%;
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+
+    .project-info {
+      font-size: 1vw;
+      font-weight: 300;
+    }
+
+    .project-title {
+      margin: 0 auto 1vw 0;
+
+      font-weight: bold;
+
+      .project-year {
+        font-weight: normal;
+      }
+    }
+
+    .project-medium {
+      margin: 0 auto 1vw 0;
+
+      font-style: italic;
+    }
+  }
+}
+
+@media print {
+  .portfolio-container {
+    .portfolio-page {
+      width: 1920px;
+      height: 1080px;
+      page-break-after: always;
+    }
+  }
+}
