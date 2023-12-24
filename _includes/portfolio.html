@@ -7,6 +7,9 @@
   {% capture hcb %}<!--{% endcapture %}
   {% capture hce %}-->{% endcapture %}
 
+  {% assign tag_replace_list = "</p>:_br_,<a :_a ,</a>: a_ " | split: "," %}
+  {% assign replace_tag_list = "_br_:<br/><br/>,_a :<a , a_ :</a>" | split: "," %}
+
   {% for p in ordered_proj_pages %}
     {% assign p_text = p.content | markdownify  %}
     {% assign p_text = p_text | replace: '{%', hcb | replace: '%\}', hce %}
@@ -16,7 +19,19 @@
       {% assign p_text = p_text | replace: tb, hcb | replace: te, hce %}
     {% endfor %}
 
+    {% for tag in tag_replace_list %}
+      {% assign k = tag | split: ":" | first %}
+      {% assign v = tag | split: ":" | last %}
+      {% assign p_text = p_text | replace: k, v %}
+    {% endfor %}
+
     {% assign p_text = p_text | strip_html %}
+
+    {% for tag in replace_tag_list %}
+      {% assign k = tag | split: ":" | first %}
+      {% assign v = tag | split: ":" | last %}
+      {% assign p_text = p_text | replace: k, v %}
+    {% endfor %}
 
     <div class="portfolio-page">
       <div class="portfolio-page-left">
