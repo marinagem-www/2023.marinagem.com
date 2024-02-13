@@ -9,16 +9,20 @@
   width: 100%;
 
   .info-menu-container {
-    display: flex;
-    position: sticky;
-    top: 0;
-    flex-direction: column;
-    justify-content: flex-start;
+    display: none;
     width: 20%;
     min-width: 200px;
     height: 100vh;
     padding: $P45 12px $P33 $P33;
     background-color: #fff;
+
+    @include media-query(DESKTOP) {
+      display: flex;
+      position: sticky;
+      top: 0;
+      flex-direction: column;
+      justify-content: flex-start;
+    }
 
     .menu-title-container {
       width: 100%;
@@ -27,7 +31,7 @@
       .menu-title {
         text-transform: uppercase;
         font-weight: bold;
-        font-size: $P48;
+        font-size: $F48;
         color: #000;
       }
     }

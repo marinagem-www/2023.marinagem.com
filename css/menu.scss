@@ -4,16 +4,20 @@
 @import "constants";
 
 .menu-container {
-  display: flex;
-  position: sticky;
-  top: 0;
-  flex-direction: column;
-  justify-content: flex-start;
+  display: none;
   width: 20%;
   min-width: 200px;
   height: 100vh;
   padding: $P45 12px $P33 $P33;
   background-color: $MENU_COLOR_BACKGROUND;
+
+  @include media-query(DESKTOP) {
+    display: flex;
+    position: sticky;
+    top: 0;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
 
   .menu-title-container {
     width: 100%;
@@ -22,7 +26,7 @@
     .menu-title {
       text-transform: uppercase;
       font-weight: bold;
-      font-size: $P48;
+      font-size: $F48;
 
       {% for s in site.data.categories %}
       &.{{ s[0]}} {
@@ -43,7 +47,7 @@
   .menu-item {
     display: inline-block;
     text-decoration: none;
-    font-size: $P24;
+    font-size: $F24;
     font-weight: 500;
     padding: 2px 0;
     color: $MENU_COLOR_ITEM;

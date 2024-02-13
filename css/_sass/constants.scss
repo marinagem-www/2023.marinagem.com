@@ -28,24 +28,39 @@ $WIDTH_DESKTOP_SMALL: 800px;
 }
 
 :root {
-  --mu: 0.5px;
-  --p18: calc(18 * var(--mu));
-  --p21: calc(21 * var(--mu));
-  --p24: calc(24 * var(--mu));
-  --p27: calc(27 * var(--mu));
-  --p33: calc(33 * var(--mu));
-  --p45: calc(45 * var(--mu));
-  --p48: calc(48 * var(--mu));
-  --p54: calc(54 * var(--mu));
-  --p66: calc(66 * var(--mu));
-  --p99: calc(99 * var(--mu));
+  --pu: 0.4px;
+  --fu: 0.5px;
+
+  --p18: calc(18 * var(--pu));
+  --p21: calc(21 * var(--pu));
+  --p24: calc(24 * var(--pu));
+  --p27: calc(27 * var(--pu));
+  --p33: calc(33 * var(--pu));
+  --p45: calc(45 * var(--pu));
+  --p48: calc(48 * var(--pu));
+  --p54: calc(54 * var(--pu));
+  --p66: calc(66 * var(--pu));
+  --p99: calc(99 * var(--pu));
+
+  --f18: calc(18 * var(--fu));
+  --f21: calc(21 * var(--fu));
+  --f24: calc(24 * var(--fu));
+  --f27: calc(27 * var(--fu));
+  --f48: calc(48 * var(--fu));
+
+  @include media-query(DESKTOP_S) {
+    --pu: 0.5px;
+    --fu: 0.5px;
+  }
 
   @include media-query(DESKTOP_M) {
-    --mu: 0.66px;
+    --pu: 0.66px;
+    --fu: 0.66px;
   }
 
   @include media-query(DESKTOP_L) {
-    --mu: calc(10vw / 192);
+    --pu: calc(10vw / 192);
+    --fu: calc(10vw / 192);
   }
 }
 
@@ -60,3 +75,9 @@ $P48: var(--p48);
 $P54: var(--p54);
 $P66: var(--p66);
 $P99: var(--p99);
+
+$F18: var(--f18);
+$F21: var(--f21);
+$F24: var(--f24);
+$F27: var(--f27);
+$F48: var(--f48);

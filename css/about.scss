@@ -7,7 +7,7 @@
   .menu-content-container {
     .menu-contact-item {
       display: block;
-      font-size: $P24;
+      font-size: $F24;
       font-weight: 500;
       color: #222;
       text-decoration: none;
@@ -23,7 +23,7 @@
       padding: $P33 0 $P66;
 
       .menu-newsletter-intro {
-        font-size: $P24;
+        font-size: $F24;
         font-weight: 500;
         color: #222;
       }
@@ -45,7 +45,7 @@
         margin-block: 0;
         width: 100%;
         padding-right: $P99;
-        font-size: $P21;
+        font-size: $F21;
       }
     }
 
@@ -59,7 +59,7 @@
       display: none;
 
       .about-download-item {
-        font-size: $P24;
+        font-size: $F24;
         font-weight: 500;
         text-transform: uppercase;
         color: #000;
