@@ -12,13 +12,13 @@
 
       <div class="project-list">
         {% for p in ordered_cat_pages %}
-          <a class="archive-project-link" href="{{ p.url | relative_url }}" style="background-image: url({{ p.cover | relative_url }});">
+          <a class="archive-project-link" href="{{ p.url | relative_url }}" style="background-image: url('{{ p.cover | relative_url }}');">
             <div class="archive-project-link-text">
-              {{ p.ptitle }} ({{ p.year }})
+              {{ p.ptitle | split: " | " | first }} ({{ p.year }})
             </div>
           </a>
         {% endfor %}
-    </div>
+      </div>
     {% endfor %}
   </div>
 
@@ -36,9 +36,9 @@
         <div class="project-list">
         {% assign last_year = p_year %}
       {% endif %}
-          <a class="archive-project-link" href="{{ p.url | relative_url }}" style="background-image: url({{ p.cover | relative_url }});">
+          <a class="archive-project-link" href="{{ p.url | relative_url }}" style="background-image: url('{{ p.cover | relative_url }}');">
             <div class="archive-project-link-text">
-              {{ p.ptitle }}
+              {{ p.ptitle | split: " | " | first }}
             </div>
           </a>
     {% endfor %}
