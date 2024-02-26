@@ -8,15 +8,25 @@
 {% endif %}
 
 <div class="overlay-container {{ page_name }}">
-  <a class="overlay-link home-link {{ page_name }}" href="{{ home_url | relative_url }}">
-    MariNagem
-  </a>
+  <div class="overlay-link-container overlay-home-container">
+    <a class="overlay-link home-link {{ page_name }}" href="{{ home_url | relative_url }}">
+      MariNagem
+    </a>
+  </div>
 
-  <a class="overlay-link about-link {{ page_name }}" href="{{ about_url | relative_url }}">
-    about
-  </a>
+  <div class="overlay-link-container overlay-about-container">
+    <a class="overlay-link archive-link {{ page_name }}" href="{{ about_url | relative_url }}">
+      archive
+    </a>
+    <a class="overlay-link archive-link">|</a>
+    <a class="overlay-link about-link {{ page_name }}" href="{{ about_url | relative_url }}">
+      about
+    </a>
+  </div>
 
-  <a class="overlay-link archive-link {{ page_name }}" href="{{ archive_url | relative_url }}">
-    archive
-  </a>
+  <div class="overlay-link-container overlay-archive-container">
+    <a class="overlay-link archive-link {{ page_name }}" href="{{ archive_url | relative_url }}">
+      archive
+    </a>
+  </div>
 </div>

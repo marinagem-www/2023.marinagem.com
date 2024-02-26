@@ -11,13 +11,46 @@
   position: fixed;
   z-index: 10;
 
-  .overlay-link {
-    pointer-events: all;
+  .overlay-link-container {
+    display: inline;
     position: absolute;
+    pointer-events: none;
+    margin: $P21;
+
+    &.overlay-about-container {
+      right: 0;
+      display: flex;
+      flex-direction: row;
+      gap: $P21;
+
+      .archive-link {
+        display: block;
+
+        @include media-query(DESKTOP) {
+          display: none;
+        }
+      }
+    }
+
+    &.overlay-archive-container {
+      bottom: 0;
+      right: 0;
+      transform-origin: bottom left;
+      transform: translate(100%, 0) rotate(-90.0deg);
+      display: none;
+
+      @include media-query(DESKTOP) {
+        display: inline;
+      }
+    }
+  }
+
+  .overlay-link {
+    display: block;
+    pointer-events: all;
     text-decoration: none;
     font-weight: 500;
     font-size: $F21;
-    margin: $P21;
     transition: color $TRANSITION-PERIOD linear;
 
     color: $OVERLAY_LINK_COLOR;
@@ -49,7 +82,6 @@
   }
 
   .about-link {
-    right: 0;
     &.about {
       cursor: default;
       color: $OVERLAY_LINK_COLOR_ACTIVE;
@@ -62,13 +94,7 @@
     }
   }
 
-
   .archive-link {
-    bottom: 0;
-    right: 0;
-    transform-origin: bottom left;
-    transform: translate(100%, 0) rotate(-90.0deg);
-
     &.archive {
       cursor: default;
       color: $OVERLAY_LINK_COLOR_ACTIVE;
