@@ -46,6 +46,11 @@ defaults:
       lang: pt
   -
     scope:
+      path: "pages/**/list"
+    values:
+      template: project
+  -
+    scope:
       path: "projects/en"
     values:
       layout: "html"

@@ -1,0 +1,15 @@
+{% include lang.html %}
+{% assign cat_pages = lang_pages | where:"category",page.category %}
+{% assign ordered_pages = cat_pages | sort: "year" | reverse %}
+
+{% assign cat_title = site.data.categories[page.category][page.lang] %}
+
+{{ cat_title }}
+
+<div class="list-container">
+  {% for p in ordered_pages %}
+    <a class="{{ mclass }}" href="{{ p.url | relative_filter }}">
+      {{ p.ptitle | split: " | " | first }}
+    </a>
+  {% endfor %}
+</div>
