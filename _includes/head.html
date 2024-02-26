@@ -12,6 +12,10 @@
   <link rel="stylesheet" href="{{ 'css/L.css' | replace: 'L', page.template | relative_url }}">
   <link rel="stylesheet" href="{{ 'assets/simplelightbox/simple-lightbox.min.css' | relative_url }}"> 
 
+  {% if page.path contains '/list/' %}
+    <link rel="stylesheet" href="{{ 'css/list.css' | relative_url }}">
+  {% endif %}
+
   {% if page.template == "info" %}
   <link rel="stylesheet" href="{{ 'css/N' | replace: 'N', page.name | replace: '.md', '.css' | relative_url }}">
   {% endif %}

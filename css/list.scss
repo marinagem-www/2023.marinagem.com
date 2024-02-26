@@ -1,0 +1,105 @@
+---
+---
+
+@import "constants";
+
+.list-content-container {
+  width: 100%;
+
+  .list-title {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: $F48;
+
+    {% for s in site.data.categories %}
+      &.{{ s[0]}} {
+        color: {{ s[1]['color'] }};
+      }
+    {% endfor %}
+  }
+
+  .list-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+
+    @include media-query(DESKTOP) {
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      row-gap: $P18;
+    }
+
+    .list-project-link-wrapper {
+      position: relative;
+      width: 100%;
+      padding-bottom: 100%;
+
+      @include media-query(DESKTOP) {
+        width: 32%;
+        padding-bottom: 32%;
+      }
+    }
+
+    .list-project-link-wrapper + .list-project-link-wrapper {
+      margin-top: $P33;
+
+      @include media-query(DESKTOP) {
+        margin-top: 0;
+      }
+    }
+
+    .list-project-link {
+      position: absolute;
+      top: 0;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+
+      font-size: $F18;
+      line-height: 1.33;
+      text-decoration: none;
+
+      width: 100%;
+      height: 100%;
+
+      background-position: center;
+      background-size: cover;
+      background-repeat: no-repeat;
+
+      filter: grayscale(100%);
+      transition: filter $TRANSITION-PERIOD linear;
+
+      @include media-query(DESKTOP) {
+        font-size: $F21;
+      }
+
+      &:hover {
+        filter: grayscale(0%);
+        .list-project-link-text {
+          opacity: 1;
+        }
+      }
+
+      .list-project-link-text {
+        width: 100%;
+        padding: 0 12px;
+        background-color: #000;
+        color: #fff;
+        text-decoration: none;
+        text-align: center;
+
+        opacity: 1;
+        transition: opacity $TRANSITION-PERIOD linear;
+
+        @include media-query(DESKTOP) {
+          opacity: 0;
+        }
+      }
+    }
+  }
+}
