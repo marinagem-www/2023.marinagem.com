@@ -50,7 +50,8 @@
     }
 
     .about-statement-container,
-    .about-download-container {
+    .about-download-container,
+    .about-menu-container {
       margin-top: $P66;
       margin-bottom: $P66;
     }
@@ -63,6 +64,20 @@
         font-weight: 500;
         text-transform: uppercase;
         color: #000;
+      }
+    }
+
+    .about-menu-container.mobile {
+      display: block;
+
+      .menu-title {
+        text-transform: uppercase;
+        font-weight: bold;
+        font-size: $F24;
+      }
+
+      @include media-query(DESKTOP) {
+        display: none;
       }
     }
   }
