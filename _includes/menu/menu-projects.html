@@ -1,4 +1,4 @@
-{% assign cat_pages = lang_pages | where:"category",page.category %}
+{% assign cat_pages = lang_pages | where:"category",page.category | where_exp:"p","p.year" %}
 {% assign ordered_pages = cat_pages | sort: "year" | reverse %}
 
 <div class="menu-projects">

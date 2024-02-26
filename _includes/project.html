@@ -8,7 +8,9 @@
     </div>
     <div class="project-info-container">
       <div class="project-title {{ page.category }}">
-        {{ page.ptitle }}, {{ page.year }}
+        {% if page.year %}
+          {{ page.ptitle }}, {{ page.year }}
+        {% endif %}
       </div>
       <div class="project-info">
         {{ page.description }}<br/>
