@@ -32,6 +32,20 @@
     background-size: cover;
     align-items: center;
 
+    &.desktop {
+      display: none;
+      @include media-query(DESKTOP) {
+        display: flex;
+      }
+    }
+
+    &.mobile {
+      display: flex;
+      @include media-query(DESKTOP) {
+        display: none;
+      }
+    }
+
     &:hover {
       opacity: 0.9;
     }

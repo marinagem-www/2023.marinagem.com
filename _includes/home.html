@@ -7,13 +7,19 @@
       {% assign home_project = cat_pages | sort: "year" | reverse | first %}
     {% endunless %}
 
+    {% assign category_page = cat_pages | where_exp:"p","p.path contains '/list/'" | first %}
+
     {% assign catCoverUrl = home_project.cover | relative_url %}
 
     {% assign style = "--img-url:url(UUU);" | replace: "UUU", catCoverUrl
             | append: "--category-color:CCC;" | replace: "CCC", s[1]["color"]
             | append: "--align-items:AAA;" | replace: "AAA", s[1]["home-align"] %}
 
-    <a class="home-category" href="{{ home_project.url | relative_url }}" style="{{ style }}">
+    <a class="home-category desktop" href="{{ home_project.url | relative_url }}" style="{{ style }}">
+      <div class="text">{{ s[1][page.lang] }}</div>
+    </a>
+
+    <a class="home-category mobile" href="{{ category_page.url | relative_url }}" style="{{ style }}">
       <div class="text">{{ s[1][page.lang] }}</div>
     </a>
   {% endfor %}
