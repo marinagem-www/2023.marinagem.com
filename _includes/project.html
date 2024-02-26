@@ -6,17 +6,28 @@
         <img src="{{ page.cover | relative_url }}">
       {% endif %}
     </div>
+
+    <div class="project-category-title-container {{ page.category }}">
+      {% assign cat_pages = lang_pages | where: "category", page.category %}
+      {% assign category_page = cat_pages | where_exp:"p","p.path contains '/list/'" | first %}
+      <a class="project-category-title" href=" {{ category_page.url | relative_url }}">
+        {{ page.category }}
+      </a>
+    </div>
+
     <div class="project-info-container">
       <div class="project-title {{ page.category }}">
         {% if page.year %}
           {{ page.ptitle }}, {{ page.year }}
         {% endif %}
       </div>
+
       <div class="project-info">
         {{ page.description }}<br/>
         {{ page.medium }}
       </div>
     </div>
+
     <div class="project-content">
       {{ content }}
     </div>
