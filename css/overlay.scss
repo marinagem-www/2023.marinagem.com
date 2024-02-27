@@ -50,8 +50,12 @@
     pointer-events: all;
     text-decoration: none;
     font-weight: 500;
-    font-size: $F21;
+    font-size: $F27;
     transition: color $TRANSITION-PERIOD linear;
+
+    @include media-query(DESKTOP) {
+      font-size: $F21;
+    }
 
     color: $OVERLAY_LINK_COLOR;
     &:hover {
