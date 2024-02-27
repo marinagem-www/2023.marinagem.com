@@ -1,15 +1,32 @@
 {% include lang.html %}
-{% assign cat_pages = lang_pages | where:"category",page.category | where_exp:"p","p.year" %}
-{% assign ordered_pages = cat_pages | sort: "year" | reverse %}
+{% assign cat_pages = lang_pages | where:"category",page.category %}
+{% assign ordered_pages = cat_pages | where_exp:"p","p.year" | sort: "year" | reverse %}
 
 {% assign cat_title = site.data.categories[page.category][page.lang] %}
 
 <div class="list-content-container">
-  <div class="list-title {{ page.category }}">{{ cat_title }}</div>
+  <div class="list-container">
+    {% for p in ordered_pages limit: 1 %}
+      <div class="list-project-link-wrapper">
+        <a class="list-project-link" href="{{ p.url | relative_url }}" style="background-image: url('{{ p.cover | relative_url }}');">
+          <div class="list-project-link-text">
+            {{ p.ptitle | split: " | " | first }}
+          </div>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+
+  <div class="project-category-title-container {{ page.category }}">
+    {% assign category_page = cat_pages | where_exp:"p","p.path contains '/list/'" | first %}
+    <a class="project-category-title" href=" {{ category_page.url | relative_url }}">
+      {{ cat_title }}
+    </a>
+  </div>
 
   <div class="list-container">
-    {% for p in ordered_pages %}
-      <div class="list-project-link-wrapper">
+    {% for p in ordered_pages offset: continue %}
+      <div class="list-project-link-wrapper with-top-margin">
         <a class="list-project-link" href="{{ p.url | relative_url }}" style="background-image: url('{{ p.cover | relative_url }}');">
           <div class="list-project-link-text">
             {{ p.ptitle | split: " | " | first }}

@@ -1,32 +1,32 @@
+{% assign cat_pages = lang_pages | where:"category", page.category %}
+{% assign category_page = cat_pages | where_exp:"p","p.path contains '/list/'" | first %}
+{% assign cat_title = site.data.categories[page.category][page.lang] %}
+
 <div class="project-page-container">
   {% include menu.html %}
   <div class="project-container">
     <div class="project-cover-container">
-      {% if page.cover %}
-        <img src="{{ page.cover | relative_url }}">
-      {% endif %}
+      <img src="{{ page.cover | relative_url }}">
     </div>
 
-    <div class="project-category-title-container {{ page.category }}">
-      {% assign cat_pages = lang_pages | where: "category", page.category %}
-      {% assign category_page = cat_pages | where_exp:"p","p.path contains '/list/'" | first %}
-      <a class="project-category-title" href=" {{ category_page.url | relative_url }}">
-        {{ page.category }}
-      </a>
-    </div>
+    {% if page.year %}
+      <div class="project-category-title-container {{ page.category }}">
+        <a class="project-category-title" href=" {{ category_page.url | relative_url }}">
+          {{ cat_title }}
+        </a>
+      </div>
 
-    <div class="project-info-container">
-      <div class="project-title {{ page.category }}">
-        {% if page.year %}
+      <div class="project-info-container">
+        <div class="project-title {{ page.category }}">
           {{ page.ptitle }}, {{ page.year }}
-        {% endif %}
-      </div>
+        </div>
 
-      <div class="project-info">
-        {{ page.description }}<br/>
-        {{ page.medium }}
+        <div class="project-info">
+          {{ page.description }}<br/>
+          {{ page.medium }}
+        </div>
       </div>
-    </div>
+    {% endif %}
 
     <div class="project-content">
       {{ content }}
