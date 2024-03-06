@@ -13,10 +13,14 @@
 
   <div class="about-text-container about-download-container">
     <p>
+      {{ cv | markdownify }}
+
+      {% comment %}
       Download CV: 
       {% for c in site.data.about.cv %}
         <a class="about-download-item" href="{{ c[1] }}" target="_blank">{{ c[0] }}</a>
       {% endfor %}
+      {% endcomment %}
     </p>
   </div>
 

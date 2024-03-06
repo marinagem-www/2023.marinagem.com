@@ -4,11 +4,15 @@ template: info
 permalink: /about/
 ---
 {% capture bio %}
-Mari Nagem is a conceptual artist working on the perception of digital culture and its relation with nature. Navigating among a variety of media, using luminous colors and sharpened edges, Nagem creates works that enlighten our perception on critical aspects of the information age, such as the artificiality of landscapes, data subjectivity, and the capitalist race for happiness. With wit, and combining appealing titles, she raises existential questions while trying to bring sensibility to our relationship with and through machines.
+Mari Nagem (b.1984, Belo Horizonte, Brazil) is a multidisciplinary artist conceptually driven by the perception of digital culture and its relation to nature. Navigating various media, using luminous colors and sharpened edges, she creates works that enlighten our perception of critical aspects of the information age, such as the artificiality of landscapes, data subjectivity, and the capitalist race for happiness. With wit, and combining appealing titles, she raises existential questions while trying to bring sensibility to our relationship with and through machines.
 {% endcapture %}
 
 {% capture statement %}
-In the last year, Mari Nagem was awarded the Celia and Wally Gilbert fellowship to work with the department of Modern Biology in Cold Spring Harbor, NY and the Mostra 3M Art Prize in Brazil. In 2022,  she was awarded first place at the Marcantonio Vilaça Prize from the Brazilian National Foundation for the Arts and the Ox-Bow Program Fellowship (US). In 2022, she had a solo exhibition titled The Forest, at Paço das Artes, in São Paulo, presenting fresh new works. Nagem exhibited at the Bienal Sur at the Museum of Contemporary Art of Rosário (AR) and at the Bienal of Digital Art at the Cultural Center of São Paulo (BR). She has exhibited at institutions such as SESC (BR), Museum of Image and Sound (BR), Sea Foundation (NL) and participated in festivals such as Die Digitale Dusseldorf (GE), Athens Art Festival (GR), CineOP, FILE, among others. She integrated several residences in Brazil, Uruguay, and Germany. Graduated from the University of Minas Gerais, she has an MFA from the Haute École d'Art et Design de Genéve (CH). She currently lives and works between New York and Belo Horizonte (BR).
+In 2023, Nagem was awarded an honorable mention at SFER IK Museion (MX), an artist fellowship to work with the Department of Modern Biology in Cold Spring Harbor Laboratory (NY), the Mostra3M Art Prize (BR), and the NYFA Immigrant Artist Program fellowship. In 2022, she was awarded the Marcantonio Vilaça Prize, the Ox-Bow Program Fellowship (US), and the Temporada de Projetos do Paço das Artes (BR). Nagem participated in Southern American biennials as the Bienal Sur at the Museum of Contemporary Art of Rosário (AR), the Biennial of Digital Art at CCSP (BR), and Oi Futuro in Rio de Janeiro. She has exhibited at institutions such as SESC (BR), Museum of Image and Sound (BR), Sea Foundation (NL) and participated in festivals such as DieDigitale Dusseldorf (GE), Athens Art Festival (GR), FILE, among others. She integrated residences in Brazil, Uruguay, and Germany. She graduated from the University of Minas Gerais and has an MFA from the Haute École d'Art et Design de Genève, in Switzerland. Lives and works between NY and Brazil.
+{% endcapture %}
+
+{% capture cv %}
+CV upon request.
 {% endcapture %}
 
 {% include about/content.html %}
