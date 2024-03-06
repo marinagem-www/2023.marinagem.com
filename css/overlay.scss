@@ -22,17 +22,9 @@
       display: flex;
       flex-direction: row;
       gap: $P21;
-
-      .archive-link {
-        display: block;
-
-        @include media-query(DESKTOP) {
-          display: none;
-        }
-      }
     }
 
-    &.overlay-archive-container {
+    &.overlay-hide-container {
       bottom: 0;
       right: 0;
       transform-origin: bottom left;
@@ -41,6 +33,7 @@
 
       @include media-query(DESKTOP) {
         display: inline;
+        display: none;
       }
     }
   }
