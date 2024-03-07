@@ -15,6 +15,11 @@ _Sequence of Focus Deviations._
 
 {:.vertical}
 ![]({{site.baseurl}}/imgs/focus-deviation/Focus_2.jpg)
+
+{:.vertical}
+![]({{site.baseurl}}/imgs/theory-of-evolution/EvolucaoDasEspecies_7.jpg)
+
+![]({{site.baseurl}}/imgs/theory-of-evolution/EvolucaoDasEspecies_8.jpg)
 _Installation view at Paço das Arte, São Paulo, Brasil._
 
 ![]({{site.baseurl}}/imgs/focus-deviation/Focus_4.jpg)

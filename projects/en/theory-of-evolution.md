@@ -19,4 +19,9 @@ This is a playful fictional theory of evolution. Plants are necessary for human 
 ![]({{site.baseurl}}/imgs/theory-of-evolution/EvolucaoDasEspecies_5.jpg)
 
 ![]({{site.baseurl}}/imgs/theory-of-evolution/EvolucaoDasEspecies_6.jpg)
+
+{:.vertical}
+![]({{site.baseurl}}/imgs/theory-of-evolution/EvolucaoDasEspecies_7.jpg)
+
+![]({{site.baseurl}}/imgs/theory-of-evolution/EvolucaoDasEspecies_8.jpg)
 _Installation view at Paço das Artes, São Paulo, Brazil._

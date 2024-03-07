@@ -15,6 +15,11 @@ _Sequências de Tentativas de Controlar o Foco._
 
 {:.vertical}
 ![]({{site.baseurl}}/imgs/focus-deviation/Focus_2.jpg)
+
+{:.vertical}
+![]({{site.baseurl}}/imgs/theory-of-evolution/EvolucaoDasEspecies_7.jpg)
+
+![]({{site.baseurl}}/imgs/theory-of-evolution/EvolucaoDasEspecies_8.jpg)
 _Vista da Exposição no Paço das Arte, São Paulo, Brasil._
 
 ![]({{site.baseurl}}/imgs/focus-deviation/Focus_4.jpg)
