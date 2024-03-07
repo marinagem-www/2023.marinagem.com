@@ -7,6 +7,8 @@ year: '2015'
 category: water
 cover: imgs/brazil-is-good/brazil-is-good_00.jpg
 ---
+Photography series made in the north region of Brazil during one of the major floods at the Amazon basin.
+
 {:.vertical}
 ![]({{site.baseurl}}/imgs/brazil-is-good/brazil-is-good_01.jpg)
 _Jurassic Park._

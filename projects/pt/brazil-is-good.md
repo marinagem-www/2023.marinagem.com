@@ -7,6 +7,8 @@ year: '2015'
 category: water
 cover: imgs/brazil-is-good/brazil-is-good_00.jpg
 ---
+Série de fotografias feitas na região Norte do Brasil durante uma das maiores cheias na região da Bacia Amazônica.
+
 {:.vertical}
 ![]({{site.baseurl}}/imgs/brazil-is-good/brazil-is-good_01.jpg)
 _Jurassic Park._

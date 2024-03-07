@@ -16,3 +16,9 @@ _Sequence of Focus Deviations._
 {:.vertical}
 ![]({{site.baseurl}}/imgs/focus-deviation/Focus_2.jpg)
 _Installation view at Paço das Arte, São Paulo, Brasil._
+
+![]({{site.baseurl}}/imgs/focus-deviation/Focus_4.jpg)
+_Focus Deviation details._
+
+![]({{site.baseurl}}/imgs/focus-deviation/Focus_5.jpg)
+_Focus Deviation details._

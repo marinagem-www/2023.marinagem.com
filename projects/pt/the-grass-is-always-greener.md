@@ -9,8 +9,10 @@ cover: imgs/the-grass-is-always-greener/the-grass_00.jpg
 ---
 Um filtro digital pode tornar as circunstâncias extremamente atraentes. Esta instalação utiliza-se de um filtro físico para representar a maneira como tendemos a olhar para outros eventos como mais desejáveis do que a nossa condição atual. Nas janelas, o filtro verde torna o exterior sempre mais verde, em alusão à expressão “a grama é sempre mais verde do outro lado da cerca”.
 
-{:.vertical}
-![]({{site.baseurl}}/imgs/the-grass-is-always-greener/the-grass_01.jpg)
+![]({{site.baseurl}}/imgs/the-grass-is-always-greener/the-grass_03.jpg)
 
 ![]({{site.baseurl}}/imgs/the-grass-is-always-greener/the-grass_02.jpg)
-_Vista da instalação._
+_Installation view._
+
+{:.vertical}
+![]({{site.baseurl}}/imgs/the-grass-is-always-greener/the-grass_01.jpg)
