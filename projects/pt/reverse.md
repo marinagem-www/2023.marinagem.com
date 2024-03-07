@@ -2,7 +2,7 @@
 ptitle: Avesso
 category: minerals
 year: '2014'
-medium: Vídeo, cor, sem som
+medium: Vídeo, cor, som
 description: Vídeo automático
 dimensions: '2:27 minutos'
 cover: imgs/reverse/reverse_00.jpg
@@ -10,6 +10,8 @@ cover: imgs/reverse/reverse_00.jpg
 O vídeo é um giro 360 graus em uma planície onde céu, água, pedras e terra se misturam, se tornam relevo, se materializam e se confundem através do movimento da câmera.
 
 ![]({{site.baseurl}}/imgs/reverse/reverse_01.jpg)
+
+![]({{site.baseurl}}/imgs/reverse/reverse_02.jpg)
 
 {% include vimeo.html id=104768971 width=16 height=9 %}
 
