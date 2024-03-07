@@ -19,7 +19,7 @@ sun:
 minerals:
   en: "The Minerals"
   pt: "Os Minerais"
-  color: "#556"
+  color: "#613a61"
   home-align: flex-start
   feat-project: tectonics
 machines:
