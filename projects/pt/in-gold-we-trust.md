@@ -18,4 +18,4 @@ Este projeto tensiona valores sociais e econômicos intrínsecos na relação en
 ![]({{site.baseurl}}/imgs/in-gold-we-trust/in-gold-we-trust_2839.jpg)
 
 ![]({{site.baseurl}}/imgs/in-gold-we-trust/in-gold-we-trust_2858.jpg)
-_Photos de Fernando Lima._
+_Fotos de Fernando Lima._

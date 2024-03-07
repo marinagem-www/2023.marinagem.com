@@ -18,4 +18,4 @@ O uso de cristais artificiais traz consigo a questão do falso valor das coisas,
 ![]({{site.baseurl}}/imgs/joy/joy_2798.jpg)
 
 ![]({{site.baseurl}}/imgs/joy/joy_2800.jpg)
-_Photos de Fernando Lima._
+_Fotos de Fernando Lima._
