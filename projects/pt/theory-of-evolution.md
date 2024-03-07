@@ -13,4 +13,10 @@ Esta é uma satírica teoria fictícia da evolução. Plantas são necessárias 
 ![]({{site.baseurl}}/imgs/theory-of-evolution/EvolucaoDasEspecies_1.jpg)
 
 ![]({{site.baseurl}}/imgs/theory-of-evolution/EvolucaoDasEspecies_3.jpg)
+
+![]({{site.baseurl}}/imgs/theory-of-evolution/EvolucaoDasEspecies_4.jpg)
+
+![]({{site.baseurl}}/imgs/theory-of-evolution/EvolucaoDasEspecies_5.jpg)
+
+![]({{site.baseurl}}/imgs/theory-of-evolution/EvolucaoDasEspecies_6.jpg)
 _Vista da instalação no Paço das Artes, São Paulo, Brasil._

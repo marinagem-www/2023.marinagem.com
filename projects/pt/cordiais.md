@@ -16,12 +16,20 @@ Cordiais foi contemplado com o Prêmio Marcantonio Vilaça em Dezembro de 2021 e
 ![]({{site.baseurl}}/imgs/cordiais/cordiais_Studies_for_Happiness.jpg)
 _Estudos para a felicidade. Tinta acrílica, latex e folha de ouro._
 
-![]({{site.baseurl}}/imgs/cordiais/cordiais_Linda_Divani_Joy.jpg)
+![]({{site.baseurl}}/imgs/cordiais/cordiais_LindaDivani_Joy-01.jpg)
 _A felicidade de Linda Divani. Tinta acrílica, latex e pigmento mineral._
 
 ![]({{site.baseurl}}/imgs/cordiais/cordiais_MWOW-15.jpg)
 
 ![]({{site.baseurl}}/imgs/cordiais/cordiais_MWOW-43.jpg)
 _Vista da Exposição Museum Without Walls, Queens University, Kingston, Canada._
+
+![]({{site.baseurl}}/imgs/cordiais/cordiais_ccsp-00.jpg)
+
+![]({{site.baseurl}}/imgs/cordiais/cordiais_ccsp-01.jpg)
+_Vista da Exposição no Centro Cultural São Paulo, São Paulo, Brasil._
+
+![]({{site.baseurl}}/imgs/cordiais/cordiais_mac-00.jpg)
+_Vista da Exposição no MAC Niterói, Rio de Janeiro, Brasil. Foto de Gabi Carrera._
 
 {% include video.html video="linda_720_v.webm" width="50%" %}
