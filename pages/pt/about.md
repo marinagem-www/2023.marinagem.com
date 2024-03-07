@@ -13,7 +13,7 @@ Em 2023/24, foi contemplada com a menção honrosa no SFER IK Museion no México
 {% endcapture %}
 
 {% capture cv %}
-
+Para CV completo, entre em contato.
 {% endcapture %}
 
 {% include about/content.html %}
