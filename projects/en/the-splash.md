@@ -1,5 +1,5 @@
 ---
-ptitle: The Splash / El Chapuzón
+ptitle: The Splash
 category: water
 year: 2020 - 2021
 medium: 'Concrete, wood, acrylic paint and light'
