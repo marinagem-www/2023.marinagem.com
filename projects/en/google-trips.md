@@ -1,6 +1,6 @@
 ---
 ptitle: Google Trips
-medium: Prints, audio, objects and engraved metal plate
+medium: Lenticular print, inkjet on canvas, audio, engraved metal and objects
 dimensions: Variable dimensions
 description: Multimedia installation
 year: '2017'

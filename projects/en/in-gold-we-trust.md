@@ -2,7 +2,7 @@
 ptitle: In Gold We Trust
 category: minerals
 year: '2018'
-medium: Black and gold pen on paper
+medium: Ink on paper
 description: Drawing series
 dimensions: 150 x 230 cm
 cover: imgs/in-gold-we-trust/in-gold-we-trust_2859.jpg

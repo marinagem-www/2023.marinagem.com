@@ -2,7 +2,7 @@
 ptitle: Actions to Relate to Oneself
 dimensions: 59 x 42 cm each
 description: Installation
-medium: Digital print
+medium: Inkjet on paper
 year: '2017'
 category: machines
 cover: imgs/actions-to-relate-to-oneself/actions-to-relate-to-oneself_00.webp

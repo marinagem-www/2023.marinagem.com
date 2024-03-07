@@ -1,6 +1,6 @@
 ---
 ptitle: Tectônicas
-medium: Fotografia digital
+medium: Impressão jato de tinta sobre papel algodão
 dimensions: '58 x 76 cm / 58 x 72 cm'
 description: Série fotográfica
 year: '2015'

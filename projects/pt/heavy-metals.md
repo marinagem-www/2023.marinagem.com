@@ -1,6 +1,6 @@
 ---
 ptitle: Metais Pesados
-category: minerals
+category: water
 year: '2014'
 medium: 140 sacos plásticos, água, pregos
 description: Instalação multimídia

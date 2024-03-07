@@ -1,6 +1,6 @@
 ---
 ptitle: Cordiais
-medium: 'Facial emotion recognition technology, custom software and mixed media'
+medium: 'Interactive website, data-paintings, facial emotion recognition technology and custom software'
 dimensions: Variable dimensions
 description: Website and data-paintings
 year: '2021'

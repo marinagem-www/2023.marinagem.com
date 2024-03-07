@@ -1,6 +1,6 @@
 ---
 ptitle: Hiatus
-medium: Painted stones
+medium: Site-specific installation with painted stones
 dimensions: Variable dimensions
 description: installation
 year: '2016'

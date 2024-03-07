@@ -1,6 +1,6 @@
 ---
 ptitle: Tectonics
-medium: Digital Prints
+medium: Inkjet printing on cotton paper
 dimensions: '58 x 76 cm / 58 x 72 cm'
 description: Photography series
 year: '2015'
