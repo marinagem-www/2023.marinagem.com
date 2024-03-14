@@ -1,9 +1,7 @@
 ---
-published: true
 ptitle: Impressões da Terra
-medium: 'Vídeo, cor, som'
+medium: 'Vídeo em 4 canais, cor, som'
 dimensions: Dimensões variadas
-description: Vídeo instalação em 4 canais
 year: '2013'
 category: archive
 cover: imgs/first-impressions/first-impressions_00.jpg

@@ -1,9 +1,7 @@
 ---
-published: true
 ptitle: Genetic Determinism
 medium: 'Video, color, sound'
 dimensions: '0:47 minutes'
-description: Video
 year: '2015'
 category: archive
 cover: imgs/genetic-determinism/genetic-determinism_00.jpg

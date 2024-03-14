@@ -2,8 +2,7 @@
 ptitle: Felicidades
 category: sun
 year: '2017'
-medium: Acrílico, strass e adesivo
-description: Mulduras brilhantes
+medium: Molduras customizadas, acrílico, strass e adesivo
 dimensions: 22.5 x 22.5 cm cada
 cover: imgs/joy/joy_00.jpg
 ---

@@ -1,8 +1,7 @@
 ---
 year: '2022'
 ptitle: Theory of Evolution
-description: Site-specific installation
-medium: 'Dracaena trifasciata, luminous tube, metal casting, automotive paint and earth'
+medium: 'Site-specific installation with dracaena trifasciata, luminous tube, metal casting, automotive paint and earth'
 dimensions: Variable dimensions
 category: forest
 cover: imgs/theory-of-evolution/EvolucaoDasEspecies_2.jpg

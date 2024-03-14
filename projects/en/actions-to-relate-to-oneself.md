@@ -1,7 +1,6 @@
 ---
 ptitle: Actions to Relate to Oneself
 dimensions: 59 x 42 cm each
-description: Installation
 medium: Inkjet on paper
 year: '2017'
 category: machines

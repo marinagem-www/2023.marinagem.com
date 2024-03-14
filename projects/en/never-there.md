@@ -1,9 +1,7 @@
 ---
-published: true
 ptitle: Never There
-medium: 'Video, color, no sound'
+medium: '2-channel video, color, no sound'
 dimensions: '4:21 minutes'
-description: 2-channel video projection
 year: '2009'
 category: archive
 cover: imgs/never-there/never-there_00.jpg

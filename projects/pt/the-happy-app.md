@@ -1,8 +1,7 @@
 ---
 ptitle: The Happy App
 dimensions: Duração 1:27
-description: Web App e video performace
-medium: Software customizado
+medium: Software customizado, web app e video performance
 year: 2018 - 2021
 category: machines
 cover: imgs/the-happy-app/the-happy-app-1.jpg

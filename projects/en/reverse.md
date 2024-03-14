@@ -3,7 +3,6 @@ ptitle: Reverse
 category: minerals
 year: '2014'
 medium: Video, color, sound
-description: Automatic process video
 dimensions: '2:27 minutes'
 cover: imgs/reverse/reverse_00.jpg
 ---

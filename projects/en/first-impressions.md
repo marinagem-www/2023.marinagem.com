@@ -1,9 +1,7 @@
 ---
-published: true
 ptitle: First Impressions on the Earth
-medium: 'Video, color, sound'
+medium: '4-channel video, color, sound'
 dimensions: Variable dimensions
-description: 4-channel video installation
 year: '2013'
 category: archive
 cover: imgs/first-impressions/first-impressions_00.jpg

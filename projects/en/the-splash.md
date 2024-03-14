@@ -2,8 +2,7 @@
 ptitle: The Splash
 category: water
 year: 2020 - 2021
-medium: 'Concrete, wood, acrylic paint and light'
-description: Installation
+medium: 'Installation with concrete, wood, acrylic paint and light'
 dimensions: Variable dimensions
 cover: imgs/the-splash/ElChapuzon_Bienal_3.jpg
 ---

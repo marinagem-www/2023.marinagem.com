@@ -1,8 +1,6 @@
 ---
-published: true
 ptitle: Espectros
-description: Fotografia e colagem digital
-medium: Papel e Celofane
+medium: Colagem com fotografia digital, papel e celofane
 dimensions: Dimensões Variáveis
 year: 2013 - 2015
 cover: imgs/spectros/spectros_00.jpg

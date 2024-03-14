@@ -3,7 +3,6 @@ ptitle: Joy
 category: sun
 year: '2017'
 medium: Acrylic, crystals and sticker
-description: Jeweled frames
 dimensions: 22.5 x 22.5 cm each
 cover: imgs/joy/joy_00.jpg
 ---

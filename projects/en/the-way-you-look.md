@@ -1,9 +1,7 @@
 ---
-published: true
 ptitle: The Way You Look
-medium: 'Video, color, sound'
+medium: '2-channel video, color, sound'
 dimensions: '3:05 minutes'
-description: 2-channel video projection
 year: '2009'
 category: archive
 cover: imgs/the-way-you-look/the-way-you-look_00.jpg

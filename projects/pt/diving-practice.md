@@ -2,7 +2,6 @@
 ptitle: Ensaio para o Mergulho
 category: water
 year: '2020 - 2021'
-description: Série contínua
 medium: 'Acrílica sobre tela'
 dimensions: Dimensões variáveis
 cover: imgs/diving-practice/ensaio-mergulho_diptych.jpg

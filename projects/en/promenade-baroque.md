@@ -1,9 +1,7 @@
 ---
-published: true
 ptitle: Promenade Baroque Berlin
-medium: 'Video, color, no sound'
+medium: 'Installation for live orchestra with video, color, no sound'
 dimensions: Variable dimensions and duration
-description: Video installation for live orchestra
 year: '2011'
 category: archive
 cover: imgs/promenade-baroque/promenade-baroque_00.jpg

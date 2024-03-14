@@ -1,9 +1,7 @@
 ---
-published: true
 ptitle: Alternating Copies
-medium: '4 monitors, video, color, no sound'
+medium: 'Site-specific public installation with 4 monitors, video, color, no sound'
 dimensions: Variable dimensions
-description: Site-specific public installation on 4 monitors
 year: '2011'
 category: archive
 cover: imgs/alternating-copies/alternating-copies_00.jpg

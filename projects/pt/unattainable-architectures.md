@@ -3,7 +3,6 @@ ptitle: Arquiteturas do Inatingível
 category: sun
 year: '2020 - 2021'
 medium: 'Acrílica sobre tela'
-description: Série contínua
 dimensions: Dimensões variáveis
 cover: imgs/unattainable-architectures/unattainable_0_dipt_30x40.jpg
 ---

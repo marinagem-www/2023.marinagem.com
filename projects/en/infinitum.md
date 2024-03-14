@@ -2,7 +2,6 @@
 ptitle: Infinitum
 medium: Custom software and interactive website
 dimensions: 1920 x infinite pixels
-description: Website
 year: '2021'
 category: minerals
 cover: imgs/infinitum/MUMI-003-2-Ouro.jpg

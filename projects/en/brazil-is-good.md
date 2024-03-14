@@ -2,7 +2,6 @@
 ptitle: Brazil is Good
 medium: Digital prints
 dimensions: 10 x 15 cm each
-description: Post card series
 year: '2015'
 category: water
 cover: imgs/brazil-is-good/brazil-is-good_00.jpg

@@ -2,7 +2,6 @@
 ptitle: Cordiais
 medium: 'Interactive website, data-paintings, facial emotion recognition technology and custom software'
 dimensions: Variable dimensions
-description: Website and data-paintings
 year: '2021'
 category: machines
 cover: imgs/cordiais/cordiais_site-faces.jpg

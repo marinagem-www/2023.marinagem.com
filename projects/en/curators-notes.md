@@ -1,7 +1,6 @@
 ---
 ptitle: Curator's Notes
 dimensions: 3568 x 2008 px
-description: Emotional graphical landscapes
 medium: 'Custom software, digital drawings'
 year: '2020'
 category: machines

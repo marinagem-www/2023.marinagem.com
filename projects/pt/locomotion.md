@@ -1,9 +1,7 @@
 ---
-published: true
 ptitle: A Locomoção
-medium: 'Vídeo, cor, som'
+medium: 'Instalação site-specific com vídeo, cor, som'
 dimensions: '1:10 minutos'
-description: Vídeo instalação site-specific
 year: '2012'
 category: archive
 cover: imgs/locomotion/locomotion_00.jpg

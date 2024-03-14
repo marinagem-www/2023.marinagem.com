@@ -1,9 +1,7 @@
 ---
-published: true
 ptitle: Confine
 medium: 'Video, color, sound'
 dimensions: '1:01 minutes'
-description: Video for mobile phones
 year: '2006'
 category: archive
 cover: imgs/confine/confine_00.jpg

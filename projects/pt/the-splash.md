@@ -2,7 +2,6 @@
 ptitle: El Chapuzón
 category: water
 year: '2020 - 2021'
-description: Série contínua
 medium: 'Concreto, madeira, pintura acrílica e refletor'
 dimensions: Dimensões variáveis
 cover: imgs/the-splash/ElChapuzon_Bienal_3.jpg

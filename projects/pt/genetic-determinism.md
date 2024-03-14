@@ -1,9 +1,7 @@
 ---
-published: true
 ptitle: Determinismo Genético
 medium: 'Vídeo, cor, som'
 dimensions: '0:47 minutos'
-description: Vídeo
 year: '2015'
 category: archive
 cover: imgs/genetic-determinism/genetic-determinism_00.jpg

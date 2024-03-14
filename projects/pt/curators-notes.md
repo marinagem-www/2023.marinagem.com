@@ -1,5 +1,4 @@
 ---
-description: Paisagens gráficas emocionais
 ptitle: Notas do Curador
 medium: Desenho digital e software customizado
 dimensions: 3568 x 2008 px

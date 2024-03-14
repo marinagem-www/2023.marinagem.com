@@ -1,9 +1,7 @@
 ---
-published: true
 ptitle: Hot Days
-medium: 'Video, color, sound'
+medium: 'Installation with video, color, sound'
 dimensions: '4:03 minutes'
-description: Video installation
 year: '2014'
 category: sun
 cover: imgs/hot-days/hot-days_00.jpg

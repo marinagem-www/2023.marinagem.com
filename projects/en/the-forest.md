@@ -1,8 +1,7 @@
 ---
 year: '2022'
 ptitle: The Forest
-description: Site-specific installation
-medium: Green chroma key painted wall with a hole to the outside and light reflectors
+medium: Site-specific installation with green chroma key painted wall with a hole to the outside and light reflectors
 dimensions: Variable dimensions
 category: forest
 cover: imgs/the-forest/AFloresta_far.jpg

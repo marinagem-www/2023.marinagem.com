@@ -1,8 +1,7 @@
 ---
 year: '2022'
 ptitle: A Evolução das Espécies
-description: Instalação site-specific
-medium: Dracaena trifasciata, tubo luminoso, escultura em metal, pintura automotiva e terra
+medium: Instalação site-specific com dracaena trifasciata, tubo luminoso, escultura em metal, pintura automotiva e terra
 dimensions: Dimensões variáveis
 category: forest
 cover: imgs/theory-of-evolution/EvolucaoDasEspecies_2.jpg

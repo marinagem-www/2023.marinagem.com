@@ -1,8 +1,7 @@
 ---
 ptitle: Google Trips
-medium: Lenticular print, inkjet on canvas, audio, engraved metal and objects
+medium: Multimedia installation with lenticular print, inkjet on canvas, audio, engraved metal and objects
 dimensions: Variable dimensions
-description: Multimedia installation
 year: '2017'
 category: machines
 cover: imgs/google-trips/google-trips_beauty_00.jpg

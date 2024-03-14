@@ -1,8 +1,7 @@
 ---
 year: '2022'
 ptitle: A Floresta
-description: Instalação site-specific
-medium: Parede pintada com recorte e refletores
+medium: Instalação site-specific com parede pintada, recorte e refletores
 dimensions: Dimensões variáveis
 category: forest
 cover: imgs/the-forest/AFloresta_far.jpg

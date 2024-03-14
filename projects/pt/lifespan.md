@@ -1,9 +1,7 @@
 ---
-published: true
 ptitle: Vida útil
-medium: 'Televisor de tubo, imãs, televisores quebrados'
+medium: 'Vídeo instalação com televisor de tubo, imãs, televisores quebrados'
 dimensions: '3:38 minut0s'
-description: Vídeo instalação
 year: '2012'
 category: archive
 cover: imgs/lifespan/lifespan_01.jpg

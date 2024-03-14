@@ -2,7 +2,6 @@
 ptitle: Contato
 template: info
 permalink: /pt/about/
-published: true
 ---
 {% capture bio %}
 Mari Nagem (n.1984, Belo Horizonte) é artista multidisciplinar que investiga as transformações do meio através da tecnologia, os estados emocionais na era digital e explora a artificialidade das paisagens a partir das intervenções humanas. Com uma abordagem conceitual, cada material ou mídia utilizados, assim como os esquemas de cores, possui um significado físico, semântico ou simbólico para os projetos. Ao explorar cores fortes, bordas definidas e títulos minuciosamente selecionados, Mari propõe questões existenciais (e virtuais) com certa irreverência.

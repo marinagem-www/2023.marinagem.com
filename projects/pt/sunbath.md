@@ -2,8 +2,7 @@
 ptitle: Banho de Sol
 category: sun
 year: '2020 - 2021'
-medium: 'Mídias variadas'
-description: Instalação
+medium: 'Instalação, técnica mista'
 dimensions: Dimensões variáveis
 cover: imgs/sunbath/sunbath_00.jpg
 ---

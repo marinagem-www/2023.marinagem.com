@@ -1,9 +1,7 @@
 ---
-published: true
 ptitle: Maneira de Olhar
-medium: 'Vídeo, cor, som'
+medium: 'Vídeo em 2 canais, cor, som'
 dimensions: '3:05 minutos'
-description: Projeção em 2 canais
 year: '2009'
 category: archive
 cover: imgs/the-way-you-look/the-way-you-look_00.jpg

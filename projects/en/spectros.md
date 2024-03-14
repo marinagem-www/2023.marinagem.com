@@ -1,8 +1,6 @@
 ---
-published: true
 ptitle: Spectros
-description: Digital photography and collage
-medium: Paper and Cellophane
+medium: Collage made with digital photography, paper and Cellophane
 dimensions: Variable Dimensions
 year: 2013 - 2015
 category: archive

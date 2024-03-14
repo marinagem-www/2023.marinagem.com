@@ -1,9 +1,7 @@
 ---
-published: true
 ptitle: Aménager
-medium: 'Video, color, no sound'
+medium: 'Installation with video, color, no sound'
 dimensions: '7:47 minutes'
-description: Public video installation
 year: '2011'
 category: archive
 cover: imgs/amenager/amenager_00.jpg

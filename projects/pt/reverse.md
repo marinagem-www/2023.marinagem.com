@@ -3,7 +3,6 @@ ptitle: Avesso
 category: minerals
 year: '2014'
 medium: Vídeo, cor, som
-description: Vídeo automático
 dimensions: '2:27 minutos'
 cover: imgs/reverse/reverse_00.jpg
 ---

@@ -1,8 +1,7 @@
 ---
 ptitle: Cordiais
-medium: 'Tecnologia de reconhecimento de emoções faciais, software personalizado e mídia mista'
+medium: 'Website, tecnologia de reconhecimento de emoções faciais, software personalizado e mídia mista'
 dimensions: Dimensões Variáveis
-description: Website e data-paintings
 year: '2021'
 category: machines
 cover: imgs/cordiais/cordiais_site-faces.jpg

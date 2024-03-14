@@ -1,8 +1,7 @@
 ---
 year: '2018'
 ptitle: The Grass is Always Greener
-description: Instalação site-specific
-medium: Vinil semi-transparente
+medium: Instalação site-specific com vinil semi-transparente
 dimensions: Dimensões variadas
 category: forest
 cover: imgs/the-grass-is-always-greener/the-grass_00.jpg

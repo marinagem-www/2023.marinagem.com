@@ -1,9 +1,7 @@
 ---
-published: true
 ptitle: Lifespan
-medium: 'Tube TV, magnets and broken televisions'
+medium: 'Installation with tube TV, magnets and broken televisions'
 dimensions: '3:38 minutes'
-description: Video installation
 year: '2012'
 category: archive
 cover: imgs/lifespan/lifespan_01.jpg

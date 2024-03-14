@@ -1,8 +1,7 @@
 ---
 ptitle: Lacunas Fósseis
-medium: Pedras pintadas
+medium: Instalação com pedras pintadas
 dimensions: Dimensões variadas
-description: Instalação
 year: '2016'
 category: minerals
 cover: imgs/hiatus/hiatus_00.jpg

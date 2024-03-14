@@ -1,7 +1,6 @@
 ---
 ptitle: Shiawase no Ie | The Happiness House
-description: Installation
-medium: 'Cooling system, custom thermometer and framed article'
+medium: 'Installation with cooling system, custom thermometer and framed article'
 dimensions: 3 x 3 x 3 m
 year: '2018'
 cover: imgs/the-happiness-house/the-happiness-house_0351.jpg

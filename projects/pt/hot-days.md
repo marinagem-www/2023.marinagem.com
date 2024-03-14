@@ -1,9 +1,7 @@
 ---
-published: true
 ptitle: Dias de Calor
 medium: 'Vídeo, cor, som'
 dimensions: '4:03 minutos'
-description: Vídeo projeção
 year: '2014'
 category: sun
 cover: imgs/hot-days/hot-days_00.jpg

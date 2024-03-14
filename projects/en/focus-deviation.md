@@ -1,8 +1,7 @@
 ---
 year: '2022'
 ptitle: Focus Deviation
-description: Installation
-medium: 'Paper, chlorophyll, fire and acrylic sheet'
+medium: 'Installation with paper, chlorophyll, fire and acrylic sheet'
 dimensions: 16 x 16 cm each
 category: forest
 cover: imgs/focus-deviation/Focus_1.jpg

@@ -1,8 +1,7 @@
 ---
 ptitle: Google Trips
-medium: Impressões, aúdio, objetos e placa de metal
+medium: Instalação multimídia com impressões, aúdio, objetos e placa de metal
 dimensions: Dimensões variadas
-description: Instalação multimídia
 year: '2017'
 category: machines
 cover: imgs/google-trips/google-trips_beauty_00.jpg

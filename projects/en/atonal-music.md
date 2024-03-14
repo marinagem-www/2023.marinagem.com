@@ -1,9 +1,7 @@
 ---
-published: true
 ptitle: Atonal Music
-medium: Toilets and custom circuits
+medium: Installation with toilets and custom circuits
 dimensions: Variable dimensions
-description: Installation
 year: '2008'
 category: archive
 cover: imgs/atonal-music/atonal-music_00.jpg

@@ -2,7 +2,6 @@
 ptitle: Acqua Club Eco Ski Resort Brazil
 medium: Vídeo, cor, som
 dimensions: '4:12 minutos'
-description: Vídeo promocional
 year: '2017'
 category: sun
 cover: imgs/acqua-club/acqua-club_00.jpg

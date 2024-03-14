@@ -1,9 +1,7 @@
 ---
-published: true
 ptitle: The Locomotion
-medium: 'Video, color, sound'
+medium: 'Site-specific installation with video, color, sound'
 dimensions: '1:10 minutes'
-description: Site-specific video installation
 year: '2012'
 category: archive
 cover: imgs/locomotion/locomotion_00.jpg

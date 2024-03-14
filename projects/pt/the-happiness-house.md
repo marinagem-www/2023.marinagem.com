@@ -2,8 +2,7 @@
 ptitle: Shiawase no Ie | A casa da Felicidade
 year: '2018'
 dimensions: 3 x 3 x 3 m
-medium: 'Sistema de refrigeração, termômetro customizado e artigo emoldurado'
-description: Instalação
+medium: 'Instalação com sistema de refrigeração, termômetro customizado e artigo emoldurado'
 cover: imgs/the-happiness-house/the-happiness-house_0351.jpg
 category: sun
 ---

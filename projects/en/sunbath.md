@@ -2,8 +2,7 @@
 ptitle: Sunbath
 category: sun
 year: 2020 - 2021
-medium: Mixed media
-description: Installation
+medium: Mixed media installation
 dimensions: Variable dimensions
 cover: imgs/sunbath/sunbath_00.jpg
 ---

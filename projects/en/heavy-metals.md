@@ -2,8 +2,7 @@
 ptitle: Heavy Metals
 category: water
 year: '2014'
-medium: 140 plastic bags, pins and water
-description: Multimedia installation
+medium: Multimedia installation with 140 plastic bags, pins and water
 dimensions: Variable dimensions
 cover: imgs/heavy-metals/heavy-metals_00.jpg
 ---

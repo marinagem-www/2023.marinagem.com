@@ -2,7 +2,6 @@
 ptitle: Siri Swarovski
 medium: Audio, adorned headphones, acrylic and crystals
 dimensions: 3:15 minutes and 3 x 25 cm
-description: Audio recording and prepared headphone
 year: '2017'
 category: minerals
 cover: imgs/siri-swarovski/siri-swarovski_voce-e-feliz.jpg

@@ -1,8 +1,7 @@
 ---
 ptitle: Cyanometer
-medium: Vídeo e impressão digital
+medium: Instalação com vídeo e impressão digital
 dimensions: '2:45 minutos'
-description: Instalação
 year: '2016'
 category: water
 cover: imgs/cyanometer/cyanometer_00.jpg

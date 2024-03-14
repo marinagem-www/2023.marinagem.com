@@ -1,8 +1,7 @@
 ---
 year: '2022'
 ptitle: Tentativas de Controlar o Foco
-description: Instalação
-medium: Papel, clorofila, fogo e acrílico
+medium: Instalação com papel, clorofila, fogo e acrílico
 dimensions: 16 x 16 cm cada
 category: forest
 cover: imgs/focus-deviation/Focus_1.jpg

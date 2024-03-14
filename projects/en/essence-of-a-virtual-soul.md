@@ -2,8 +2,7 @@
 ptitle: Essence of a Virtual Soul
 category: machines
 year: '2018'
-medium: Light tube, reflective coating and paint
-description: Installation
+medium: Installation with light tube, reflective coating and paint
 dimensions: 122 x 39 cm
 cover: imgs/essence-of-a-virtual-soul/essence_00.jpg
 ---

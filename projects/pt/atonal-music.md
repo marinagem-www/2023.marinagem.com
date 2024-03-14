@@ -1,9 +1,7 @@
 ---
-published: true
 ptitle: Música Atonal
-medium: Descargas de banheiro e circuito elétrico sonoro
+medium: Instalação com descargas de banheiro e circuito elétrico sonoro
 dimensions: Dimensões variadas
-description: Instalação
 year: '2008'
 category: archive
 cover: imgs/atonal-music/atonal-music_00.jpg

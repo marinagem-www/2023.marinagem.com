@@ -2,8 +2,7 @@
 ptitle: Fertility
 category: forest
 year: '2013'
-medium: 'Painted branches, public square'
-description: Site-specific public installation
+medium: 'Site-specific public installation with painted branches, public square'
 dimensions: Variable dimensions
 cover: imgs/fertility/fertility_00.jpg
 ---

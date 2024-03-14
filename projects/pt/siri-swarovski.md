@@ -1,8 +1,7 @@
 ---
 ptitle: Siri Swarovski
-medium: Acrílico espelhado, fone e strass
+medium: Instalação com áudio, acrílico espelhado, fone e strass
 dimensions: 3:15 minutos e 3 x 25 cm
-description: Instalação com áudio e fone de ouvido
 year: '2017'
 category: minerals
 cover: imgs/siri-swarovski/siri-swarovski_voce-e-feliz.jpg

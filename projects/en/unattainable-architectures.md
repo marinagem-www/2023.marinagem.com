@@ -3,7 +3,6 @@ ptitle: Architectures of the Unattainable
 category: sun
 year: 2020 - 2021
 medium: 'Acrylic on canvas'
-description: Ongoing series
 dimensions: Variable dimensions
 cover: imgs/unattainable-architectures/unattainable_0_dipt_30x40.jpg
 ---

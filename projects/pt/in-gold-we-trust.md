@@ -3,7 +3,6 @@ ptitle: In Gold We Trust
 category: minerals
 year: '2018'
 medium: Caneta preta e dourada sobre papel
-description: Série de desenhos
 dimensions: 150 x 230 cm
 cover: imgs/in-gold-we-trust/in-gold-we-trust_2859.jpg
 ---

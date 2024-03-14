@@ -1,9 +1,7 @@
 ---
-published: true
 ptitle: Sufoco
 medium: 'Vídeo, cor, som'
 dimensions: '1:01 minutes'
-description: Vídeo para celulares
 year: '2006'
 category: archive
 cover: imgs/confine/confine_00.jpg

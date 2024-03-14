@@ -1,9 +1,7 @@
 ---
-published: true
 ptitle: When is tomorrow?
-medium: 'Video, color, sound'
+medium: '4-channel video installation, color, sound'
 dimensions: Variable dimensions
-description: 4 channel video installation
 year: '2010'
 category: archive
 cover: imgs/when-tomorrow/when-tomorrow_00.jpg

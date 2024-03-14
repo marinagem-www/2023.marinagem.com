@@ -2,8 +2,7 @@
 ptitle: Metais Pesados
 category: water
 year: '2014'
-medium: 140 sacos plásticos, água, pregos
-description: Instalação multimídia
+medium: Instalação multimídia com 140 sacos plásticos, água, pregos
 dimensions: Dimensões variadas
 cover: imgs/heavy-metals/heavy-metals_00.jpg
 ---

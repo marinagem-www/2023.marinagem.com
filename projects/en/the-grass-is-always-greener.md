@@ -1,8 +1,7 @@
 ---
 year: '2018'
 ptitle: The Grass is Always Greener
-description: Site-specific installation
-medium: Semi-transparent vinyl on windows
+medium: Site-specific installation with semi-transparent vinyl on windows
 dimensions: Variable dimensions
 category: forest
 cover: imgs/the-grass-is-always-greener/the-grass_00.jpg
