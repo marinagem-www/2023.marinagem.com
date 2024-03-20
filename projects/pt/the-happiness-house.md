@@ -16,7 +16,7 @@ _Termômetro customizado._
 ![]({{site.baseurl}}/imgs/the-happiness-house/the-happiness-house_0141.jpg)
 
 {:.vertical}
-![]({{site.baseurl}}/imgs/the-happiness-house/the-happiness-resumo_579.jpg)
+![]({{site.baseurl}}/imgs/the-happiness-house/the-happiness-resumo_1450.jpg)
 _Resumo do artigo._
 
 ![]({{site.baseurl}}/imgs/the-happiness-house/the-happiness-house_0379.jpg)
