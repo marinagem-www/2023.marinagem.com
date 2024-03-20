@@ -15,6 +15,9 @@ cover: imgs/the-splash/ElChapuzon_Bienal_3.jpg
 ![]({{site.baseurl}}/imgs/the-splash/ElChapuzon_Bienal_4.jpg)
 
 ![]({{site.baseurl}}/imgs/the-splash/ElChapuzon_Bienal_5.jpg)
+_Vista da instalação na Bienal Sur, no Museo de Arte Contemporáneo de Rosario, Argentina.__
 
+{% comment %}
 ![]({{site.baseurl}}/imgs/the-splash/ElChapuzon_Bienal_6.jpg)
 _Vista da instalação na BIENALSUR 2021, Rosario, Argentina._
+{% endcomment %}

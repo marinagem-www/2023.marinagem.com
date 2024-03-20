@@ -1,6 +1,6 @@
 ---
 ptitle: Tectonics
-medium: Inkjet printing on cotton paper
+medium: Inkjet print on cotton paper
 dimensions: '58 x 76 cm / 58 x 72 cm'
 year: '2015'
 category: minerals

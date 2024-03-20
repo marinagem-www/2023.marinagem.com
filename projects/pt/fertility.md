@@ -2,7 +2,7 @@
 ptitle: Departamento Fértil
 category: forest
 year: '2013'
-medium: 'Instalação site-specific com galhos pintados, praça pública'
+medium: 'Instalação site-specific com galhos pintados'
 dimensions: Dimensões variadas
 cover: imgs/fertility/fertility_00.jpg
 ---

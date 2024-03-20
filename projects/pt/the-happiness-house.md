@@ -20,4 +20,4 @@ _Termômetro customizado._
 _Resumo do artigo._
 
 ![]({{site.baseurl}}/imgs/the-happiness-house/the-happiness-house_0379.jpg)
-_Shiawase no Ie | A casa da Felicidade._
+_Vista da Instalação na exposição Estufa, da São Paulo Fashion Week, Brasil._

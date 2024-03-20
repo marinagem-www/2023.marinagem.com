@@ -1,6 +1,6 @@
 ---
 ptitle: Infinitum
-medium: Website, software customizado e website interativo
+medium: Software customizado, imagens de arquivo e website interativo
 dimensions: 1920 x ∞ pixels
 year: '2021'
 category: minerals

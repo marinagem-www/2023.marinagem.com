@@ -15,6 +15,9 @@ That is how Pierre Lévy defines virtualisation: “Virtualisation is not a dere
 ![]({{site.baseurl}}/imgs/the-splash/ElChapuzon_Bienal_4.jpg)
 
 ![]({{site.baseurl}}/imgs/the-splash/ElChapuzon_Bienal_5.jpg)
+_Installation view at Bienal Sur, at the Museum of Contemporary Art of Rosario, Argentina._
 
+{% comment %}
 ![]({{site.baseurl}}/imgs/the-splash/ElChapuzon_Bienal_6.jpg)
 _Installation view at BIENALSUR 2021, Rosario, Argentina._
+{% endcomment %}

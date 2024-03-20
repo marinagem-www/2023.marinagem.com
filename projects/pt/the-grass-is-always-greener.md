@@ -12,6 +12,6 @@ Um filtro digital pode tornar as circunstâncias extremamente atraentes. Esta in
 ![]({{site.baseurl}}/imgs/the-grass-is-always-greener/the-grass_01.jpg)
 
 ![]({{site.baseurl}}/imgs/the-grass-is-always-greener/the-grass_02.jpg)
-_Installation view._
 
 ![]({{site.baseurl}}/imgs/the-grass-is-always-greener/the-grass_03.jpg)
+_Vista da Instalção na SomoS Arts House, Berlin._

@@ -13,3 +13,4 @@ cover: imgs/essence-of-a-virtual-soul/essence_00.jpg
 ![]({{site.baseurl}}/imgs/essence-of-a-virtual-soul/essence_02.jpg)
 
 ![]({{site.baseurl}}/imgs/essence-of-a-virtual-soul/essence_03.jpg)
+_Installation view at SomoS Arts House, Berlin._

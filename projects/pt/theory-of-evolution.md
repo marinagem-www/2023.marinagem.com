@@ -1,7 +1,7 @@
 ---
 year: '2022'
 ptitle: A Evolução das Espécies
-medium: Instalação site-specific com dracaena trifasciata, tubo luminoso, escultura em metal, pintura automotiva e terra
+medium: Instalação com dracaena trifasciata, tubo luminoso, escultura em metal, pintura automotiva e terra
 dimensions: Dimensões variáveis
 category: forest
 cover: imgs/theory-of-evolution/EvolucaoDasEspecies_2.jpg
@@ -16,7 +16,9 @@ Esta é uma satírica teoria fictícia da evolução. Plantas são necessárias 
 ![]({{site.baseurl}}/imgs/theory-of-evolution/EvolucaoDasEspecies_4.jpg)
 
 ![]({{site.baseurl}}/imgs/theory-of-evolution/EvolucaoDasEspecies_5.jpg)
+_Vista da instalação no Paço das Artes, São Paulo, Brasil._
 
+{% comment %}
 ![]({{site.baseurl}}/imgs/theory-of-evolution/EvolucaoDasEspecies_6.jpg)
 
 {:.vertical}
@@ -24,3 +26,4 @@ Esta é uma satírica teoria fictícia da evolução. Plantas são necessárias 
 
 ![]({{site.baseurl}}/imgs/theory-of-evolution/EvolucaoDasEspecies_8.jpg)
 _Vista da instalação no Paço das Artes, São Paulo, Brasil._
+{% endcomment %}

@@ -1,8 +1,8 @@
 ---
 ptitle: Banho de Sol
 category: sun
-year: '2020 - 2021'
-medium: 'Instalação, técnica mista'
+year: 2021
+medium: Instalação com colchão, lençol, tinta, casca de laranja e acrílico sobre tela
 dimensions: Dimensões variáveis
 cover: imgs/sunbath/sunbath_00.jpg
 ---
@@ -19,4 +19,4 @@ _Vista da Instalação._
 ![]({{site.baseurl}}/imgs/sunbath/sunbath_02.jpg)
 
 ![]({{site.baseurl}}/imgs/sunbath/sunbath_03.jpg)
-_Detalhe da Instalação. Fotos por: NEOARTE - www.neoarte.net_
+_Vista da Instalação na Residência Fonte, São Paulo, Brasil._

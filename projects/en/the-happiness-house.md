@@ -20,4 +20,4 @@ _Custom thermometer._
 _Article abstract._
 
 ![]({{site.baseurl}}/imgs/the-happiness-house/the-happiness-house_0379.jpg)
-_Shiawase no Ie | The Happiness House._
+_Installation view at Estufa, at São Paulo Fashion Week, Brazil._
