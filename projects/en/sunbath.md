@@ -1,7 +1,7 @@
 ---
 ptitle: Sunbath
 category: sun
-year: 2021
+year: '2021'
 medium: Installation with mattress, sheet, paint, orange peel and acrylic on canvas
 dimensions: Variable dimension
 cover: imgs/sunbath/sunbath_00.jpg

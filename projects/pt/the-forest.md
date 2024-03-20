@@ -13,4 +13,6 @@ Este projeto faz referência à ideia de representação de paisagens vegetativa
 ![]({{site.baseurl}}/imgs/the-forest/AFloresta_closeup.jpg)
 
 ![]({{site.baseurl}}/imgs/the-forest/AFloresta_supercloseup.jpg)
+
+![]({{site.baseurl}}/imgs/the-forest/AFloresta_mid.jpg)
 _Vista da instalação no Paço das Artes, São Paulo, Brasil._

@@ -13,4 +13,6 @@ This project references our understanding of vegetative landscapes and the const
 ![]({{site.baseurl}}/imgs/the-forest/AFloresta_closeup.jpg)
 
 ![]({{site.baseurl}}/imgs/the-forest/AFloresta_supercloseup.jpg)
+
+![]({{site.baseurl}}/imgs/the-forest/AFloresta_mid.jpg)
 _Installation view at Paço das Artes, São Paulo, Brasil._

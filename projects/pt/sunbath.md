@@ -1,7 +1,7 @@
 ---
 ptitle: Banho de Sol
 category: sun
-year: 2021
+year: '2021'
 medium: Instalação com colchão, lençol, tinta, casca de laranja e acrílico sobre tela
 dimensions: Dimensões variáveis
 cover: imgs/sunbath/sunbath_00.jpg
