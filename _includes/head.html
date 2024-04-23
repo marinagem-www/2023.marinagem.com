@@ -24,8 +24,9 @@
   <link rel="icon" href="{{ 'imgs/favicons/favicon.svg' | relative_url }}" type="image/svg+xml">
 
   {% assign meta_description = page.content | strip_html | strip_newlines | truncatewords: 25 %}
+
   {% if meta_description.size < 10 %}
-    {% assign meta_description = site.description %}
+    {% assign meta_description = site.data.about.description[page.lang] %}
   {% endif %}
   <meta name="description" content="{{ meta_description }}">
 

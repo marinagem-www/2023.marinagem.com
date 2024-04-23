@@ -12,7 +12,7 @@
 {% assign description = page.content | strip_html | strip_newlines | truncatewords:8 %}
 
 {% unless description.size > 0 %}
-  {% assign description = site.description %}
+  {% assign description = site.data.about.description[page.lang] %}
 {% endunless %}
 <meta name="twitter:description" content="{{ description }}">
 <meta property="og:description" content="{{ description }}">
