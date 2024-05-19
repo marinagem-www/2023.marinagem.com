@@ -4,7 +4,7 @@ medium: 'Plataforma pantográfica para uso público'
 dimensions: Dimensões Variáveis
 year: '2024'
 category: forest
-cover: imgs/cordiais/cordiais_site-faces.jpg
+cover: imgs/peixe-passarim/peixe-passarim-00.jpg
 ---
 Em uma viagem à Floresta Amazônica durante uma das maiores enchentes, naveguei pelas águas de um rio bem cheio. Os pequenos barcos navegavam pelas copas das árvores, tanto o rio tinha subido. Que alma era aquela que vivia na água e na copa das árvores ao mesmo tempo?
 
