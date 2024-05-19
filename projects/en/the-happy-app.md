@@ -10,6 +10,8 @@ The Happy App is an application that simultaneously triggers the computer camera
 
 For the first exhibition I spent 8 hours in front of the computer executing ordinary activities (email, Facebook, payments, shopping, Netflix, Skype) and got the result of my emotions during that day. In 405 minutes online I was only 6% happy. Developed in partnership with [Thiago Hersan](https://thiagohersan.com){:target="_blank"}.
 
+If you want to see how much your computer can make you happy, download the app [here](https://thehappyapp.art/en/){:target="_blank"}.
+
 ![]({{site.baseurl}}/imgs/the-happy-app/the-happy-app-wall-0.jpg)
 
 ![]({{site.baseurl}}/imgs/the-happy-app/the-happy-app-wall-1.jpg)

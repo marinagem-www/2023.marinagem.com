@@ -6,7 +6,7 @@ year: '2018'
 cover: imgs/the-happiness-house/the-happiness-house_0351.jpg
 category: sun
 ---
-A yellow fluoride refrigerated cube with a hand-made thermometer and the summary of the article “Weather and Individual Happiness”, an academic Japanese research that concludes that happiness is maximized at 13.9 C.
+A yellow refrigerated cube allows the public to "feel" happiness. Inside the refrigerated cube is a custom-made thermometer and a summary of the article _Weather and Individual Happiness_, a Japanese academic research paper that concludes that happiness is maximized at 13.9 °C.
 
 ![]({{site.baseurl}}/imgs/the-happiness-house/the-happiness-house_0143.jpg)
 

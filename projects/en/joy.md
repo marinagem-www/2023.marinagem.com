@@ -1,6 +1,6 @@
 ---
 ptitle: Joy
-category: sun
+category: minerals
 year: '2017'
 medium: Acrylic, crystals and sticker
 dimensions: 22.5 x 22.5 cm each
