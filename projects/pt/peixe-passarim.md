@@ -10,13 +10,14 @@ Em uma viagem à Floresta Amazônica durante uma das maiores enchentes, naveguei
 
 De maneira a transpor parte desta experiência para o contexto urbano, nasceu Peixe Passarim. Ao subir, a plataforma mecânica pantográfica faz alusão a um grande rabo de peixe, permitindo que o público descubra as camadas da Mata Atlântica, tornando-se um quase pássaro. Ao olhar para o outro lado, os espectadores têm uma outra perspetiva do parque Augusta, este espaço público conquistado por meio de diversas mobilizações e lutas populares, de extrema importância social e ambiental para a cidade de São Paulo. 
 
-{:.vertical}
 ![]({{site.baseurl}}/imgs/peixe-passarim/peixe-passarim_01.jpg)
 
 {:.vertical}
 ![]({{site.baseurl}}/imgs/peixe-passarim/peixe-passarim_02.jpg)
 
 ![]({{site.baseurl}}/imgs/peixe-passarim/peixe-passarim_03.jpg)
+
+{% include vimeo.html id="948544535" %}
 
 ![]({{site.baseurl}}/imgs/peixe-passarim/peixe-passarim_04.jpg)
 

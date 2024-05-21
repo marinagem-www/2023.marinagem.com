@@ -10,13 +10,14 @@ On a trip to the Amazon Forest during one of the biggest floods, I navigated the
 
 Combining this experience with the Parque Augusta in São Paulo - this very important green public space conquered through various mobilizations and popular struggles - the rise of the mechanical platform resembles a big fish tail, allowing the public to discover the layers of the Mata Atlântica, becoming birds themselves. At the same time, the spectators can have a different perspective of the park and its social and environmental importance for the city. 
 
-{:.vertical}
 ![]({{site.baseurl}}/imgs/peixe-passarim/peixe-passarim_01.jpg)
 
 {:.vertical}
 ![]({{site.baseurl}}/imgs/peixe-passarim/peixe-passarim_02.jpg)
 
 ![]({{site.baseurl}}/imgs/peixe-passarim/peixe-passarim_03.jpg)
+
+{% include vimeo.html id="948544535" %}
 
 ![]({{site.baseurl}}/imgs/peixe-passarim/peixe-passarim_04.jpg)
 
