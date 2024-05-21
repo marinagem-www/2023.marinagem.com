@@ -12,9 +12,6 @@ Combining this experience with the Parque Augusta in São Paulo - this very impo
 
 ![]({{site.baseurl}}/imgs/peixe-passarim/peixe-passarim_01.jpg)
 
-{:.vertical}
-![]({{site.baseurl}}/imgs/peixe-passarim/peixe-passarim_02.jpg)
-
 ![]({{site.baseurl}}/imgs/peixe-passarim/peixe-passarim_03.jpg)
 
 {% include vimeo.html id="948544535" %}

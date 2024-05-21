@@ -12,9 +12,6 @@ De maneira a transpor parte desta experiência para o contexto urbano, nasceu Pe
 
 ![]({{site.baseurl}}/imgs/peixe-passarim/peixe-passarim_01.jpg)
 
-{:.vertical}
-![]({{site.baseurl}}/imgs/peixe-passarim/peixe-passarim_02.jpg)
-
 ![]({{site.baseurl}}/imgs/peixe-passarim/peixe-passarim_03.jpg)
 
 {% include vimeo.html id="948544535" %}
