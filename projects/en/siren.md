@@ -13,6 +13,17 @@ Developed during an immersion in the Yucatan jungle in Mexico, the work combines
 
 A total of 4 sound sculptures are placed at different heights throughout the museum at [SFER_IK](https://www.sferik.art/) Museion, UhMay, México.  
 
-AI collaborator: [Thiago Hersan](https://thiagohersan.com/) 
-Ceramics collaborators: Alejandro Navarro, Bryan Jimenez, Daniela Navarrete, Diana Alvarado, Eliot Rodríguez, Estefanía Mejía, Jesus Palacios, Lizbeth Olvera, Rosa Tinoco, Tania Marina Acevedo. 
+AI collaborator: [Thiago Hersan](https://thiagohersan.com/) | Ceramics collaborators: Alejandro Navarro, Bryan Jimenez, Daniela Navarrete, Diana Alvarado, Eliot Rodríguez, Estefanía Mejía, Jesus Palacios, Lizbeth Olvera, Rosa Tinoco, Tania Marina Acevedo.
+
+![]({{site.baseurl}}/imgs/siren/siren_02.jpg)
+
+![]({{site.baseurl}}/imgs/siren/siren_03.jpg)
+
+![]({{site.baseurl}}/imgs/siren/siren_04.jpg)
+
+![]({{site.baseurl}}/imgs/siren/siren_05.jpg)
+_Detail of one of the 4 pieces._
+
+![]({{site.baseurl}}/imgs/siren/siren_06.jpg)
+_Drawing process with the team._
 
