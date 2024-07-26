@@ -2,8 +2,8 @@
 published: 'true'
 ptitle: Siren
 year: '2024'
-dimensions: Variable dimensions.
-medium: 'Sound installation, 4 audio channels generated with AI, ceramics and speakers.'
+dimensions: Variable dimensions
+medium: 'Sound installation, 4 audio channels generated with AI, ceramics and speakers'
 category: forest
 ---
 In coautorship with [Leandro Lima](https://aagua.net/). Siren evokes the songs of extinct birds from South America with the help of artificial intelligence and makes them sound in speakers shaped like nests distributed in the exhibition space.
