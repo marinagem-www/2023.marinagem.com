@@ -101,11 +101,6 @@ prose:
           element: "text"
           label: "Project Title"
           placeholder: "Great Project"
-      - name: "description"
-        field:
-          element: "text"
-          label: "Project Description"
-          placeholder: "Site-specific installation"
       - name: "medium"
         field:
           element: "text"
