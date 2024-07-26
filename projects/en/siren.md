@@ -11,7 +11,7 @@ In coautorship with [Leandro Lima](https://aagua.net/). Siren evokes the songs o
 
 Developed during an immersion in the Yucatan jungle in Mexico, the work combines 3D-printed ceramics with handcrafting, and mixes the songs of extinct birds from Brazil with the sounds of certain species living in the area. 
 
-A total of 4 sound sculptures are placed at different heights throughout the museum at [SFER_IK](https://www.sferik.art/) Museion, UhMay, México.  
+A total of 4 sound sculptures are placed at different heights throughout the museum at [SFER IK](https://www.sferik.art/) Museion, UhMay, México.  
 
 AI collaborator: [Thiago Hersan](https://thiagohersan.com/) \| Ceramics collaborators: Alejandro Navarro, Bryan Jimenez, Daniela Navarrete, Diana Alvarado, Eliot Rodríguez, Estefanía Mejía, Jesus Palacios, Lizbeth Olvera, Rosa Tinoco, Tania Marina Acevedo.
 
