@@ -1,5 +1,13 @@
 ---
 published: 'true'
+ptitle: Siren
+medium: >-
+  Instalação sonora em 4 canais  gerado com inteligência artificial, cerâmica e
+  auto falantes
+dimensions: ' Dimensões variáveis'
+year: '2024'
+cover: imgs/siren/siren_01.jpg
+category: forest
 ---
 Co autoria com [Leandro Lima](https://aagua.net/). Siren resgata cantos de pássaros extintos da América do Sul com auxílio de inteligência artificial e os faz soar em caixas de som em formato de ninhos distribuídas no espaço expositivo.
 
