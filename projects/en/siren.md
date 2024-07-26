@@ -3,7 +3,7 @@ published: 'true'
 ptitle: Siren
 year: '2024'
 dimensions: Variable dimensions
-medium: 'Sound installation, 4 audio channels generated with AI, ceramics and speakers'
+medium: '4 channel sound installation generated with AI, ceramics and speakers'
 category: forest
 cover: imgs/siren/siren_01.jpg
 ---
@@ -27,5 +27,5 @@ AI collaborator: [Thiago Hersan](https://thiagohersan.com/) \| Ceramics collabor
 _Detail of one of the 4 pieces mixing 3D printed and handcrafed ceramics._
 
 ![]({{site.baseurl}}/imgs/siren/siren_07.jpg)
-_Drawing process with the team._
+_Process documentation._
 
