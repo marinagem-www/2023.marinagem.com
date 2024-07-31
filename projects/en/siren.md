@@ -7,7 +7,7 @@ medium: '4 channel sound installation generated with AI, ceramics and speakers'
 category: forest
 cover: imgs/siren/siren_01.jpg
 ---
-Co-creation with [Leandro Lima](https://aagua.net/). Siren evokes the songs of extinct birds from South America with the help of artificial intelligence and makes them sound in speakers shaped like nests distributed in the exhibition space.
+In collaboration with [Leandro Lima](https://aagua.net/). Siren evokes the songs of extinct birds from South America with the help of artificial intelligence and makes them sound in speakers shaped like nests distributed in the exhibition space.
 
 Developed during an immersion in the Yucatan jungle in Mexico, the work combines 3D-printed ceramics with handcrafting, and mixes the songs of extinct birds from Brazil with the sounds of certain species living in the area. 
 
