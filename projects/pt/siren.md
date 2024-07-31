@@ -9,7 +9,7 @@ year: '2024'
 cover: imgs/siren/siren_01.jpg
 category: forest
 ---
-Cocriação com [Leandro Lima](https://aagua.net/). Siren resgata cantos de pássaros extintos da América do Sul com auxílio de inteligência artificial e os faz soar em caixas de som em formato de ninhos distribuídas no espaço expositivo.
+Em colaboração com [Leandro Lima](https://aagua.net/). Siren resgata cantos de pássaros extintos da América do Sul com auxílio de inteligência artificial e os faz soar em caixas de som em formato de ninhos distribuídas no espaço expositivo.
 
 Desenvolvida durante uma residência na mata de Yucatán, no México, a obra mescla cerâmica impressa em 3D com trabalhos manuais, e mistura o canto de aves extintas do Brasil com o som de algumas espécies que vivem na região. 
 
