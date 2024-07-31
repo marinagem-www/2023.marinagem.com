@@ -7,7 +7,7 @@ year: '2021'
 category: minerals
 cover: imgs/infinitum/MUMI-003-2-Ouro.jpg
 ---
-Infinitum was developed during the ComCiência residency, from the Museum of Mines and Metals in Belo Horizonte, Brazil, in coauthorship with [Thiago Hersan](https://thiagohersan.com/){:target="_blank"}. Using archival images of the museum, this infinite scroll draws a link between our insatiable consumption of social media and the anthropocentric perspective which treats terrestrial resources as infinite.
+Infinitum was developed during the ComCiência residency, from the Museum of Mines and Metals in Belo Horizonte, Brazil, in collaboration with [Thiago Hersan](https://thiagohersan.com/){:target="_blank"}. Using archival images of the museum, this infinite scroll draws a link between our insatiable consumption of social media and the anthropocentric perspective which treats terrestrial resources as infinite.
 
 [Access it here.](https://infinitum.marinagem.com/){:target="_blank"}
 
