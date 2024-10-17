@@ -1,5 +1,11 @@
 ---
 published: 'true'
+ptitle: Nesting
+medium: Mixed media
+dimensions: Variable Dimensions
+year: '2024'
+category: forest
+cover: ' imgs/nesting/nesting_00_WEB.jpg'
 ---
 Nesting is a series inspired by the different types of internal structures of birds' nests and their mechanisms for protecting eggs. 
 
