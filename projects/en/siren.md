@@ -23,6 +23,8 @@ AI collaborator: [Thiago Hersan](https://thiagohersan.com/) \| Ceramics collabor
 
 ![]({{site.baseurl}}/imgs/siren/siren_05.jpg)
 
+{% include vimeo.html id="1012142667" %}
+
 ![]({{site.baseurl}}/imgs/siren/siren_06.jpg)
 _Detail of one of the 4 pieces mixing 3D printed and handcrafed ceramics._
 
