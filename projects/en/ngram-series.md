@@ -1,7 +1,7 @@
 ---
 published: 'true'
 ptitle: Ngram Series
-medium: 'Acrylic, latex and enamel on canvas.'
+medium: 'Acrylic, latex and enamel on canvas'
 dimensions: 40x50cm
 year: '2024'
 category: minerals
