@@ -7,6 +7,8 @@ year: '2024'
 ---
 Made with industrial "rain sticks",  from time to time, the synchronized motors create a metallic acid rain in the gallery, a mechanized ritual devoid of meaning in a burning era.
 
+{% include vimeo.html id="1012044028" %}
+
 ![]({{site.baseurl}}/imgs/heatwave/heatwave_02_WEB.jpg)
 Detail of the industrial rain stick.
 
