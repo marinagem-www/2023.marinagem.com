@@ -12,6 +12,7 @@ Made with industrial "rain sticks",  from time to time, the synchronized motors 
 ![]({{site.baseurl}}/imgs/heatwave/heatwave_02_WEB.jpg)
 Detail of the industrial rain stick.
 
+{:.vertical}
 ![]({{site.baseurl}}/imgs/heatwave/heatwave_03_WEB.jpg)
 
 ![]({{site.baseurl}}/imgs/heatwave/heatwave_04_WEB.jpg)
