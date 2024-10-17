@@ -31,3 +31,7 @@ mineral, dark, water
 
 ![]({{site.baseurl}}/imgs/ngram-series/ngram_SmartDieLight_WEB.jpg)
 smart, die, light
+
+![]({{site.baseurl}}/imgs/ngram-series/ngram_RainHeatDeathHotEarthEnd_INSTALLVIEW_WEB.jpg)
+rain, heat, death and hot, earth, end at the solo show Calorcito, at Galeria Lume, in São Paulo, Brazil. 
+
