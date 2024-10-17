@@ -32,6 +32,7 @@ Installation view during dusk at the solo show Calorcito, at Galeria Lume, São 
 
 {:.vertical}
 ![]({{site.baseurl}}/imgs/nesting/estrategias_B_02_WEB.jpg)
+Protection Policies II, 2024
 
 {:.vertical}
 ![]({{site.baseurl}}/imgs/nesting/estrategias_B_03_WEB.jpg)
