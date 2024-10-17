@@ -5,7 +5,7 @@ medium: Mixed media
 dimensions: Variable Dimensions
 year: '2024'
 category: forest
-cover: imgs/nesting/nesting_00_WEB.jpg
+cover: imgs/nesting/nesting_00_horizontal_WEB.jpg
 ---
 Nesting is a series inspired by the different types of internal structures of birds' nests and their mechanisms for protecting eggs. 
 
@@ -37,5 +37,5 @@ Protection Policies II, 2024
 {:.vertical}
 ![]({{site.baseurl}}/imgs/nesting/estrategias_B_02_WEB.jpg)
 
-![]({{site.baseurl}}/imgs/nesting/nesting_00_WEB.jpg)
+![]({{site.baseurl}}/imgs/nesting/nesting_00_horizontal_WEB.jpg)
 Nesting, 2024. Ceramics, branch, paint, dried plant, stones, and acrylics. Variable dimensions.
