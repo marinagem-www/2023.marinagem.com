@@ -4,7 +4,7 @@ template: info
 permalink: /about/
 ---
 {% capture bio %}
-Mari Nagem (b.1984, Belo Horizonte, Brazil) is a multidisciplinary artist conceptually driven by the perception of digital culture and its relation to nature. Navigating various media, using luminous colors and sharpened edges, she creates works that enlighten our perception of critical aspects of the information age, such as the artificiality of landscapes, data subjectivity, and the capitalist race for happiness. With wit, and combining appealing titles, she raises existential questions while trying to bring sensibility to our relationship with and through machines.
+Mari Nagem is a Brazilian-born interdisciplinary artist conceptually driven by the perception of digital culture and its relation to nature. Navigating various media, using luminous colors and sharpened edges, she creates works that enlighten our perception of critical aspects of the information age, such as the artificiality of landscapes, data subjectivity, and the capitalist race for happiness. With wit, and combining appealing titles, she raises existential questions while trying to bring sensibility to our relationship with and through machines.
 {% endcapture %}
 
 {% capture statement %}
