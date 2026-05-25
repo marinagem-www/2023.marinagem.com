@@ -1,6 +1,5 @@
 ---
-published: 'true'
-ptitle: Heatwave
+ptitle: Onda de Calor
 medium: Instalação sonora em técnicas mistas
 dimensions: Dimensões variáveis
 year: '2024'

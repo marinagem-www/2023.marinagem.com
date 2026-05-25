@@ -1,5 +1,4 @@
 ---
-published: 'true'
 ptitle: Nesting
 medium: Técnicas mistas
 dimensions: Dimensões variáveis
@@ -19,7 +18,7 @@ Por meio da justaposição de perspectivas macro e micro e da transição da pin
 
 {:.vertical}
 ![]({{site.baseurl}}/imgs/nesting/estrategias_A_03_WEB.jpg)
-Protection Policies I, 2024. Pintura acrílica (100 x 150 cm), cerâmica com ímã e esmalte (10 x 10 x 10 cm) sobre base alongada de argila (120 cm).
+Estratégias de proteção I, 2024. Pintura acrílica (100 x 150 cm), cerâmica com ímã e esmalte (10 x 10 x 10 cm) sobre base alongada de argila (120 cm).
 
 {:.vertical}
 ![]({{site.baseurl}}/imgs/nesting/estrategias_A_02_WEB.jpg)
@@ -32,7 +31,7 @@ _Vista da instalação na Galeria Lume, durante a exposição individual *Calorc
 
 {:.vertical}
 ![]({{site.baseurl}}/imgs/nesting/estrategias_B_03_WEB.jpg)
-Protection Policies II, 2024
+Estratégias de proteção II, 2024
 
 {:.vertical}
 ![]({{site.baseurl}}/imgs/nesting/estrategias_B_02_WEB.jpg)

@@ -1,5 +1,4 @@
 ---
-published: 'true'
 ptitle: Sunset
 medium: Painted wall and LED neon
 dimensions: Variable dimensions
@@ -21,4 +20,3 @@ In Sunset (RED), the geometries create a sunset and its reflections on the water
 
 ![]({{site.baseurl}}/imgs/sunset-poente/sunset_04_WEB.jpg)
 _Installation view at Galeria Lume, part of the solo show Calorcito, in São Paulo, Brazil._
-
