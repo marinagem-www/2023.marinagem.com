@@ -1,5 +1,5 @@
 ---
-ptitle: Música Atonal
+project_title: Música Atonal
 medium: Instalação com descargas de banheiro e circuito elétrico sonoro
 dimensions: Dimensões variadas
 year: '2008'

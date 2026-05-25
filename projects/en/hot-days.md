@@ -1,5 +1,5 @@
 ---
-ptitle: Hot Days
+project_title: Hot Days
 medium: 'Installation with video, color, sound'
 dimensions: '4:03 minutes'
 year: '2014'

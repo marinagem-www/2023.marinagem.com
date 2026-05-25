@@ -1,5 +1,5 @@
 ---
-ptitle: Bird Fish
+project_title: Bird Fish
 medium: 'Pantographic platform for public interaction'
 dimensions: Variable dimensions
 year: '2024'

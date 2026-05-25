@@ -1,5 +1,5 @@
 ---
-ptitle: Cordiais
+project_title: Cordiais
 medium: 'Interactive website, archival images, data-paintings, facial emotion recognition technology and custom software'
 dimensions: Variable dimensions
 year: '2021'

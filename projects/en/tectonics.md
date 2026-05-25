@@ -1,5 +1,5 @@
 ---
-ptitle: Tectonics
+project_title: Tectonics
 medium: Inkjet print on cotton paper
 dimensions: '58 x 76 cm / 58 x 72 cm'
 year: '2015'

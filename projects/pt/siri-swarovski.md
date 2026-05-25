@@ -1,5 +1,5 @@
 ---
-ptitle: Siri Swarovski
+project_title: Siri Swarovski
 medium: Instalação com áudio, acrílico espelhado, fone e strass
 dimensions: 3:15 minutos e 3 x 25 cm
 year: '2017'

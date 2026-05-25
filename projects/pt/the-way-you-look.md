@@ -1,5 +1,5 @@
 ---
-ptitle: Maneira de Olhar
+project_title: Maneira de Olhar
 medium: 'Vídeo em 2 canais, cor, som'
 dimensions: '3:05 minutos'
 year: '2009'

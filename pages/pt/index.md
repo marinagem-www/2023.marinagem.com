@@ -1,5 +1,5 @@
 ---
-ptitle: Mari Nagem
+page_title: Mari Nagem
 template: home
 permalink: /pt/
 ---

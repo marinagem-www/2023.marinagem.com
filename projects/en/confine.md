@@ -1,5 +1,5 @@
 ---
-ptitle: Confine
+project_title: Confine
 medium: 'Video, color, sound'
 dimensions: '1:01 minutes'
 year: '2006'

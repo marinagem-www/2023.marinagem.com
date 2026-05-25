@@ -1,5 +1,5 @@
 ---
-ptitle: Siri Swarovski
+project_title: Siri Swarovski
 medium: Audio, adorned headphones, acrylic and crystals
 dimensions: 3:15 minutes and 3 x 25 cm
 year: '2017'

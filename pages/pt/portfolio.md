@@ -1,5 +1,5 @@
 ---
 page_title: Portfolio
 template: portfolio
-permalink: /portfolio/
+permalink: /pt/portfolio/
 ---

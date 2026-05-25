@@ -1,5 +1,5 @@
 ---
-ptitle: Sunset
+project_title: Sunset
 medium: Painted wall and LED neon
 dimensions: Variable dimensions
 year: '2024'

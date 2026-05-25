@@ -1,5 +1,5 @@
 ---
-ptitle: Reverse
+project_title: Reverse
 category: minerals
 year: '2014'
 medium: Video, color, sound

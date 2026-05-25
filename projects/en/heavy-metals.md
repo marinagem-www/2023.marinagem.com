@@ -1,5 +1,5 @@
 ---
-ptitle: Heavy Metals
+project_title: Heavy Metals
 category: water
 year: '2014'
 medium: Multimedia installation with 140 plastic bags, pins and water

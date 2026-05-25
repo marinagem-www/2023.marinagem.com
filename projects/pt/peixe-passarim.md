@@ -1,5 +1,5 @@
 ---
-ptitle: Peixe Passarim
+project_title: Peixe Passarim
 medium: 'Plataforma pantográfica para uso público'
 dimensions: Dimensões Variáveis
 year: '2024'

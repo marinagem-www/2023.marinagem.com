@@ -1,5 +1,5 @@
 ---
-ptitle: Quando é Amanhã?
+project_title: Quando é Amanhã?
 medium: 'Vídeo em 4 canais, cor, som'
 dimensions: Dimensões variadas
 year: '2010'

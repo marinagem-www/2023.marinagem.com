@@ -1,5 +1,5 @@
 ---
-ptitle: Direito à Sombra
+project_title: Direito à Sombra
 category: sun
 year: '2026'
 medium: 'Website interativo, análises de dados, experimentos com IA e software personalizado.'

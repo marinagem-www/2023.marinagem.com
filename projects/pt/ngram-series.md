@@ -1,5 +1,5 @@
 ---
-ptitle: Ngram (série)
+project_title: Ngram (série)
 medium: 'Tinta acrílica, látex e esmalte sobre tela'
 dimensions: '40 x 50cm'
 year: '2024'

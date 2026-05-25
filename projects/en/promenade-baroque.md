@@ -1,5 +1,5 @@
 ---
-ptitle: Promenade Baroque Berlin
+project_title: Promenade Baroque Berlin
 medium: 'Installation for live orchestra with video, color, no sound'
 dimensions: Variable dimensions and duration
 year: '2011'

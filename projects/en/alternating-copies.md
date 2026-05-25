@@ -1,5 +1,5 @@
 ---
-ptitle: Alternating Copies
+project_title: Alternating Copies
 medium: 'Site-specific public installation with 4 monitors, video, color, no sound'
 dimensions: Variable dimensions
 year: '2011'

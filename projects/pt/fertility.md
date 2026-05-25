@@ -1,5 +1,5 @@
 ---
-ptitle: Departamento Fértil
+project_title: Departamento Fértil
 category: forest
 year: '2013'
 medium: 'Instalação site-specific com galhos pintados'

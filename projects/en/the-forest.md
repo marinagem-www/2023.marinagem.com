@@ -1,6 +1,6 @@
 ---
 year: '2022'
-ptitle: The Forest
+project_title: The Forest
 medium: Site-specific installation with green chroma key painted wall with a hole to the outside and light reflectors
 dimensions: Variable dimensions
 category: forest

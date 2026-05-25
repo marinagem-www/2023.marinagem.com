@@ -1,6 +1,6 @@
 ---
 year: '2022'
-ptitle: A Floresta
+project_title: A Floresta
 medium: Instalação site-specific com parede pintada, recorte e refletores
 dimensions: Dimensões variáveis
 category: forest

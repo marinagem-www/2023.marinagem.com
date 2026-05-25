@@ -1,5 +1,5 @@
 ---
-ptitle: Google Trips
+project_title: Google Trips
 medium: Multimedia installation with lenticular print, inkjet on canvas, audio, engraved metal and objects
 dimensions: Variable dimensions
 year: '2017'

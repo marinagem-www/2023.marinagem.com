@@ -1,5 +1,5 @@
 ---
-ptitle: Banho de Sol
+project_title: Banho de Sol
 category: sun
 year: '2021'
 medium: Instalação com colchão, lençol, tinta, casca de laranja e acrílico sobre tela

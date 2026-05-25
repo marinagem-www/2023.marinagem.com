@@ -1,5 +1,5 @@
 ---
-ptitle: Brazil is Good
+project_title: Brazil is Good
 medium: Digital prints
 dimensions: 10 x 15 cm each
 year: '2015'

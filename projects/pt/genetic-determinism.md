@@ -1,5 +1,5 @@
 ---
-ptitle: Determinismo Genético
+project_title: Determinismo Genético
 medium: 'Vídeo, cor, som'
 dimensions: '0:47 minutos'
 year: '2015'

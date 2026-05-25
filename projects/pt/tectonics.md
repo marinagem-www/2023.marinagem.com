@@ -1,5 +1,5 @@
 ---
-ptitle: Tectônicas
+project_title: Tectônicas
 medium: Impressão jato de tinta sobre papel algodão
 dimensions: '58 x 76 cm / 58 x 72 cm'
 year: '2015'

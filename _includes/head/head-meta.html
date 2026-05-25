@@ -1,27 +1,47 @@
+{% if page.project_title %}
+  {% assign head_title = page.project_title %}
+{% elsif page.page_title %}
+  {% assign head_title = page.page_title %}
+{% else %}
+  {% assign head_title = site.title %}
+{% endif %}
+
+{% assign head_description = page.content | strip_html | strip_newlines %}
+{% assign head_description = head_description | remove: "% include " | remove: "list.html %" | remove: "archive/content.html %" %}
+{% assign head_description = head_description | remove: "% capture bio %" | remove: "{}" %}
+
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@{{site.social.twitter_user}}">
-<meta name="twitter:title" content="{{page.ptitle}}">
+<meta name="twitter:title" content="{{ head_title }}">
 <meta name="twitter:creator" content="@{{site.social.twitter_user}}">
 
-<meta property="og:title" content="{{page.ptitle}}">
+<meta property="og:title" content="{{ head_title }}">
 <meta property="og:type" content="article">
 <meta property="og:url" content="{{page.url | absolute_url }}">
 <meta property="og:site_name" content="{{site.title}}">
 <meta property="article:publisher" content="{{site.social.facebook_user}}">
 
-{% assign description = page.content | strip_html | strip_newlines | truncatewords:8 %}
-
-{% unless description.size > 0 %}
-  {% assign description = site.data.about.description[page.lang] %}
-{% endunless %}
-<meta name="twitter:description" content="{{ description }}">
-<meta property="og:description" content="{{ description }}">
+{% assign page_description = head_description | truncatewords:25 %}
+{% if page_description.size < 1 %}
+  {% assign page_description = site.data.about.description[page.lang] %}
+{% endif %}
 
 {% assign page_cover = "imgs/covers/cover-1024.jpg" | absolute_url %}
-
 {% if page.cover %}
   {% assign page_cover = page.cover | absolute_url %}
 {% endif %}
 
+{% assign page_title = site.title | append: " | " | append: head_title %}
+{% if site.title == head_title %}
+  {% assign page_title = site.title %}
+{% endif %}
+
+<meta name="twitter:description" content="{{ page_description | truncatewords:8 }}">
+<meta property="og:description" content="{{ page_description | truncatewords:8 }}">
+
 <meta name="twitter:image" content="{{ page_cover }}">
 <meta property="og:image" content="{{ page_cover }}">
+
+<meta name="description" content="{{ page_description }}">
+<meta name="title" content="{{ page_title }}">
+<title>{{ page_title }}</title>

@@ -1,6 +1,6 @@
 ---
 year: '2022'
-ptitle: Theory of Evolution
+project_title: Theory of Evolution
 medium: 'Installation with dracaena trifasciata, luminous tube, metal casting, automotive paint and earth'
 dimensions: Variable dimensions
 category: forest

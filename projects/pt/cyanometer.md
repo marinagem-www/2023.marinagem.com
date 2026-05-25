@@ -1,5 +1,5 @@
 ---
-ptitle: Cyanometer
+project_title: Cyanometer
 medium: Instalação com vídeo e impressão digital
 dimensions: '2:45 minutos'
 year: '2016'

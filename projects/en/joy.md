@@ -1,5 +1,5 @@
 ---
-ptitle: Joy
+project_title: Joy
 category: minerals
 year: '2017'
 medium: Acrylic, crystals and sticker

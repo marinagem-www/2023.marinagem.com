@@ -1,6 +1,6 @@
 ---
 year: '2022'
-ptitle: Focus Deviation
+project_title: Focus Deviation
 medium: 'Paper and chlorophyll'
 dimensions: 16 x 16 cm each
 category: forest

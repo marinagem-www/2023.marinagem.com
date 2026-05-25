@@ -1,6 +1,5 @@
 ---
-published: 'true'
-ptitle: Ngram Series
+project_title: Ngram Series
 medium: 'Acrylic, latex and enamel on canvas'
 dimensions: 40x50cm
 year: '2024'

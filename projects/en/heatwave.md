@@ -1,6 +1,5 @@
 ---
-published: 'true'
-ptitle: Heatwave
+project_title: Heatwave
 medium: Mixed media sound installation
 dimensions: Variable Dimensions
 year: '2024'

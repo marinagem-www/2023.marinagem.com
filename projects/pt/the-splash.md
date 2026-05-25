@@ -1,5 +1,5 @@
 ---
-ptitle: El Chapuzón
+project_title: El Chapuzón
 category: water
 year: '2020 - 2021'
 medium: 'Concreto, madeira, pintura acrílica e refletor'

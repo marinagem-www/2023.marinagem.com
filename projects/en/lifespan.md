@@ -1,5 +1,5 @@
 ---
-ptitle: Lifespan
+project_title: Lifespan
 medium: 'Installation with tube TV, magnets and broken televisions'
 dimensions: '3:38 minutes'
 year: '2012'

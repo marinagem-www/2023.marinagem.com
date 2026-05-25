@@ -1,5 +1,5 @@
 ---
-ptitle: O Brasil é Bom
+project_title: O Brasil é Bom
 medium: Impressões digitais
 dimensions: 10 x 15 cm cada
 year: '2015'

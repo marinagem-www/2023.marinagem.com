@@ -1,6 +1,5 @@
 ---
-published: 'true'
-ptitle: Siren
+project_title: Siren
 year: '2024'
 dimensions: Variable dimensions
 medium: '4 channel sound installation generated with AI, ceramics and speakers'

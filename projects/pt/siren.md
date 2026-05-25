@@ -1,10 +1,7 @@
 ---
-published: 'true'
-ptitle: Siren
-medium: >-
-  Instalação sonora em 4 canais  gerado com inteligência artificial, cerâmica e
-  auto falantes
-dimensions: ' Dimensões variáveis'
+project_title: Siren
+medium: 'Instalação sonora em 4 canais gerada com inteligência artificial, cerâmica e auto falantes'
+dimensions: 'Dimensões variáveis'
 year: '2024'
 cover: imgs/siren/siren_01.jpg
 category: forest

@@ -1,6 +1,6 @@
 ---
 year: '2018'
-ptitle: The Grass is Always Greener
+project_title: The Grass is Always Greener
 medium: Instalação site-specific com vinil semi-transparente
 dimensions: Dimensões variadas
 category: forest

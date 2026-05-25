@@ -1,5 +1,5 @@
 ---
-ptitle: First Impressions on the Earth
+project_title: First Impressions on the Earth
 medium: '4-channel video, color, sound'
 dimensions: Variable dimensions
 year: '2013'

@@ -1,5 +1,5 @@
 ---
-ptitle: Cordiais
+project_title: Cordiais
 medium: 'Website, imagens de arquivo, tecnologia de reconhecimento de emoções faciais, software personalizado e mídia mista'
 dimensions: Dimensões Variáveis
 year: '2021'

@@ -1,5 +1,5 @@
 ---
-ptitle: The Right To Shade
+project_title: The Right To Shade
 category: sun
 year: '2026'
 medium: 'Interactive website, data analyses, AI experiments, and custom software'

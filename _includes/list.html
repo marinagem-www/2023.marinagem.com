@@ -10,7 +10,7 @@
       <div class="list-project-link-wrapper">
         <a class="list-project-link" href="{{ p.url | relative_url }}" style="background-image: url('{{ p.cover | relative_url }}');">
           <div class="list-project-link-text">
-            {{ p.ptitle | split: " | " | first }}
+            {{ p.project_title | split: " | " | first }}
           </div>
         </a>
       </div>
@@ -29,7 +29,7 @@
       <div class="list-project-link-wrapper with-top-margin">
         <a class="list-project-link" href="{{ p.url | relative_url }}" style="background-image: url('{{ p.cover | relative_url }}');">
           <div class="list-project-link-text">
-            {{ p.ptitle | split: " | " | first }}
+            {{ p.project_title | split: " | " | first }}
           </div>
         </a>
       </div>

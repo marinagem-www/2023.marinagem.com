@@ -1,5 +1,5 @@
 ---
-ptitle: Hiatus
+project_title: Hiatus
 medium: Installation with painted stones
 dimensions: Variable dimensions
 year: '2016'

@@ -1,5 +1,5 @@
 ---
-ptitle: The Splash
+project_title: The Splash
 category: water
 year: 2020 - 2021
 medium: 'Installation with concrete, wood, acrylic paint and light'

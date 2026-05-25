@@ -1,5 +1,5 @@
 ---
-ptitle: Actions to Relate to Oneself
+project_title: Actions to Relate to Oneself
 dimensions: 59 x 42 cm each
 medium: Inkjet on paper
 year: '2017'

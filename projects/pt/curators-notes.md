@@ -1,5 +1,5 @@
 ---
-ptitle: Notas do Curador
+project_title: Notas do Curador
 medium: Desenho digital e software customizado
 dimensions: 3568 x 2008 px
 year: '2020'

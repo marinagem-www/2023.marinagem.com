@@ -1,6 +1,5 @@
 ---
-published: 'true'
-ptitle: Nesting
+project_title: Nesting
 medium: Mixed media
 dimensions: Variable Dimensions
 year: '2024'

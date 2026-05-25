@@ -1,5 +1,5 @@
 ---
-ptitle: Arquiteturas do Inatingível
+project_title: Arquiteturas do Inatingível
 category: sun
 year: '2020 - 2021'
 medium: 'Acrílica sobre tela'

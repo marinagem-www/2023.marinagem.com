@@ -96,7 +96,7 @@ prose:
         field:
           element: "hidden"
           value: "true"
-      - name: "ptitle"
+      - name: "project_title"
         field:
           element: "text"
           label: "Project Title"

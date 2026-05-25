@@ -1,5 +1,5 @@
 ---
-ptitle: Impressões da Terra
+project_title: Impressões da Terra
 medium: 'Vídeo em 4 canais, cor, som'
 dimensions: Dimensões variadas
 year: '2013'

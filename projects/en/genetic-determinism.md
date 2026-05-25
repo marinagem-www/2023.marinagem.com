@@ -1,5 +1,5 @@
 ---
-ptitle: Genetic Determinism
+project_title: Genetic Determinism
 medium: 'Video, color, sound'
 dimensions: '0:47 minutes'
 year: '2015'

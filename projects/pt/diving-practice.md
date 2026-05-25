@@ -1,5 +1,5 @@
 ---
-ptitle: Ensaio para o Mergulho
+project_title: Ensaio para o Mergulho
 category: water
 year: '2020 - 2021'
 medium: 'Acrílica sobre tela'

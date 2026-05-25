@@ -1,5 +1,5 @@
 ---
-ptitle: Metais Pesados
+project_title: Metais Pesados
 category: water
 year: '2014'
 medium: Instalação multimídia com 140 sacos plásticos, água, pregos

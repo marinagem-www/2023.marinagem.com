@@ -1,5 +1,5 @@
 ---
-ptitle: Google Trips
+project_title: Google Trips
 medium: Instalação multimídia com impressões, aúdio, objetos e placa de metal
 dimensions: Dimensões variadas
 year: '2017'

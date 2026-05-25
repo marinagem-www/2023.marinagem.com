@@ -1,5 +1,5 @@
 ---
-ptitle: Cópias Alternadas
+project_title: Cópias Alternadas
 medium: '4 monitores, vídeo, cor, sem sound'
 dimensions: Dimensões variadas
 year: '2011'

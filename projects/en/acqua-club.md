@@ -1,5 +1,5 @@
 ---
-ptitle: Acqua Club Eco Ski Resort Brazil
+project_title: Acqua Club Eco Ski Resort Brazil
 medium: Video, color, sound
 dimensions: '4:12 minutes'
 year: '2017'

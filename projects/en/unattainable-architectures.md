@@ -1,5 +1,5 @@
 ---
-ptitle: Architectures of the Unattainable
+project_title: Architectures of the Unattainable
 category: sun
 year: 2020 - 2021
 medium: 'Acrylic on canvas'

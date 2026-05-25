@@ -1,6 +1,5 @@
 ---
-published: 'true'
-ptitle: Infinitum
+project_title: Infinitum
 medium: 'Software customizado, imagens de arquivo e website interativo'
 dimensions: 1920 x ∞ pixels
 year: '2021'

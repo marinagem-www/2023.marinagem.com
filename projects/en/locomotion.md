@@ -1,5 +1,5 @@
 ---
-ptitle: The Locomotion
+project_title: The Locomotion
 medium: 'Site-specific installation with video, color, sound'
 dimensions: '1:10 minutes'
 year: '2012'

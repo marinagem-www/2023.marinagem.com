@@ -1,5 +1,5 @@
 ---
-ptitle: Spectros
+project_title: Spectros
 medium: Collage made with digital photography, paper and Cellophane
 dimensions: Variable Dimensions
 year: 2013 - 2015

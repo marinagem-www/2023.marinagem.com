@@ -1,5 +1,5 @@
 ---
-ptitle: Lacunas Fósseis
+project_title: Lacunas Fósseis
 medium: Instalação com pedras pintadas
 dimensions: Dimensões variadas
 year: '2016'

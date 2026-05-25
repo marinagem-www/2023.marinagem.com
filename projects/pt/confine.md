@@ -1,5 +1,5 @@
 ---
-ptitle: Sufoco
+project_title: Sufoco
 medium: 'Vídeo, cor, som'
 dimensions: '1:01 minutes'
 year: '2006'

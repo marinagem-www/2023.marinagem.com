@@ -1,5 +1,5 @@
 ---
-ptitle: Espectros
+project_title: Espectros
 medium: Colagem com fotografia digital, papel e celofane
 dimensions: Dimensões Variáveis
 year: 2013 - 2015

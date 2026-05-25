@@ -1,5 +1,5 @@
 ---
-ptitle: Contact
+page_title: Contact
 template: info
 permalink: /about/
 ---

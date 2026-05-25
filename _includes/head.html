@@ -22,18 +22,4 @@
 
   <link rel="icon" href="{{ 'imgs/favicons/favicon.ico' | relative_url }}" sizes="any">
   <link rel="icon" href="{{ 'imgs/favicons/favicon.svg' | relative_url }}" type="image/svg+xml">
-
-  {% assign meta_description = page.content | strip_html | strip_newlines | truncatewords: 25 %}
-
-  {% if meta_description.size < 10 %}
-    {% assign meta_description = site.data.about.description[page.lang] %}
-  {% endif %}
-  <meta name="description" content="{{ meta_description }}">
-
-  {% assign page_title = site.title | append: " | " | append: page.ptitle %}
-  {% if site.title == page.ptitle %}
-    {% assign page_title = site.title %}
-  {% endif %}
-  <meta name="title" content="{{ page_title }}">
-  <title>{{ page_title }}</title>
 </head>

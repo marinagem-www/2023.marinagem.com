@@ -1,5 +1,5 @@
 ---
-ptitle: A Locomoção
+project_title: A Locomoção
 medium: 'Instalação site-specific com vídeo, cor, som'
 dimensions: '1:10 minutos'
 year: '2012'

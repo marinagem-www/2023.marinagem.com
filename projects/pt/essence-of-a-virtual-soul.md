@@ -1,5 +1,5 @@
 ---
-ptitle: Essência de uma alma virtual
+project_title: Essência de uma alma virtual
 category: machines
 year: '2018'
 medium: Instalação com lâmpada, vinil, pintura

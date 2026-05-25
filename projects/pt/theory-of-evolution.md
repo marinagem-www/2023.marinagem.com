@@ -1,6 +1,6 @@
 ---
 year: '2022'
-ptitle: A Evolução das Espécies
+project_title: A Evolução das Espécies
 medium: Instalação com dracaena trifasciata, tubo luminoso, escultura em metal, pintura automotiva e terra
 dimensions: Dimensões variáveis
 category: forest

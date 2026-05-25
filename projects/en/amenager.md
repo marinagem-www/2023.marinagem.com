@@ -1,5 +1,5 @@
 ---
-ptitle: Aménager
+project_title: Aménager
 medium: 'Installation with video, color, no sound'
 dimensions: '7:47 minutes'
 year: '2011'

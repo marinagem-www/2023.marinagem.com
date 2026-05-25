@@ -1,5 +1,5 @@
 ---
-ptitle: Essence of a Virtual Soul
+project_title: Essence of a Virtual Soul
 category: machines
 year: '2018'
 medium: Installation with light tube, reflective coating and paint

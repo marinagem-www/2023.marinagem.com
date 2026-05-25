@@ -1,5 +1,5 @@
 ---
-ptitle: Felicidades
+project_title: Felicidades
 category: minerals
 year: '2017'
 medium: Molduras customizadas, acrílico, strass e adesivo

@@ -1,5 +1,5 @@
 ---
-ptitle: Diving Practice
+project_title: Diving Practice
 category: water
 year: 2020 - 2021
 medium: 'Acrylic on canvas'

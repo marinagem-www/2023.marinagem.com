@@ -1,5 +1,5 @@
 ---
-ptitle: The Way You Look
+project_title: The Way You Look
 medium: '2-channel video, color, sound'
 dimensions: '3:05 minutes'
 year: '2009'

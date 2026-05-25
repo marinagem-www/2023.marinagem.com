@@ -1,5 +1,5 @@
 ---
-ptitle: Arquivo
+page_title: Arquivo
 template: info
 permalink: /pt/archive/
 ---

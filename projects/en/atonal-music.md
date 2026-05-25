@@ -1,5 +1,5 @@
 ---
-ptitle: Atonal Music
+project_title: Atonal Music
 medium: Installation with toilets and custom circuits
 dimensions: Variable dimensions
 year: '2008'

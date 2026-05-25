@@ -1,5 +1,5 @@
 ---
-ptitle: When is tomorrow?
+project_title: When is tomorrow?
 medium: '4-channel video installation, color, sound'
 dimensions: Variable dimensions
 year: '2010'

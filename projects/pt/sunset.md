@@ -1,5 +1,5 @@
 ---
-ptitle: Pôr do Sol
+project_title: Pôr do Sol
 medium: Parede pintada e neon em LED
 dimensions: Dimensões variáveis
 year: '2024'

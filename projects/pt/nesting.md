@@ -1,5 +1,5 @@
 ---
-ptitle: Nesting
+project_title: Nesting
 medium: Técnicas mistas
 dimensions: Dimensões variáveis
 year: '2024'

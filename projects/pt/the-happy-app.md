@@ -1,5 +1,5 @@
 ---
-ptitle: The Happy App
+project_title: The Happy App
 dimensions: Duração 1:27
 medium: Software customizado, web app e video performance
 year: 2018 - 2021

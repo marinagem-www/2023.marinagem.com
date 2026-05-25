@@ -1,5 +1,5 @@
 ---
-ptitle: Avesso
+project_title: Avesso
 category: minerals
 year: '2014'
 medium: Vídeo, cor, som

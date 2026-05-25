@@ -1,5 +1,5 @@
 ---
-ptitle: Onda de Calor
+project_title: Onda de Calor
 medium: Instalação sonora em técnicas mistas
 dimensions: Dimensões variáveis
 year: '2024'

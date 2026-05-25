@@ -1,5 +1,5 @@
 ---
-ptitle: Vida útil
+project_title: Vida útil
 medium: 'Vídeo instalação com televisor de tubo, imãs, televisores quebrados'
 dimensions: '3:38 minut0s'
 year: '2012'

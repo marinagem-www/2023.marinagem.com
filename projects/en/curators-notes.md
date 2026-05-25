@@ -1,5 +1,5 @@
 ---
-ptitle: Curator's Notes
+project_title: Curator's Notes
 dimensions: 3568 x 2008 px
 medium: 'Custom software, digital drawings'
 year: '2020'
