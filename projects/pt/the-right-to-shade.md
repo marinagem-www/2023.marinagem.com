@@ -10,7 +10,7 @@ Direito à Sombra é um projeto interdisciplinar que investiga a sombra como um 
 
 Com múltiplos desdobramentos, o projeto criou uma geografia da sombra: uma publicação digital de código aberto que documenta e compartilha o processo de pesquisa por meio de softwares customizados, experimentos cartográficos e metodologias científicas elaboradas ao longo da investigação.
 
-Acesse a publicação [aqui](https://sombra.marinagem.com/).
+Acesse a publicação [aqui](https://sombra.marinagem.com/){:target="_blank"}.
 
 Com foco em Fortaleza, a cidade funciona como um estudo de caso, no qual metodologias e processos podem ser adaptados a diferentes contextos, investigando a sombra como uma forma de justiça.
 

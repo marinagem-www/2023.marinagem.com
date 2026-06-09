@@ -10,7 +10,7 @@ The Right to Shade (Direito à Sombra) is an interdisciplinary project that inve
 
 With many outcomes, it created a geography of shade: an open-source digital publication that documents and disseminates the research process of custom-built software, cartographic experiments, and scientific methodologies developed through the investigation.
 
-Access it [here](https://sombra.marinagem.com/).
+Access it [here](https://sombra.marinagem.com/){:target="_blank"}.
 
 Focused in Fortaleza, Brazil, the city functions as a test case, where methodologies and processes can be adapted to different contexts, investigating shade as a form of justice.
 
