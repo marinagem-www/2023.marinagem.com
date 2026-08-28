@@ -10,7 +10,7 @@ The Happy App é um aplicativo que dispara simultaneamente a cada minuto a câme
 
 Para a primeira exposição deste projeto, a artista passou 8 horas em frente ao computador realizando atividades corriqueiras (e-mail, Facebook, pagamento, compras, Netflix, Skype) e obteve o resultado das emoções durante aquele dia. Em 405 minutos online foi contabilizado 6% de felicidade. Atualmente, o app está em fase de desenvolvimento para ser usado pelo público em geral respeitando a privacidade dos usuários e as políticas de dados. (Série contínua). Em parceria com [Thiago Hersan](https://thiagohersan.com){:target="_blank"}.
 
-Se quiser ver o quanto seu computador pode te deixar feliz, baixe o aplicativo [aqui](https://thehappyapp.art/en/){:target="_blank"}.
+Se quiser ver o quanto seu computador pode te deixar feliz, baixe o aplicativo [aqui](https://happyapp.marinagem.com/pt/){:target="_blank"}.
 
 ![]({{site.baseurl}}/imgs/the-happy-app/the-happy-app-wall-0.jpg)
 
